@@ -1,38 +1,67 @@
-#logo-space {    
-    position: relative;
-    top: 120px;
-    left: 80px;
-    width: 600px;
-}
-#content {
-    position: absolute;
-    top: 256px;
-    left: 80px;
-    width: 600px;
-}
-#tanyuan-logo-yuan {
-    position: absolute;
-    top: 0;
-    z-index: -10;
+@media screen and (min-width: 600px) {
+    #logo-space {    
+        position: relative;
+        top: 120px;
+        left: 80px;
+        width: 600px;
+    }
+    #content {
+        position: absolute;
+        top: 256px;
+        left: 80px;
+        width: 600px;
+    }
+    #tanyuan-logo-yuan {
+        position: absolute;
+        top: 0;
+        z-index: -10;
+    }
+    ul.work-list li {
+        margin: .5em 0;
+    }
+    ul.work-list li a {
+        color: #333;
+    }
+    ul.work-list li a .work-name {
+        padding: 4px;
+    }
+    ul.work-list li a:hover .work-name {
+        background: #F2F26F;
+    }
+    ul.work-list li a .work-description {
+        display: none;
+        color: #F2F26F;
+        margin-left: 10px;
+    }
+    ul.work-list li a:hover .work-description {
+        display: inline;
+    }
 }
 
-ul.work-list li {
-    margin: .5em 0;
+@media screen and (max-width: 600px) {
+    #logo-space {    
+        margin: 50px 20px 0;
+    }
+    #content {
+        margin: 0 20px;
+    }
+    #tanyuan-logo-yuan img {
+        display: none;
+    }
+    ul.work-list li {
+        margin: .5em 0;
+    }
+    ul.work-list li a {
+        color: #333;
+    }
+    ul.work-list li a .work-name {
+        padding: 4px;
+        background: #F2F26F;
+    }
+    ul.work-list li a .work-description {
+        display: block;
+        color: #F2F26F;
+        margin-top: 10px;
+    }
 }
-ul.work-list li a {
-    color: #333;
-}
-ul.work-list li a .work-name {
-    padding: 4px;
-}
-ul.work-list li a:hover .work-name {
-    background: #F2F26F
-}
-ul.work-list li a .work-description {
-    display: none;
-    color: #F2F26F;
-    margin-left: 10px;
-}
-ul.work-list li a:hover .work-description {
-    display: inline;
-}
+
