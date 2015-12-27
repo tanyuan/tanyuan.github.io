@@ -5,6 +5,15 @@
         left: 80px;
         width: 600px;
     }
+    #content:hover #avatar {
+        opacity: 1; 
+    }
+    #content:hover .description-text {
+        opacity: .4 
+    }
+    .description-text {
+        opacity: 1; 
+    }
     #content {
         position: absolute;
         top: 256px;
@@ -15,6 +24,24 @@
         position: absolute;
         top: 0;
         z-index: -10;
+    }
+    #avatar {
+        position: absolute;
+        top: 24px;
+        right: 64px;
+        opacity: .4; 
+        z-index: -100;
+    }
+    #links {
+        margin-bottom: 24px;
+    }
+    #links a {
+        color: #556270;
+        border-bottom: 1px solid #ccc;
+    }
+    #links a:hover {
+        color: #333;
+        border-bottom: 1px solid #556270;
     }
     ul.work-list li {
         margin: .5em 0;
@@ -30,7 +57,7 @@
     }
     ul.work-list li a .work-description {
         display: none;
-        color: #F2F26F;
+        color: #666;
         margin-left: 10px;
     }
     ul.work-list li a:hover .work-description {
@@ -48,6 +75,17 @@
     #tanyuan-logo-yuan img {
         display: none;
     }
+    #links {
+        margin-bottom: 24px;
+    }
+    #links a {
+        color: #556270;
+        border-bottom: 1px solid #ccc;
+    }
+    #links a:hover {
+        color: #333;
+        border-bottom: 1px solid #556270;
+    }
     ul.work-list li {
         margin: .5em 0;
     }
@@ -60,7 +98,7 @@
     }
     ul.work-list li a .work-description {
         display: block;
-        color: #F2F26F;
+        color: #666;
         margin-top: 10px;
     }
 }
