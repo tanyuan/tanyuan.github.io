@@ -6,8 +6,8 @@
 </description>
     <link>http://tengshanyuan.com/</link>
     <atom:link href="http://tengshanyuan.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jul 2016 03:24:37 +0800</pubDate>
-    <lastBuildDate>Thu, 14 Jul 2016 03:24:37 +0800</lastBuildDate>
+    <pubDate>Thu, 14 Jul 2016 03:47:53 +0800</pubDate>
+    <lastBuildDate>Thu, 14 Jul 2016 03:47:53 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -194,6 +194,131 @@
         
         
         <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>NTU x Stanford Workshop: 自信來自於謙虛</title>
+        <description>&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_1.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_2.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_3.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_4.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_5.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_6.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_7.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_8.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_9.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_10.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_11.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_12.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_13.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/ntu-stanford-workshop/slides_14.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/ntu-stanford-workshop/slides.pdf&quot;&gt;下載投影片[PDF]&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 May 2015 21:30:00 +0800</pubDate>
+        <link>http://tengshanyuan.com/workshop/2015/05/24/stanford-workshop.html</link>
+        <guid isPermaLink="true">http://tengshanyuan.com/workshop/2015/05/24/stanford-workshop.html</guid>
+        
+        
+        <category>workshop</category>
         
       </item>
     

@@ -262,8 +262,7 @@ pre {
 .post-title {
   font-family: "Space Mono", monospace;
   font-size: 42px;
-  letter-spacing: -1px;
-  line-height: 1; }
+  line-height: 1.4; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
@@ -277,7 +276,6 @@ pre {
     margin-bottom: 28px; }
   .post-content h2 {
     font-size: 32px;
-    line-height: 42px;
     margin-top: 32px; }
     @media screen and (max-width: 800px) {
       .post-content h2 {

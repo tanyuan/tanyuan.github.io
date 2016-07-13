@@ -162,8 +162,7 @@
 .post-title {
     font-family: $title-font-family;
     font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+    line-height: 1.4;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -182,7 +181,6 @@
 
     h2 {
         font-size: 32px;
-        line-height: 42px;
         margin-top: 32px;
 
         @include media-query($on-laptop) {
