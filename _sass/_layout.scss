@@ -4,19 +4,25 @@
 .site-header {
     padding-top: 56px;
     min-height: 56px;
+    text-align: center;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
+    font-family: $title-font-family;
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
+    border-bottom: 1px solid $grey-color-light;
 
+    &:hover {
+        text-decoration: none; 
+    }
+    
     &,
     &:visited {
         color: $grey-color-dark;
@@ -24,7 +30,6 @@
 }
 
 .site-nav {
-    float: right;
     line-height: 56px;
 
     .menu-icon {
@@ -135,6 +140,7 @@
 }
 
 .footer-col-3 {
+    text-align: right;
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
@@ -170,6 +176,7 @@
 }
 
 .page-heading {
+    font-family: $title-font-family;
     font-size: 20px;
 }
 
@@ -202,6 +209,7 @@
 }
 
 .post-title {
+    font-family: $title-font-family;
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
