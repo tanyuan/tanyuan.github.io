@@ -3,7 +3,7 @@ var color;
 
 function setup() {
     createCanvas(600, 600);
-    img = loadImage("media/mythology-embed.png"); 
+    img = loadImage("assets/mythology-embed.png"); 
 }
 
 function draw() {

@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Space+Mono";
+@import "https://fonts.googleapis.com/css?family=Space+Mono:400,400i";
 /**
  * Reset some basic elements
  */
@@ -82,7 +82,7 @@ blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
-  font-size: 18px;
+  font-size: 20px;
   letter-spacing: -1px;
   font-style: italic; }
   blockquote > :last-child {
@@ -269,9 +269,13 @@ pre {
       font-size: 36px; } }
 
 .post-content {
+  font-family: "Space Mono", monospace;
+  font-size: 20px;
+  line-height: 32px;
   margin-bottom: 30px; }
   .post-content h2 {
-    font-size: 32px; }
+    font-size: 32px;
+    margin-top: 32px; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
         font-size: 28px; } }
@@ -285,6 +289,21 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+  .post-content hr {
+    margin: 60px 30%;
+    width: 40%;
+    border: none;
+    border-top: 1px dashed #e8e8e8;
+    background-color: #ffffff; }
+  .post-content iframe {
+    margin: 20px auto;
+    display: block; }
+  .post-content .image-wrapper {
+    text-align: center; }
+  .post-content .image-caption {
+    margin-top: 12px;
+    color: #828282;
+    font-size: 16px; }
 
 /* Home Page */
 .p5-embed {

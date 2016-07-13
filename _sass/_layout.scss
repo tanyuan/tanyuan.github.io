@@ -171,10 +171,14 @@
 }
 
 .post-content {
+    font-family:$title-font-family;
+    font-size: 20px;
+    line-height: 32px;
     margin-bottom: $spacing-unit;
 
     h2 {
         font-size: 32px;
+        margin-top: 32px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -196,4 +200,27 @@
             font-size: 18px;
         }
     }
+
+    hr {
+        margin: 60px 30%;
+        width: 40%;
+        border: none;
+        border-top: 1px dashed $grey-color-light;
+        background-color: #ffffff;
+    }
+
+    iframe {
+        margin: 20px auto;
+        display: block;
+    }
+
+    .image-wrapper {
+        text-align: center;
+    }
+    .image-caption {
+        margin-top: 12px;
+        color: $grey-color;
+        font-size: 16px;
+    }
+
 }
