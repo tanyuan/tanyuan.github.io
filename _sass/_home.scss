@@ -1,20 +1,36 @@
 /* Home Page */
 
+.p5-embed {
+    display: block;
+}
+.p5-mobile {
+    display: none;
+}
+
+@include media-query($on-palm) {
+    .p5-embed {
+        display: none;
+    }
+    .p5-mobile {
+        display: block;
+    }
+}
+
 .home {
     text-align: center;
-    }
+}
 
 .home p {
     margin-top: 32px;
     font-family: $title-font-family; 
     font-size: 20px;
     color: $grey-color;
-    }
+}
 
 .home div {
     color: $grey-color;
-    }
+}
 
 iframe {
     border: none;
-    } 
+} 

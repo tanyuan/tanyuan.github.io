@@ -287,6 +287,18 @@ pre {
         font-size: 18px; } }
 
 /* Home Page */
+.p5-embed {
+  display: block; }
+
+.p5-mobile {
+  display: none; }
+
+@media screen and (max-width: 600px) {
+  .p5-embed {
+    display: none; }
+
+  .p5-mobile {
+    display: block; } }
 .home {
   text-align: center; }
 
