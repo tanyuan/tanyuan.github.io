@@ -270,9 +270,11 @@ pre {
 
 .post-content {
   font-family: "Space Mono", monospace;
-  font-size: 20px;
-  line-height: 32px;
   margin-bottom: 30px; }
+  .post-content p {
+    font-size: 20px;
+    line-height: 32px;
+    margin-bottom: 28px; }
   .post-content h2 {
     font-size: 32px;
     line-height: 42px;
@@ -297,7 +299,8 @@ pre {
     border-top: 1px dashed #e8e8e8;
     background-color: #ffffff; }
   .post-content .image-wrapper {
-    text-align: center; }
+    text-align: center;
+    margin-bottom: 20px; }
   .post-content .image-caption {
     margin-top: 12px;
     color: #828282;

@@ -172,9 +172,13 @@
 
 .post-content {
     font-family:$title-font-family;
-    font-size: 20px;
-    line-height: 32px;
     margin-bottom: $spacing-unit;
+
+    p {
+        font-size: 20px;
+        line-height: 32px;
+        margin-bottom: 28px;
+    }
 
     h2 {
         font-size: 32px;
@@ -212,6 +216,7 @@
 
     .image-wrapper {
         text-align: center;
+        margin-bottom: 20px;
     }
     .image-caption {
         margin-top: 12px;
