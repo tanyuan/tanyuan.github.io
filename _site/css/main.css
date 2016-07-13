@@ -275,6 +275,7 @@ pre {
   margin-bottom: 30px; }
   .post-content h2 {
     font-size: 32px;
+    line-height: 42px;
     margin-top: 32px; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
