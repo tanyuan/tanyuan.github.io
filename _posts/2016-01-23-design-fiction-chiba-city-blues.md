@@ -5,7 +5,9 @@ date:   2016-01-23 21:30:00 +0800
 categories: design
 ---
 
-<iframe src="https://player.vimeo.com/video/151607495" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://player.vimeo.com/video/151607495" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 來說一下我們在台科大「[科幻互動設計](http://designfictions2013.blogspot.tw/)」這門課中創作的期末作品《千葉市藍調》吧。
 
@@ -15,11 +17,15 @@ categories: design
 
 先來看一下《攻殼》的場景，靈感自香港已拆除的九龍城寨：
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/WB-ik-Bpl0c" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/WB-ik-Bpl0c" frameborder="0" allowfullscreen></iframe>
+</div>
 
 《攻殼2》甚至融合台灣廟會的元素：
  
-<iframe width="640" height="360" src="https://www.youtube.com/embed/3IGTiFuDjTI" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/3IGTiFuDjTI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 為什麼科幻電影會取自如此傳統、髒亂，看起來一點也不先進的地方呢？正是因為這些地方非常混亂，龍蛇雜處，甚至無法可管的黑勢力範圍，才讓科技獲得更自由、更無顧道德的發展。
 人性還有很多面向，是科幻尚未捕捉到的，這些正是我們還可以想像的「另外一個世界」。
