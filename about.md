@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Shan-Yuan Teng. I am a master student working on Human-Computer Interaction.
+My name is Teng, Shan-Yuan. I am a master student working on Human-Computer Interaction.
 
 ## Experiences
 
