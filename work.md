@@ -4,6 +4,29 @@ title: Work
 permalink: /work/
 ---
 
-* [Give Me A Hand](http://givemeahandproject.tumblr.com/), 2015: Wearable Device
-* [神話 (Mythology)](http://tengshanyuan.com/mythology), 2014: Sound Installation
-* [八分之幾的乾燥空間 (The Umbrella Project)](http://tengshanyuan.com/umbrellaproject), 2013: Performance Art
+<ul class="work-list">
+
+{% include work.html
+           title="Electrical Muscle Stimulated Air Guitar, 2016"
+           description="Music Experience"
+           img="/work/emsairguitar-thumb.png" %}
+
+{% include work.html
+           title="Give Me A Hand, 2015"
+           description="Wearable Device"
+           img="/work/givemeahand-thumb.png"
+           url="http://givemeahandproject.tumblr.com/" %}
+
+{% include work.html
+           title="神話 (Mythology), 2014"
+           description="Sound Installation"
+           img="/work/mythology-thumb.jpg"
+           url="http://tengshanyuan.com/mythology" %}
+
+{% include work.html
+           title="八分之幾的乾燥空間 (The Umbrella Project), 2013"
+           description="Performance Art"
+           img="/work/umbrellaproject-thumb.jpg"
+           url="http://tengshanyuan.com/umbrellaproject" %}
+
+</ul>

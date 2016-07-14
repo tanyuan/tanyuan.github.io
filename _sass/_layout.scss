@@ -238,3 +238,13 @@
         height: 100%;
     }
 }
+
+.work-list li {
+    display: inline-block;
+    width: 256px;
+    margin: 32px;
+    vertical-align: top;
+}
+.work-list li img {
+    margin-bottom: 20px;
+}
