@@ -15,18 +15,18 @@ permalink: /work/
            title="Give Me A Hand, 2015"
            description="Wearable Device"
            img="/work/givemeahand-thumb.png"
-           url="http://givemeahandproject.tumblr.com/" %}
+           url="givemeahand" %}
 
 {% include work.html
            title="神話 (Mythology), 2014"
            description="Sound Installation"
            img="/work/mythology-thumb.jpg"
-           url="http://tengshanyuan.com/mythology" %}
+           url="mythology" %}
 
 {% include work.html
            title="八分之幾的乾燥空間 (The Umbrella Project), 2013"
            description="Performance Art"
            img="/work/umbrellaproject-thumb.jpg"
-           url="http://tengshanyuan.com/umbrellaproject" %}
+           url="umbrellaproject" %}
 
 </ul>
