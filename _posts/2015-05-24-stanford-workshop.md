@@ -3,6 +3,7 @@ layout: post
 title:  "NTU x Stanford Workshop: 自信來自於謙虛"
 date:   2015-05-24 21:30:00 +0800
 categories: workshop
+published: false
 ---
 
 {% include image.html

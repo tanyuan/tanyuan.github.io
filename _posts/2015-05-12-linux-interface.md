@@ -3,6 +3,7 @@ layout: post
 title:  "Linux 帶給我的人機介面小啟發"
 date:   2015-05-12 21:30:00 +0800
 categories: linux
+published: false
 ---
 
 2014年九月因為修了一門課「資料結構與程式設計」，開始接觸工程師愛用的 GNU/Linux 作業系統，還有難用出名的 Vim 文字編輯器，並在上面寫程式。
