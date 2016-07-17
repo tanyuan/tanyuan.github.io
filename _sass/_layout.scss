@@ -236,6 +236,17 @@
         width: 100%;
         height: 100%;
     }
+
+    table {
+        margin: 32px;
+    }
+
+    th, td {
+        color: $grey-color;
+        border-bottom: 1px solid $grey-color-light;
+        padding: 12px;
+        vertical-align: top;
+    }
 }
 
 .work-list li {

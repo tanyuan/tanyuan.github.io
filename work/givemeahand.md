@@ -3,12 +3,11 @@ layout: page
 title: Give Me A Hand, 2015
 permalink: /work/givemeahand/
 ---
+| Teng, Shan-Yuan | Hsiao, Chi-Wei | Weng, Shih-Hsuan |
 
 A programmable navigating bio-wear with intuitive gestures.  
 穿戴式方向引導手套
 
-> 台大電機系數位電路實驗期末專題  
-> Developed on Altera DE2-115 with Quartus II in Verilog
 
 {% include image.html
            img="illustration-1.png" %}
@@ -64,5 +63,7 @@ A programmable navigating bio-wear with intuitive gestures.
 
 ---
 
-[開發日誌 [Tumblr]](http://givemeahandproject.tumblr.com/)  
-[Source Code [GitHub]](http://github.com/tanyuan/givemeahand)
+| 背景<br>Background | 台大電機系數位電路實驗期末專題<br>Digital Circuits Lab Final Project at National Taiwan University Electrical Engineering |
+| 平台<br>Platform | Developed on Altera DE2-115 with Quartus II in Verilog |
+| 開發日誌<br>Development Blog | [Tumblr](http://givemeahandproject.tumblr.com/) |
+| 原始碼<br>Source Code | [GitHub](http://github.com/tanyuan/givemeahand) |
