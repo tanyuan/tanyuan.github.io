@@ -64,6 +64,6 @@ A programmable navigating bio-wear with intuitive gestures.
 ---
 
 | 背景<br>Background | 台大電機系數位電路實驗期末專題<br>Digital Circuits Lab Final Project at National Taiwan University Electrical Engineering |
-| 平台<br>Platform | Developed on Altera DE2-115 with Quartus II in Verilog |
+| 平台<br>Platform | Altera DE2-115 with Quartus II in Verilog |
 | 開發日誌<br>Development Blog | [Tumblr](http://givemeahandproject.tumblr.com/) |
 | 原始碼<br>Source Code | [GitHub](http://github.com/tanyuan/givemeahand) |

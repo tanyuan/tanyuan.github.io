@@ -41,7 +41,7 @@ The distance relation between people is a mythology in some way, controlled by s
 ---
 
 | 背景<br>Background | 第20屆台大藝術季數位藝術工作坊作品之一<br>A work made in 20th National Taiwan University Art Festival Digital Art Workshop | 
-| 展覽<br>Exhibition | 台灣大學博雅教學館一樓入口大廳 2014年5月5日至5月25日 <br> Exhibition: Liberal Education Classroom Building Entrance Hall, National Taiwan University. May 5-25, 2014 |
+| 展覽<br>Exhibition | 台灣大學博雅教學館一樓入口大廳 2014年5月5日至5月25日 <br>Liberal Education Classroom Building Entrance Hall, National Taiwan University. May 5-25, 2014 |
 | 媒材<br>Materials | 木條、揚聲器、電子裝置<br>Wood, speaker, and electronic devices. |
 | 尺寸<br>Dimensions | 1.5 × 1.5 × 2.8 公尺 (meters) |
 | 原始碼<br>Source Code | [GitHub](http://github.com/tanyuan/mythology)
