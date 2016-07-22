@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "HCI Links"
+permalink: /lists/hci
 ---
 
 了解人機互動(Human-Computer Interaction)的研究在做什麼！

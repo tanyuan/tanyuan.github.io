@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "New Media Art Links"
+permalink: /lists/new-media-art
 ---
 
 * [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)  
