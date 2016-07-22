@@ -16,3 +16,8 @@ github_username: tanyuan
 
 # Build settings
 markdown: kramdown
+
+collections:
+  lists:
+    output: true
+    permalink: /:collection/:path
