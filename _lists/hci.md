@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title:  "HCI Links"
+date:   2016-05-19 21:30:00 +0800
 ---
 
 了解人機互動(Human-Computer Interaction)的研究在做什麼！

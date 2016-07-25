@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title:  "New Media Art Links"
+date:   2016-01-24 21:30:00 +0800
 ---
 
 * [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)  
