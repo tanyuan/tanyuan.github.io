@@ -2,7 +2,6 @@
 layout: post
 title:  "Linux 帶給我的人機介面小啟發"
 date:   2015-05-12 21:30:00 +0800
-categories: linux
 published: false
 ---
 

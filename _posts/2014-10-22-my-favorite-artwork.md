@@ -2,7 +2,6 @@
 layout: post
 title:  "我最有感覺的三件藝術作品"
 date:   2014-10-22 21:30:00 +0800
-categories: art
 published: false
 ---
 
