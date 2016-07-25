@@ -1,5 +1,4 @@
 var img;
-var color;
 var z = 0;
 
 function setup() {
@@ -8,10 +7,11 @@ function setup() {
 }
 
 function draw() {
-    amplitude = map(mouseX, 0, 600, 100, 300);
-    interval = map(mouseY, 0, 600, 100, 20);
+    // Get mouse position to change the waves
+    amplitude = map(mouseX, 0, width, 100, 300);
+    interval = map(mouseY, 0, height, 100, 20);
 
-    background(255);
+    background(253);
     stroke(128, 100);
 
     for (var y = 0; y < height; y += interval) {
@@ -21,5 +21,6 @@ function draw() {
     }
     z = z + 0.02;
 
+    // Cover with the photo
     image(img, 0, 0);
 }
