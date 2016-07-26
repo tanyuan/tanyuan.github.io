@@ -1,11 +1,12 @@
 ---
-layout: page 
-title: 神話 (Mythology), 2014
+layout: work 
+date:  2014-05-05 00:00:00 +0800
+title: 神話 (Mythology)
+author: "Teng, Shan-Yuan • Advisor: Lin, Jinyao and Luo, Helin"
+description: A sound installation.
+thumbnail: mythology-thumb.jpg
 permalink: /work/mythology/
 ---
-
-| Creator | Teng, Shan-Yuan |
-| Advisor | Lin, Jinyao and Luo, Helin |
 
 {% include image.html
            img="myth-cover-bw.jpg" %}

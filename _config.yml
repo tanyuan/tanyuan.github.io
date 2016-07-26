@@ -18,6 +18,9 @@ github_username: tanyuan
 markdown: kramdown
 
 collections:
+  work:
+    output: true
+    permalink: /:collection/:path
   lists:
     output: true
     permalink: /:collection/:path
