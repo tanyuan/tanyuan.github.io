@@ -15,5 +15,6 @@ My name is Teng, Shan-Yuan. I am a Master's student working on Human-Computer In
  
 ## Education
 
-* M.S., Graduate Institute of Networking and Multimedia, National Taiwan University, Sep. 2016 -
+* M.S., Graduate Institute of Networking and Multimedia, National Taiwan University, Sep. 2016 - \\
+*Communications and Multimedia Lab*
 * B.S., Department of Electrical Engineering, National Taiwan University, Sep. 2012 - Jun. 2016
