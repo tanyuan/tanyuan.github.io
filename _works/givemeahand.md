@@ -5,7 +5,7 @@ title: Give Me A Hand
 author: Teng, Shan-Yuan ; Hsiao, Chi-Wei ; Weng, Shih-Hsuan
 description: A navigating wearable using electrical muscle stimulation.
 thumbnail: givemeahand-thumb.png
-permalink: /work/givemeahand/
+permalink: /works/givemeahand/
 ---
 
 A programmable navigating bio-wear with intuitive gestures.  

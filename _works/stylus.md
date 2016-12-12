@@ -5,7 +5,7 @@ title: Stylus Assistant
 author: Long-Fei Lin, Shan-Yuan Teng, Rong-Hao Liang, Bing-Yu Chen
 description: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays
 thumbnail: stylus-thumb.jpg
-permalink: /work/stylus/
+permalink: /works/stylus/
 ---
 
 This work, Stylus Assistant, proposed two designs of actuator array system, DynaFrame and DynaBase, to realize dynamic physical constraints on portable displays for facilitating stylus input.

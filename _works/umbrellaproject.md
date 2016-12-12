@@ -5,7 +5,7 @@ title: 八分之幾的乾燥空間 (The Umbrella Project)
 author: "Teng, Shan-Yuan • Advisor: Chi, Kai-Yuan"
 description: A performance art.
 thumbnail: umbrellaproject-thumb.jpg
-permalink: /work/umbrellaproject/
+permalink: /works/umbrellaproject/
 ---
 
 {% include image.html

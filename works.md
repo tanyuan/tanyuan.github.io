@@ -1,11 +1,11 @@
 ---
 layout: page 
-title: Work
-permalink: /work/
+title: Works
+permalink: /works/
 ---
 
   <ul class="work-list">
-    {% for work in site.work reversed %}
+    {% for work in site.works reversed %}
       <li>
           <span class="post-meta">{{ work.date | date: "%Y" }}</span>
           <a href="{{ work.url | prepend: site.baseurl }}" title="{{ work.title }}">

@@ -5,7 +5,7 @@ title: 神話 (Mythology)
 author: "Teng, Shan-Yuan • Advisor: Lin, Jinyao and Luo, Helin"
 description: A sound installation.
 thumbnail: mythology-thumb.jpg
-permalink: /work/mythology/
+permalink: /works/mythology/
 ---
 
 {% include image.html
