@@ -169,7 +169,7 @@
 }
 
 .post-content {
-    font-family:$title-font-family;
+    font-family:$base-font-family;
     margin-bottom: $spacing-unit;
 
     p {
@@ -179,6 +179,7 @@
     }
 
     h2 {
+        font-family:$title-font-family;
         font-size: 32px;
         margin-top: 32px;
 
@@ -188,6 +189,7 @@
     }
 
     h3 {
+        font-family:$title-font-family;
         font-size: 26px;
 
         @include media-query($on-laptop) {
@@ -196,6 +198,7 @@
     }
 
     h4 {
+        font-family:$title-font-family;
         font-size: 20px;
 
         @include media-query($on-laptop) {
@@ -246,6 +249,10 @@
         padding: 12px;
         vertical-align: top;
     }
+}
+
+.work-title {
+    font-family: $title-font-family;
 }
 
 .work-list img {
