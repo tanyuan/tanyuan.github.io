@@ -9,7 +9,7 @@
 title: teng, shan-yuan
 email: tanyuan@cmlab.csie.ntu.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
-  Shan-Yuan Teng's (tanyuan) personal website.
+  Shan-Yuan Teng's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tengshanyuan.com" # the base hostname & protocol for your site
 github_username: tanyuan
@@ -18,7 +18,7 @@ github_username: tanyuan
 markdown: kramdown
 
 collections:
-  works:
+  projects:
     output: true
     permalink: /:collection/:path
   lists:
