@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img style="float: right; padding: 0 1em 1em 1em" width="250" src="/assets/profile_photo.jpg">
+<img style="float: right; padding: 0 1em 1em 1em" width="40%" max-width="100%"  src="/assets/profile_photo.jpg">
 
 My name is Shan-Yuan Teng. I am a Master's student working on Human-Computer Interaction in Communications & Multimedia Lab at National Taiwan University.
 
