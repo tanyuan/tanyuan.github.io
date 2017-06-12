@@ -47,7 +47,8 @@ Playing air guitar is an enjoyable way to feel the music; however, it takes some
 ---
 
 | Demo | **Shan-Yuan Teng**, Yung-Ta Lin, Yi-Chi Liao. 2016. Team Robin Hood: EMS Air Guitar. ACM Symposium on User Interface Software and Technology (UIST'16) Student Innovation Competition (SIC). <br>**UIST'16 Best SIC Award: Best Implementation Award** | 
-| Publication | **Shan-Yuan Teng**, Jo-Hsi Tang, Yi-Chi Liao, Rong-Hao Liang, Bing-Yu Chen. 2016. Poster: Playing Air Guitar by Electrical Muscle Stimulation. Taiwan Human-Computer Interaction (TAICHI'16). <br>**TAICHI'16 Honorable Mention Award** | 
+| Poster | **Shan-Yuan Teng**, Jo-Hsi Tang, Yi-Chi Liao, Rong-Hao Liang, Bing-Yu Chen. 2016. Poster: Playing Air Guitar by Electrical Muscle Stimulation. Taiwan Human-Computer Interaction (TAICHI'16). <br>**TAICHI'16 Honorable Mention Award** | 
 | Presentation | **Shan-Yuan Teng**, Jo-Hsi Tang, Yi-Chi Liao, Rong-Hao Liang, Bing-Yu Chen. 2016. Playing Air Guitar by Electrical Muscle Stimulation. Asian Workshop on User Interface (AUI'16). | 
-| Slides | [PDF (7.9MB)](AirGuitar-aui-present.pdf) |
+| AUI'16 Paper | [PDF (168KB)](air-guitar-extended-abstract-AUI.pdf) |
+| AUI'16 Slides | [PDF (7.9MB)](AirGuitar-aui-present.pdf) |
 | Source Code | [GitHub](http://github.com/tanyuan/EMS-AirGuitar) |
