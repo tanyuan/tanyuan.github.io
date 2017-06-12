@@ -7,7 +7,7 @@ permalink: /works/
   <ul class="work-list">
     {% for work in site.works reversed %}
       <li>
-          <span class="post-meta">{{ work.date | date: "%Y" }}</span>
+          <span class="post-meta">{{ work.date | date: "%Y" }} - {{ work.category}}</span>
           <a href="{{ work.url | prepend: site.baseurl }}" title="{{ work.title }}">
               <img src="{{ work.thumbnail }}" alt="{{ work.title }}"/>
               <div class="work-title">{{ work.title }}</div>

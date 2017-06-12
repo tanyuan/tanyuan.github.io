@@ -1,5 +1,6 @@
 ---
 layout: work 
+category: Course Project
 date:  2015-07-04 00:00:00 +0800
 title: Give Me A Hand
 author: Teng, Shan-Yuan ; Hsiao, Chi-Wei ; Weng, Shih-Hsuan

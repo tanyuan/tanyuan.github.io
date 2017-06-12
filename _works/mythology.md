@@ -1,5 +1,6 @@
 ---
 layout: work 
+category: Art
 date:  2014-05-05 00:00:00 +0800
 title: 神話 (Mythology)
 author: "Teng, Shan-Yuan • Advisor: Lin, Jinyao and Luo, Helin"

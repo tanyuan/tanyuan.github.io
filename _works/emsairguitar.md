@@ -1,5 +1,6 @@
 ---
 layout: work 
+category: Research
 date:  2016-06-12 00:00:00 +0800
 title: EMS Air Guitar
 author: Shan-Yuan Teng, Jo-Hsi Tang, Yi-Chi Liao, Rong-Hao Liang, Bing-Yu Chen
