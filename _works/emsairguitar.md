@@ -14,19 +14,24 @@ permalink: /works/emsairguitar/
 
 Playing air guitar is an enjoyable way to feel the music; however, it takes some skills to be capable of. We propose “EMS Air Guitar,” an air guitar assistant using electrical muscle stimulation (EMS), which impulses the user’s arm to generate the strumming motion on the right time. We found that EMS can be an effective tool to make the air guitar easier to learn and play. 
 
+## System
+
+{% include image.html
+           img="poster-illustration.png"
+           caption="System Diagram Version 1" %}
+            
+
 ## Demo at UIST'16 Student Innovation Competition
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/WlirbXZhjCM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## System
+## Demo System (Mobile)
 
 {% include image.html
            img="air-guitar-diagram.jpg"
-           caption="System Diagram" %}
-
-## Devices
+           caption="System Diagram Version 2" %}
 
 {% include image.html
            img="air-guitar-device-1.jpg"
