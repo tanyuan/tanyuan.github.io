@@ -1,10 +1,10 @@
 ---
-layout: work 
+layout: project 
 category: Art
 date:  2013-04-19 00:00:00 +0800
 title: 八分之幾的乾燥空間 (The Umbrella Project)
-author: "Teng, Shan-Yuan • Advisor: Chi, Kai-Yuan"
-description: A performance art.
+author: National Taiwan University Art Festival 19th
+description: A performance art on a rainy day.
 thumbnail: umbrellaproject-thumb.jpg
 permalink: /projects/umbrellaproject/
 ---
@@ -51,4 +51,6 @@ Taipei rains a lot. On one rainy day, I shared my umbrella with a schoolmate who
 
 | 背景<br>Background  | 第19屆台大藝術季行為藝術工作坊作品之一<br>A work made in 19th National Taiwan University Art Festival Performance Art Workshop |
 | 展覽<br>Exhibition | 台灣大學第一活動中心 2013年5月6日至5月25日<br>The 1st Student Activity Center, National Taiwan University. May 6-25, 2013 |
+| 創作者<br>Creator | **鄧善元**<br>**Shan-Yuan Teng** |
+| 指導<br>Advisor | 紀紐約<br>Kai-Yuan Chi |
 | 活動<br>Event | [Facebook Page](https://www.facebook.com/NTUArtFest.UmbrellaProject) |

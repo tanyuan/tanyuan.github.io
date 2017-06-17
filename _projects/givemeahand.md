@@ -1,9 +1,9 @@
 ---
-layout: work 
+layout: project 
 category: Course Project
 date:  2015-07-04 00:00:00 +0800
 title: Give Me A Hand
-author: Teng, Shan-Yuan ; Hsiao, Chi-Wei ; Weng, Shih-Hsuan
+author: Shan-Yuan Teng, Chi-Wei Hsiao, Shih-Hsuan Weng
 description: A navigating wearable using electrical muscle stimulation.
 thumbnail: givemeahand-thumb.png
 permalink: /projects/givemeahand/
@@ -69,5 +69,6 @@ A programmable navigating bio-wear with intuitive gestures.
 
 | 背景<br>Background | 台大電機系數位電路實驗期末專題<br>Digital Circuits Lab Final Project at National Taiwan University Electrical Engineering |
 | 平台<br>Platform | Altera DE2-115 with Quartus II in Verilog |
+| 團隊<br>Team | **Shan-Yuan Teng**, Chi-Wei Hsiao, Shih-Hsuan Weng |
 | 開發日誌<br>Development Blog | [Tumblr](http://givemeahandproject.tumblr.com/) |
 | 原始碼<br>Source Code | [GitHub](http://github.com/tanyuan/givemeahand) |

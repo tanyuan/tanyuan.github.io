@@ -1,5 +1,5 @@
 ---
-layout: work 
+layout: project 
 category: Art
 date:  2017-05-08 00:00:00 +0800
 title: 形策展：科技變形的實驗場 (Speculative NTU)
