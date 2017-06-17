@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-  <ul class="work-list">
+<div class="work-list">
+  <ul>
     {% for project in site.projects reversed %}
       <li>
           <span class="post-meta">{{ project.date | date: "%Y" }} • {{ project.category}}</span>
@@ -18,3 +19,4 @@ permalink: /projects/
       </li>
     {% endfor %}
   </ul>
+</div>
