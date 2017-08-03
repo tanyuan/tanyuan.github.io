@@ -273,7 +273,7 @@
     font-size: 1.2em;
 }
 .work-list {
-    margin-left:1em;
+    margin-left:0;
 }
 
 .work-list img {
@@ -283,7 +283,7 @@
 .work-list li {
     display: inline-block;
     width: 128px;
-    margin: 32px 32px 32px 0 ;
+    margin: 32px 20px 32px 0 ;
     vertical-align: top;
 }
 .work-list li img {
