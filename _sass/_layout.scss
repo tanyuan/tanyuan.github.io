@@ -62,6 +62,7 @@
  * Site footer
  */
 .site-footer {
+    font-family: $title-font-family;
     padding: $spacing-unit 0;
     background-color: $grey-color-light;
 }
@@ -268,28 +269,38 @@
     }
 }
 
-.work-title {
+.project-title {
     font-family: $title-font-family;
     font-weight: $title-font-weight;
     font-size: 1.2em;
 }
-.work-list {
+.project-list {
     margin-left:0;
 }
 
-.work-list img {
+.project-list img {
     margin: 16px 0;
 }
 
-.work-list li {
+.project-list li {
     display: inline-block;
     width: 128px;
     margin: 32px 20px 32px 0 ;
     vertical-align: top;
 }
-.work-list li img {
+.project-list li img {
     margin-bottom: 20px;
 }
-.work-description {
+.project-description {
     font-size: .8em;
+}
+
+.note {
+    color: $grey-color;
+    font-family: $title-font-family;
+}
+.note-it {
+    color: $grey-color;
+    font-family: $title-font-family;
+    font-style: italic;
 }

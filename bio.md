@@ -6,9 +6,9 @@ permalink: /bio/
 
 <img style="float: right; padding: 0 1em 1em 1em" width="40%" max-width="100%"  src="/assets/profile_photo.jpg">
 
-## Shan-Yuan Teng 鄧善元
+## Shan-Yuan Teng | 鄧善元
 
-*Taipei, Taiwan*
+<span class="note">Taipei, Taiwan</span>
 
 I am a Master's student and Human-Computer Interaction researcher in Communications and Multimedia Lab at National Taiwan University.
 
@@ -22,8 +22,9 @@ Human-Computer Interaction (HCI), Tangible Interaction, Digital Fabrication, Rob
 
 ## Education
 
-* M.S., Graduate Institute of Networking and Multimedia, National Taiwan University, Sep. 2016 - \\
+* M.S., Graduate Institute of Networking and Multimedia, National Taiwan University.\\
 *Communications and Multimedia Lab* \\
 Advisor: Prof. Bing-Yu Chen (陳炳宇) \\
-Expected Graduation: June 2018
-* B.S., Department of Electrical Engineering, National Taiwan University, Sep. 2012 - June 2016
+<span class="note">Sep. 2016 - Expected Graduation: June 2018</span>
+* B.S., Department of Electrical Engineering, National Taiwan University. \\
+<span class="note">Sep. 2012 - June 2016</span>

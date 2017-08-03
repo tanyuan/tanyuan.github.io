@@ -4,7 +4,8 @@ category: Art
 date:  2017-05-08 00:00:00 +0800
 title: 形策展：科技變形的實驗場 (Speculative NTU Exhibition)
 author: National Taiwan University Art Festival 23rd
-description: Tech art exhibition curation & VR website for National Taiwan University Art Festival.
+description: Tech art exhibition for National Taiwan University Art Festival.
+role: Curator and VR website developer
 thumbnail: speculative-ntu-thumb.png
 permalink: /projects/speculative-ntu/
 ---

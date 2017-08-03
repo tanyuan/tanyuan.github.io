@@ -14,7 +14,7 @@ years:
 
 ## {{year}}
 
-<div class="work-list">
+<div class="project-list">
   <ul>
     {% for project in site.projects reversed %}
     {% capture project_year %}{{project.date | date: "%Y"}}{% endcapture %}
@@ -25,12 +25,15 @@ years:
           <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
           {% endif %}
               <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-              <div class="work-title">{{ project.title }}</div>
+              <div class="project-title">{{ project.title }}</div>
           {% if project.permalink %}
           </a>
           {% endif %}
           {% if project.description %}
-          <div class="work-description">{{ project.description }}</div>
+          <div class="project-description">{{ project.description }}</div>
+          {% endif %}
+          {% if project.role %}
+          <div class="note-it">{{ project.role }}</div>
           {% endif %}
       </li>
     {% endif %}
