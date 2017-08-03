@@ -1,10 +1,10 @@
 ---
-layout: project 
+layout: project
 category: Art
 date:  2014-05-05 00:00:00 +0800
 title: 神話 (Mythology)
 author: National Taiwan University Art Festival 20th
-description: An interactive sound installation.
+description: An interactive sound installation using distance sensors.
 thumbnail: mythology-thumb.jpg
 permalink: /projects/mythology/
 ---
@@ -42,7 +42,7 @@ The distance relation between people is a mythology in some way, controlled by s
 
 ---
 
-| 背景<br>Background | 第20屆台大藝術季數位藝術工作坊作品之一<br>A work made in 20th National Taiwan University Art Festival Digital Art Workshop | 
+| 背景<br>Background | 第20屆台大藝術季數位藝術工作坊作品之一<br>A work made in 20th National Taiwan University Art Festival Digital Art Workshop |
 | 展覽<br>Exhibition | 台灣大學博雅教學館一樓入口大廳 2014年5月5日至5月25日 <br>Liberal Education Classroom Building Entrance Hall, National Taiwan University. May 5-25, 2014 |
 | 創作者<br>Creator | **鄧善元**<br>**Shan-Yuan Teng** |
 | 指導<br>Advisor | 林經堯 羅禾淋<br>Jinyao Lin and Helin Luo |

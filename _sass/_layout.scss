@@ -12,8 +12,8 @@
 
 .site-title {
     font-family: $title-font-family;
-    font-size: 26px;
-    font-weight: 300;
+    font-size: 42px;
+    font-weight: $title-font-weight;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -24,13 +24,13 @@
     }
 
     &:hover {
-        text-decoration: none; 
+        text-decoration: none;
         border-bottom: 2px solid $grey-color;
     }
     &:hover span {
         color: $grey-color;
     }
-    
+
     &,
     &:visited {
         color: $grey-color-dark;
@@ -63,6 +63,7 @@
  */
 .site-footer {
     padding: $spacing-unit 0;
+    background-color: $grey-color-light;
 }
 
 .footer-heading {
@@ -175,6 +176,7 @@
 .post-title {
     font-family: $title-font-family;
     font-size: 42px;
+
     line-height: 1.4;
 
     @include media-query($on-laptop) {
@@ -267,6 +269,8 @@
 
 .work-title {
     font-family: $title-font-family;
+    font-weight: $title-font-weight;
+    font-size: 1.2em;
 }
 .work-list {
     margin-left:1em;
@@ -278,10 +282,13 @@
 
 .work-list li {
     display: inline-block;
-    width: 256px;
-    margin: 32px 64px 32px 0 ;
+    width: 128px;
+    margin: 32px 32px 32px 0 ;
     vertical-align: top;
 }
 .work-list li img {
     margin-bottom: 20px;
+}
+.work-description {
+    font-size: .8em;
 }

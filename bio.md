@@ -8,9 +8,13 @@ permalink: /bio/
 
 ## Shan-Yuan Teng 鄧善元
 
+*Taipei, Taiwan*
+
 I am a Master's student working on Human-Computer Interaction in Communications and Multimedia Lab at National Taiwan University.
 
-I like to experiment new ways of physical interaction with virtual world, such as using *spatial sensors*, *robotic arms* and *electrical muscle stimulation*. I believe interfaces that integrate digital information with body movement and haptic sensation would bring us total harmony between human and technology.
+I like to experiment new ways of physical interaction with virtual world, such as using [spatial sensors](/projects/wayout), [robotic arms](/projects/stylus) and [electrical muscle stimulation](/projects/emsairguitar). I believe interfaces that integrate digital information with body movement and haptic sensation would bring us total harmony between human and technology.
+
+I am also interested in new media art. I curated [a tech art exhibtion](/projects/speculative-ntu) based-on speculative design in campus.
 
 ## Research Interests
 

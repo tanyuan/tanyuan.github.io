@@ -1,10 +1,10 @@
 ---
-layout: project 
+layout: project
 category: Course Project
 date:  2015-07-04 00:00:00 +0800
 title: Give Me A Hand
 author: Shan-Yuan Teng, Chi-Wei Hsiao, Shih-Hsuan Weng
-description: A navigating wearable using electrical muscle stimulation.
+description: A navigating wearable using electrical muscle stimulation implemented on customized circuit and FPGA board.
 thumbnail: givemeahand-thumb.png
 permalink: /projects/givemeahand/
 ---
