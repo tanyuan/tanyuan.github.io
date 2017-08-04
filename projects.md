@@ -25,7 +25,7 @@ years:
           <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
           {% endif %}
               <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-              <div class="project-title">{{ project.title }}</div>
+              <span class="project-title">{{ project.title }}</span>
           {% if project.permalink %}
           </a>
           {% endif %}

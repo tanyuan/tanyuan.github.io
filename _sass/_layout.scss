@@ -161,7 +161,7 @@
 }
 
 .post-link {
-    display: block;
+    font-family:$title-font-family;
     font-size: 24px;
 }
 
@@ -188,6 +188,14 @@
 .post-content {
     font-family:$base-font-family;
     margin-bottom: $spacing-unit;
+
+    a {
+        border-bottom: 1px solid $grey-color-light;
+
+        &:hover {
+            border-bottom: 1px solid $alt-color;
+        }
+    }
 
     p {
         font-size: 18px;
@@ -275,13 +283,12 @@
     font-size: 1.2em;
 }
 .project-list {
-    margin-left:0;
+    max-width: 640px;
+    margin: 0 auto;
 }
-
 .project-list img {
     margin: 16px 0;
 }
-
 .project-list li {
     display: inline-block;
     width: 128px;
