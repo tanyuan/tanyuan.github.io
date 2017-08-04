@@ -266,7 +266,8 @@
     }
 
     table {
-        margin: 32px;
+        margin: 32px auto;
+        max-width: 640px;
     }
 
     th, td {

@@ -25,7 +25,7 @@ This work, Stylus Assistant, proposed two designs of actuator array system, Dyna
 
 ---
 
-| Demo | Long-Fei Lin, **Shan-Yuan Teng**, Rong-Hao Liang, Bing-Yu Chen. 2016. Stylus Assistant: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays. In SIGGRAPH ASIA 2016 Emerging Technologies (SA '16). ACM, New York, NY, USA, Article 14, 2 pages. [ACM](https://doi.org/10.1145/2988240.2988255) | 
+| Demo | Long-Fei Lin, **Shan-Yuan Teng**, Rong-Hao Liang, Bing-Yu Chen. 2016. Stylus Assistant: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays. In SIGGRAPH ASIA 2016 Emerging Technologies (SA '16). ACM, New York, NY, USA, Article 14, 2 pages. [DOI](https://doi.org/10.1145/2988240.2988255) | 
 | Paper | [PDF (1.4MB)](SA16SA_v2.pdf) |
 | Slides | [PDF (29.4MB)](siggraph_asia_etech_final.pdf) |
 | Source Code | [GitHub](http://github.com/tanyuan/Stylus-Assistant-Demo) |

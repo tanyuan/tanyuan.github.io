@@ -33,6 +33,6 @@ Thanks to motion sensors embedded in smartphones, we are able to navigate an omn
 
 ---
 
-| Publication | **Shan-Yuan Teng**, Mu-Hsuan Chen, and Yung-Ta Lin. 2017. Way Out: A Multi-Layer Panorama Mobile Game Using Around-Body Interactions. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘17). ACM, New York, NY, USA, 230-233. [ACM](https://doi.org/10.1145/3027063.3048410)<br>**Student Game Competition: Innovative Interface** |
+| Publication | **Shan-Yuan Teng**, Mu-Hsuan Chen, and Yung-Ta Lin. 2017. Way Out: A Multi-Layer Panorama Mobile Game Using Around-Body Interactions. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘17). ACM, New York, NY, USA, 230-233. [DOI](https://doi.org/10.1145/3027063.3048410)<br>**Student Game Competition: Innovative Interface** |
 | Paper | [PDF (3.5MB)](wayout_chi_2017_sgc.pdf) |
 | Slides | [PDF (6.1MB)](wayout_slides_chi.pdf) |

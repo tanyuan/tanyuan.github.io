@@ -40,14 +40,9 @@ I participated in the student tech art exhibition curation at the annual Art Fes
            caption="探形展場" %}
 ---
 
-### Exhibtion
-
 | 展覽<br>Exhibition | 第23屆台大藝術季形策展<br>23rd National Taiwan University Art Festival: Speculative NTU |
 | 日期<br>Duration | 2017年5月8日至5月26日 <br>May 8 - 26, 2017 |
 | 策展人<br>Curator | **鄧善元**、蘇長慶<br>**Shan-Yuan Teng**, Chang-Ching Su |
-
-### Website
-
 | 網站設計<br>Web Design | **鄧善元**<br>**Shan-Yuan Teng** |
 | 地圖插畫<br>Illustration | 王芷茜<br>James Aldrom |
 | 原始碼<br>Source Code | [GitHub](https://github.com/tanyuan/speculative-ntu-vr) |
