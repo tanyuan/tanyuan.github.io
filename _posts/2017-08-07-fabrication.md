@@ -80,6 +80,6 @@ MIT Media Lab 利用 3D 列印拉絲的效果做出 [Cilllia](http://tangible.me
 
 [^5]: [Protopiper: Physically Sketching Room-Sized Objects at Actual Scale](https://hpi.de/baudisch/projects/protopiper.html) (UIST '15) 更大尺度的互動製造，可以參考 [Architecture-Scale Human-Assisted Additive Manufacturing](http://www-ui.is.s.u-tokyo.ac.jp/~takami/project/stik/index_eng.html) 用「竹筷」來當巨型 3D 列印的材料，加上電腦投影輔助，蓋出一棟房子。
 
-[^6]: [Mobile Fabrication](https://hpi.de/baudisch/projects/pervasive-fabrication.html) (UIST '16)
+[^6]: [Mobile Fabrication](https://hpi.de/baudisch/projects/pervasive-fabrication.html) (UIST '16) 另一個用螢幕作為引導的互動例子是 [Shaper Tools Origin](https://shapertools.com/)，一個手持加上智慧引導的切割機。
 
 [^7]: [Cardboard Machine Kit: Modules for the Rapid Prototyping of Rapid Prototyping Machines](https://dl.acm.org/citation.cfm?id=3025491) (CHI '17) [MIT Center for Bits and Atoms](http://cba.mit.edu/) 致力於開發各種大小尺度的製造工具，將資訊變成原子，將原子變成資訊，不只奠下加法（Additive）、減法（Subtractive）製造的基礎，早年發明了 CNC ，近年也在世界各地推廣自造者 FabLab 文化。[Make machines that make](http://mtm.cba.mit.edu/) 是一門課程，教導如何製造出可以製造東西的機器。還有另外一門非常熱門的課程是 [How to Make (Almost) Anything](http://fab.cba.mit.edu/classes/4.140/) ，教導如何利用各種工具製造出（幾乎）任何東西。
