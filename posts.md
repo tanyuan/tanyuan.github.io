@@ -11,6 +11,15 @@ permalink: /posts/
 
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
+
+          {% if post.tags %}
+          <div class="tag-list">
+          {% for tag in post.tags %}
+            <span class="tag">{{tag}}</span>
+          {% endfor %}
+          </div>
+          {% endif %}
+
       </li>
     {% endfor %}
   </ul>
