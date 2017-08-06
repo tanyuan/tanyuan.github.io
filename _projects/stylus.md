@@ -4,7 +4,7 @@ category: Research
 date:  2016-12-05 00:00:00 +0800
 title: Stylus Assistant
 author: Long-Fei Lin, Shan-Yuan Teng, Rong-Hao Liang, Bing-Yu Chen
-description: Designing dynamic constraints for facilitating stylus inputs on portable displays.
+description: Designing dynamic constraints for facilitating stylus inputs on portable displays. (SA '17 Emerging Technologies)
 thumbnail: stylus-thumb.jpg
 permalink: /projects/stylus/
 ---
