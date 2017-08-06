@@ -5,7 +5,7 @@ date:   2016-07-12 21:30:00 +0800
 tags:   [Human-Computer Interaction]
 ---
 
-第一次被電腦深深吸引，是小學開始寫網頁，發現我只要改一點點CSS的程式碼，網頁上就會完全聽我的指令，變成我要的樣子，然後遠端的朋友就可以連上來，看到最新的網頁。這真的太神奇了！
+第一次被電腦深深吸引，是小學開始寫網頁，發現我只要改一點點 HTML/CSS 的程式碼，網頁上就會完全聽我的指令，變成我要的樣子，然後遠端的朋友就可以連上來，看到最新的網頁。這真的太神奇了！
 
 仔細想想，我當初畫的綠色方塊，對電腦來說就只是一串的資料，一點也沒有綠色和方塊的樣子，直到它在螢幕上被畫出來。如果不是螢幕的話，那它似乎也可以是聲音，也可以是任何東西。「資料本身」（Data） 和「它被感知的方式」，也就是「介面」（Interface），已經完全的分離。
 
@@ -28,7 +28,7 @@ Mark B. N. Hansen 重新省思「介面」的意義，說道：「當媒介喪�
   <iframe width="640" height="360" src="https://www.youtube.com/embed/Gz4dphzBb6I" frameborder="0" allowfullscreen></iframe>
 </div>
 
-德國 Hasso-Plattner-Institut HCI 實驗室做的 [Affordance++](https://hpi.de/baudisch/projects/affordance.html) [^5]，利用電擊刺激肌肉 [^6]，讓手不自主地動起來，用「動作」來告訴人們如何使用日常生活的用品。人們拿到噴漆罐時，不知道應該搖一搖，此時電擊讓手「直接感受到運動」，來接收物體的資訊。人們用「動作」，這種全新的方式去感知物體帶有的資訊，儘管看起來很可怕，卻是和電腦最為緊密相連的介面。
+德國 [Hasso-Plattner-Institut HCI 實驗室](https://hpi.de/baudisch/home.html)做的 [Affordance++](https://hpi.de/baudisch/projects/affordance.html) [^5]，利用電擊刺激肌肉 [^6]，讓手不自主地動起來，用「動作」來告訴人們如何使用日常生活的用品。人們拿到噴漆罐時，不知道應該搖一搖，此時電擊讓手「直接感受到運動」，來接收物體的資訊。人們用「動作」，這種全新的方式去感知物體帶有的資訊，儘管看起來很可怕，卻是和電腦最為緊密相連的介面。
 
 ---
 
@@ -38,7 +38,7 @@ Mark B. N. Hansen 重新省思「介面」的意義，說道：「當媒介喪�
   <iframe width="640" height="360" src="https://www.youtube.com/embed/NNirAkibYGc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-德國 Hasso-Plattner-Institut HCI 實驗室大膽提出 [Imaginary Interfaces](https://hpi.de/baudisch/projects/imaginary-interfaces.html) [^8] 的構想，如果我們能夠用「想像力」想像自己的介面，然後讓電腦理解呢？那麼我們就不需要視覺介面，隨時隨地能夠喚來電腦的計算力，好像電腦是我們的一部分。他們甚至設計了一個籃球遊戲 [^9]，不需要有真實的一顆球，透過每個球員的「想像力」知道球在哪裡，電腦也能夠理解，知道該如何計分。
+HPI 研究者大膽提出 [Imaginary Interfaces](https://hpi.de/baudisch/projects/imaginary-interfaces.html) [^8] 的構想，如果我們能夠用「想像力」想像自己的介面，然後讓電腦理解呢？那麼我們就不需要視覺介面，隨時隨地能夠喚來電腦的計算力，好像電腦是我們的一部分。他們甚至設計了一個籃球遊戲 [^9]，不需要有真實的一顆球，透過每個球員的「想像力」知道球在哪裡，電腦也能夠理解，知道該如何計分。
 
 ---
 
@@ -47,8 +47,8 @@ Mark B. N. Hansen 重新省思「介面」的意義，說道：「當媒介喪�
 HCI 研究者乘著想像力，在人機互動的邊界上，超越現有介面的限制，帶人們做到過去所無法做到的事情，開啟全新的互動方式。HCI 沒有極限，因為介面永遠由我們定義。
 
 [^1]: Lev Manovich: The Language of New Media (2001)
-[^2]: [Radical Atoms](https://tangible.media.mit.edu/project/radical-atoms/) 具備三種概念，除了能夠隨著數位資訊改變（transform）物質特性，作為終極的物質顯示器之外，還要能夠適應（conform）環境和使用者給予的資訊，並且告訴（inform）使用者如何操作(dynamic affordance，可以參考 [inFORM](https://tangible.media.mit.edu/project/inform/) 有列舉各種例子）。
-[^3]: [Materiable: Rendering Dynamic Material Properties in Response to Direct Physical Touch with Shape Changing Interfaces](http://tangible.media.mit.edu/project/materiable/) (CHI '16)  基於[inFORM](https://tangible.media.mit.edu/project/inform/) 的硬體（pin-based shape display）。
+[^2]: [Radical Atoms](https://tangible.media.mit.edu/project/radical-atoms/) 具備三種概念，除了能夠隨著數位資訊改變（transform）物質特性，作為終極的物質顯示器之外，還要能夠適應（conform）環境和使用者給予的資訊，並且告訴（inform）使用者如何操作（dynamic affordance，可以參考 [inFORM](https://tangible.media.mit.edu/project/inform/) 有列舉各種例子）。
+[^3]: [Materiable: Rendering Dynamic Material Properties in Response to Direct Physical Touch with Shape Changing Interfaces](http://tangible.media.mit.edu/project/materiable/) (CHI '16)  基於 [inFORM](https://tangible.media.mit.edu/project/inform/) 的硬體（pin-based shape display）。
 [^4]: "... as media lose their material specificity, the body takes on a more prominent function as a selective processor of information." Mark B. N. Hansen: New Philosophy For New Media (2004)
 [^5]: [Affordance](https://en.wikipedia.org/wiki/Affordance) 這個詞最早由心理學家 James J. Gibson 提出，用來描述環境或物件可以提供的可能動作，例如馬克杯的把手能夠提供「握住拾起」的 affordance。Affordance 的概念廣於應用在工業設計與建築，後來 Donald Norman 將這個概念放到 HCI ，在《設計的心理學：人性化的產品設計如何改變世界》中有較多闡述。Affordacne++ 即是加強 affordance 的概念，不只是用產品靜態外型來告訴使用者如何操作，而直接透過驅動使用者的身體來讓使用者學習。[Affordance++: allowing objects to communicate dynamic use](https://hpi.de/baudisch/projects/affordance.html) (CHI '15)
 [^6]: 電擊刺激肌肉 Electrical muscle stimulation (EMS)，藉由產生和肌肉相似的電訊號，透過電擊貼片驅動肌肉收縮。德國 HPI 人機互動實驗室的 [Pedro Lopes](http://plopes.org/) 做了一連串關於 EMS 互動的研究，EMS 的特色在於，直接刺激動作讓人體感受到引導，同時肌肉也能夠主動運動，實現「輸入和輸出合一」（參考 [Proprioceptive Interaction](http://plopes.org/project/proprioceptive-interaction/)）。如此直接的資訊傳遞，更接近於 Andy Clark 在 Natural-Born Cyborgs 書中提到擴增認知 (extended cognition) 概念，人類已經接近於無意識到這個工具的存在，直接變成我們思考與行動的一部分。
