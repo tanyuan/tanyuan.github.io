@@ -5,15 +5,15 @@ date:   2017-08-07 07:00:00 +0800
 tags:   [HCI, Digital Fabrication]
 ---
 
-人類是製造工作的生物，為了遮風避雨，我們打造斧頭，為了移動到其他地方，我們打造輪子。黑格爾認為人們其實就是透過工具不斷改變自己命運的 Homo faber (man the maker)，除了生存，人們也透過創造屬於自己的世界，來反映自己的想望，來表現自己的烏托邦。
+人類是製造工具的生物，為了砍柴，我們打造斧頭，為了移動，我們打造輪子。黑格爾認為人們其實就是透過工具不斷改變自己命運的 Homo faber (man the maker)，除了生存，人們也透過創造屬於自己的世界，來反映自己的想望，來表現自己的烏托邦。
 
-人類不斷開發出新的製造工具，從過去風車到工廠，近幾年興起的數位製造工具，變得越來越快速，也越來越便宜。就如同過去電腦的發展，寫完程式要等一個禮拜才算出結果，現在能夠立刻呈現在螢幕上，變成「個人電腦」；製造也將邁向「個人製造」，畫好或下載的設計圖，立刻就能用家裡的 3D 印表機印出來。
+人類不斷開發出新的製造工具，從過去風車到工廠，近幾年興起的數位製造工具，變得越來越快速，也越來越便宜。如同過去電腦的發展，寫完程式要等一個禮拜才算出結果，現在能夠立刻呈現在螢幕上，成為「個人電腦」；製造也將邁向「個人製造」，畫好或下載的設計圖，立刻就能用家裡的 3D 印表機印出來。
 
 如今不只是螢幕上的圖形能夠有互動性，研究者也開始探索如何設計具有互動性的實體物件（Fabricating interaction），以及如何讓製造本身更具互動性（Interactive fabrication）。
 
 ## 物件 × 互動性 (Fabricating interaction)
 
-大量製造需要複雜的組裝，來組成精密機構，利用 3D 印表機，可以一次列印出精緻形狀的物件，透過形狀本身的物理特性，就有機會創造出可以感應（sense）或者驅動（actuate）的有趣 3D 模型。
+大量生產的製造方式，需要複雜的組裝，來組成精密機構。而利用 3D 印表機，可以一次列印出精緻構造的物件，透過形狀本身的物理特性，就有機會創造出可以感應（sense）或者驅動（actuate）的有趣 3D 模型。
 
 Disney Research 的 [Printed Optics](https://www.disneyresearch.com/project/printed-optics/) [^1] 藉由設計 3D 模型中的光纖，甚至印製透明的 3D 列印材料，來製造出各種光學效果，可以作為光學感應的媒介，也可以作為 LED 顯示的媒介。
 
@@ -37,7 +37,7 @@ MIT Media Lab 利用 3D 列印拉絲的效果做出 [Cilllia](http://tangible.me
            img="/assets/fabrication/interactive-fabrication.png"
            caption="Interactive Fabrication (Source: ACM)" %}
 
-致力於研究個人製造的 HPI HCI 實驗室 [^4] 探索了不同尺度與情境下，互動製造的可能性。要即時製作出大型模型是一件不容易的事情，[Protopiper](https://hpi.de/baudisch/projects/protopiper.html) [^5] 是一把膠帶槍，使用者就可以拿著它在空間中畫出實體的線段，像是吸管，也可以讓它轉彎，快速製作家具大小的原型。
+致力於研究個人製造的 HPI HCI 實驗室 [^4] 探索不同尺度與情境下，互動製造的可能性。要即時製作出大型模型是一件不容易的事情，[Protopiper](https://hpi.de/baudisch/projects/protopiper.html) [^5] 是一把膠帶槍，使用者就可以拿著它在空間中畫出實體的線段，像是吸管，也可以讓它轉彎，快速製作家具大小的原型。
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/beRA4sIjxa8" frameborder="0" allowfullscreen></iframe>
@@ -53,7 +53,7 @@ MIT Media Lab 利用 3D 列印拉絲的效果做出 [Cilllia](http://tangible.me
 
 ## 融合新未來
 
-如果我們想要製造任何東西，那麼是不是就需要可以符合需求的機器？MIT Center for Bits and Atoms 開發了 Cardboard Machine Kit [^7]，是一個模組化的套件，像是 3D 印表機、雷射切割機、CNC 機器的原型，可以讓人們組裝自己需要的機器。
+如果我們想要製造任何東西，是不是就需要可以符合需求的機器？MIT Center for Bits and Atoms 開發了 Cardboard Machine Kit [^7]，是一個模組化的套件，像是 3D 印表機、雷射切割機、CNC 機器的原型，可以讓人們組裝自己需要的機器。
 
 {% include image.html
            img="/assets/fabrication/machines-that-make.png"
