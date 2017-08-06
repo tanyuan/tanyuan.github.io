@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Posts
-permalink: /posts/
+title: Essays
+permalink: /essays/
 ---
 
   <ul class="post-list">
@@ -10,7 +10,6 @@ permalink: /posts/
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br>
 
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
 
           {% if post.tags %}
           <div class="tag-list">
