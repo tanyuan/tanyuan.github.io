@@ -191,9 +191,15 @@
 
     a {
         border-bottom: 1px solid $grey-color-light;
-
         &:hover {
             border-bottom: 1px solid $alt-color;
+        }
+
+        &.footnote, &.reversefootnote {
+            border-bottom: 0;
+        }
+        &.footnote:hover, &.reversefootnote:hover {
+            border-bottom: 0;
         }
     }
 
@@ -232,7 +238,7 @@
     }
 
     hr {
-        margin: 60px 30%;
+        margin: $spacing-unit 30%;
         width: 40%;
         border: none;
         border-top: 1px dashed $grey-color-light;
@@ -267,7 +273,7 @@
     }
 
     table {
-        margin: 32px auto;
+        margin: $spacing-unit auto;
         max-width: 640px;
     }
 
@@ -276,6 +282,24 @@
         border-bottom: 1px solid $grey-color-light;
         padding: 12px;
         vertical-align: top;
+    }
+
+    .footnotes {
+        margin: 2*$spacing-unit auto 0;
+        max-width: 680px;
+        padding-top: $spacing-unit;
+        border-top: 1px dashed $alt-color;
+        color: $grey-color;
+
+        li {
+            font-size: 1em;
+        }
+
+        p {
+            font-size: 1em;
+            line-height: 1.8em;
+            margin: 0;
+        }
     }
 }
 

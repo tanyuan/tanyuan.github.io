@@ -21,7 +21,7 @@ date:   2016-01-23 21:30:00 +0800
 </div>
 
 《攻殼2》甚至融合台灣廟會的元素：
- 
+
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/3IGTiFuDjTI" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -29,9 +29,7 @@ date:   2016-01-23 21:30:00 +0800
 為什麼科幻電影會取自如此傳統、髒亂，看起來一點也不先進的地方呢？正是因為這些地方非常混亂，龍蛇雜處，甚至無法可管的黑勢力範圍，才讓科技獲得更自由、更無顧道德的發展。
 人性還有很多面向，是科幻尚未捕捉到的，這些正是我們還可以想像的「另外一個世界」。
 
-> 就像我已經說過非常多次了，未來就在這裡。它只是分佈不均而已。
-
-> As I’ve said many times, the future is here. It’s just not evenly distributed. — William Gibson
+> 就像我已經說過非常多次了，未來就在這裡。它只是分佈不均而已。 — William Gibson[^1]
 
 在這些看似落後、平凡的角落，都有可能轉化成科幻的世界。
 
@@ -79,3 +77,5 @@ date:   2016-01-23 21:30:00 +0800
 有趣的是，我們做的一切都是虛構的。為什麼虛構重要？我想這是一個逃離現有世界的框架，在其他世界中尋找人類價值與故事的機會。
 
 我們傾向相信世界會不斷進步，不斷朝現有的潮流前進，但這可能不是真的，或者，這可能不是我們想要的。「虛構設計」(Design Fiction)，給我們一個切入點，去想像去除了現實世界的限制後，設計還有什麼可能的模樣。
+
+[^1]: "As I’ve said many times, the future is here. It’s just not evenly distributed."
