@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HCI 為什麼特別？從介面的觀點來看"
+title:  "從介面的觀點來看人機互動(HCI)"
 date:   2016-07-12 21:30:00 +0800
 tags:   [Human-Computer Interaction]
 ---
@@ -28,11 +28,11 @@ Mark B. N. Hansen 重新省思「介面」的意義，說道：「當媒介喪�
   <iframe width="640" height="360" src="https://www.youtube.com/embed/Gz4dphzBb6I" frameborder="0" allowfullscreen></iframe>
 </div>
 
-德國 Hasso-Plattner-Institut HCI 實驗室做的 [Affordance++](https://hpi.de/baudisch/projects/affordance.html) (2015) [^4]，利用電擊刺激肌肉，讓手不自主地動起來，用「動作」來告訴人們如何使用日常生活的用品。人們拿到噴漆罐時，不知道應該搖一搖，此時電擊讓手「直接感受到運動」，來接收物體的資訊。人們用「動作」，這種全新的方式去感知物體帶有的資訊，儘管看起來很可怕，卻是和電腦最為緊密相連的介面。
+德國 Hasso-Plattner-Institut HCI 實驗室做的 [Affordance++](https://hpi.de/baudisch/projects/affordance.html) (2015) [^4]，利用電擊刺激肌肉[^5]，讓手不自主地動起來，用「動作」來告訴人們如何使用日常生活的用品。人們拿到噴漆罐時，不知道應該搖一搖，此時電擊讓手「直接感受到運動」，來接收物體的資訊。人們用「動作」，這種全新的方式去感知物體帶有的資訊，儘管看起來很可怕，卻是和電腦最為緊密相連的介面。
 
 ---
 
-電腦作為一個計算力和資料量驚人的裝置，能有更好的介面和其結合一同思考，或稱為「人機共生」（Human-Computer Symbiosis）[^5]，是 HCI 研究者的夢想。當我們手邊的智慧型裝置從筆電、手機、手錶、衣服等越來越小，融合進生活之中，看得到的介面似乎越來越少，我們更少干擾，更快速完成我們的工作和決定。會不會到時我們就不需要如今我們所知的介面，而依舊能與電腦緊密相連？
+電腦作為一個計算力和資料量驚人的裝置，能有更好的介面和其結合一同思考，或稱為「人機共生」（Human-Computer Symbiosis）[^6]，是 HCI 研究者的夢想。當我們手邊的智慧型裝置從筆電、手機、手錶、衣服等越來越小，融合進生活之中，看得到的介面似乎越來越少，我們更少干擾，更快速完成我們的工作和決定。會不會到時我們就不需要如今我們所知的介面，而依舊能與電腦緊密相連？
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/NNirAkibYGc" frameborder="0" allowfullscreen></iframe>
@@ -44,7 +44,7 @@ Mark B. N. Hansen 重新省思「介面」的意義，說道：「當媒介喪�
 
 Scott E. Hudson, Jennifer Mankoff 將 HCI 在科技發展中定位為：
 
-> 科技導向的人機互動 (HCI)，透過『發明』，拓展我們能做到的事情，或是找到更好的方式做事情。[^6]
+> 科技導向的人機互動 (HCI)，透過『發明』，拓展我們能做到的事情，或是找到更好的方式做事情。[^7]
 
 HCI 研究者乘著想像力，在人機互動的邊界上，超越現有介面的限制，帶人們做到過去所無法做到的事情，開啟全新的互動方式。HCI 沒有極限，因為介面永遠由我們定義。
 
@@ -52,5 +52,6 @@ HCI 研究者乘著想像力，在人機互動的邊界上，超越現有介面�
 [^2]: [Radical Atoms](https://tangible.media.mit.edu/project/radical-atoms/) 具備三種概念，除了能夠隨著數位資訊改變（transform）物質特性，作為終極的物質顯示器之外，還要能夠適應（conform）環境和使用者給予的資訊，並且告訴（inform）使用者如何操作(dynamic affordance，可以參考 [inFORM](https://tangible.media.mit.edu/project/inform/) 有列舉各種例子）。
 [^3]: "... as media lose their material specificity, the body takes on a more prominent function as a selective processor of information." Mark B. N. Hansen: New Philosophy For New Media (2004)
 [^4]: [Affordance](https://en.wikipedia.org/wiki/Affordance) 這個詞最早由心理學家 James J. Gibson 提出，用來描述環境或物件可以提供的可能動作，例如馬克杯的把手能夠提供「握住拾起」的 affordance。Affordance 的概念廣於應用在工業設計與建築，後來 Donald Norman 將這個概念放到 HCI ，在《設計的心理學：人性化的產品設計如何改變世界》中有較多闡述。Affordacne++ 即是加強 affordance 的概念，不只是用產品靜態外型來告訴使用者如何操作，而直接透過驅動使用者的身體來讓使用者學習。
-[^5]: 人機共生由 J. C. R. Licklider 在1960年於文章 [Man-Computer Symbiosis](https://groups.csail.mit.edu/medg/people/psz/Licklider.html) 提出，他描述人機共生的主要目標為： "1) to let computers facilitate formulative thinking as they now facilitate the solution of formulated problems, and 2) to enable men and computers to cooperate in making decisions and controlling complex situations without inflexible dependence on predetermined programs."
-[^6]: "... the fundamental activity of technical HCI is one of invention—we seek to use technology to expand what can be done or to find how best to do things that can already be done." Scott E. Hudson, Jennifer Mankoff: Concepts, Values, and Methods for Technical Human–Computer Interaction Research (2014)
+[^5]: 電擊刺激肌肉 Electrical muscle stimulation (EMS)，藉由產生和肌肉相似的電訊號，透過電擊貼片驅動肌肉收縮。德國 HPI 人機互動實驗室的 [Pedro Lopes](http://plopes.org/) 做了一連串關於 EMS 互動的研究，EMS 的特色在於，直接刺激動作讓人體感受到引導，同時肌肉也能夠主動運動，實現「輸入和輸出合一」（參考 [Proprioceptive Interaction](http://plopes.org/project/proprioceptive-interaction/)）。如此直接的資訊傳遞，更接近於 Andy Clark 在 Natural-Born Cyborgs 書中提到擴增認知 (extended cognition) 概念，人類已經接近於無意識到這個工具的存在，直接變成我們思考與行動的一部分。
+[^6]: 人機共生由 J. C. R. Licklider 在1960年於文章 [Man-Computer Symbiosis](https://groups.csail.mit.edu/medg/people/psz/Licklider.html) 提出，他描述人機共生的主要目標為： "1) to let computers facilitate formulative thinking as they now facilitate the solution of formulated problems, and 2) to enable men and computers to cooperate in making decisions and controlling complex situations without inflexible dependence on predetermined programs."
+[^7]: "... the fundamental activity of technical HCI is one of invention—we seek to use technology to expand what can be done or to find how best to do things that can already be done." Scott E. Hudson, Jennifer Mankoff: Concepts, Values, and Methods for Technical Human–Computer Interaction Research (2014)
