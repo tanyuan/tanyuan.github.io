@@ -13,9 +13,9 @@ tags:   [Design Fiction]
 
 ## 世界的建造
 
-作品名稱取自於 William Gibson 的科幻小說《神經喚術士》(*Neuromancer*, 1984)的第一章章名，這本小說發明了網際空間(Cyberspace)這個詞彙，也開創了一個全然不同的科幻風格，稱為「網路龐克」(Cyberpunk)。跳脫了以往科幻鎖定在外太空、乾乾淨淨的理性世界，而將背景設定在更日常生活、更混亂的場域。這本小說本身非常難懂，也從來沒有被拍成電影，但動畫電影《攻殼機動隊》(1995) 、《攻殼機動隊2》(2004) 以及《駭客任務》(*The Matrix*, 1999)都從這本小說汲取靈感，探討機器與人如何整合在一起駭入網際空間，機器與生物已經失去界線了。
+作品名稱取自於 William Gibson 的科幻小說《神經喚術士》（*Neuromancer*, 1984）的第一章章名，這本小說發明了網際空間（Cyberspace）這個詞彙，也開創了一個全然不同的科幻風格，稱為「網路龐克」（[Cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk)）。跳脫了以往科幻鎖定在外太空、乾乾淨淨的理性世界，而將背景設定在更日常生活、更混亂的場域。這本小說本身非常難懂，也從來沒有被拍成電影，但導演押井守的動畫電影《攻殼機動隊》（1995）、《攻殼機動隊2》（2004）以及《駭客任務》（*The Matrix*, 1999）都從這本小說汲取靈感，探討機器與人如何整合在一起駭入網際空間，機器與生物已經失去界線了。
 
-先來看一下《攻殼》的場景，靈感自香港已拆除的九龍城寨：
+先來看一下《攻殼》的場景，靈感自香港已拆除的[九龍城寨](https://zh.wikipedia.org/wiki/%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E)：
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/WB-ik-Bpl0c" frameborder="0" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ tags:   [Design Fiction]
 為什麼科幻電影會取自如此傳統、髒亂，看起來一點也不先進的地方呢？正是因為這些地方非常混亂，龍蛇雜處，甚至無法可管的黑勢力範圍，才讓科技獲得更自由、更無顧道德的發展。
 人性還有很多面向，是科幻尚未捕捉到的，這些正是我們還可以想像的「另外一個世界」。
 
-> 就像我已經說過非常多次了，未來就在這裡。它只是分佈不均而已。 — William Gibson[^1]
+> 未來就在這裡。它只是分佈不均而已。 — William Gibson[^1]
 
 在這些看似落後、平凡的角落，都有可能轉化成科幻的世界。
 
@@ -77,6 +77,7 @@ tags:   [Design Fiction]
 
 有趣的是，我們做的一切都是虛構的。為什麼虛構重要？我想這是一個逃離現有世界的框架，在其他世界中尋找人類價值與故事的機會。
 
-我們傾向相信世界會不斷進步，不斷朝現有的潮流前進，但這可能不是真的，或者，這可能不是我們想要的。「虛構設計」(Design Fiction)，給我們一個切入點，去想像去除了現實世界的限制後，設計還有什麼可能的模樣。
+我們傾向相信世界會不斷進步，不斷朝現有的潮流前進，但這可能不是真的，或者，這可能不是我們想要的。「虛構設計」（[Design Fiction](https://en.wikipedia.org/wiki/Design_fiction)）[^2]，給我們一個切入點，去想像去除了現實世界的限制後，設計還有什麼可能的模樣。
 
-[^1]: "As I’ve said many times, the future is here. It’s just not evenly distributed."
+[^1]: "As I’ve said many times, the future is already here — it's just not very evenly distributed."  — William Gibson
+[^2]: 關於 Design Fiction 以及其所屬的 Speculative Design ，可參考 Anthony Dunne & Fiona Raby 著 [Speculative Everything: Design, Fiction, and Social Dreaming](https://mitpress.mit.edu/books/speculative-everything) (2013)。
