@@ -313,6 +313,12 @@
     margin: 0 auto;
 }
 .project-list img {
+    border: 1px solid $grey-color-light;
+}
+.project-list a:hover img {
+    border: 1px solid $alt-color;
+}
+.project-list img {
     margin: 16px 0;
 }
 .project-list li {
