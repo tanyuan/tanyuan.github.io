@@ -6,7 +6,7 @@ title: Outside-In
 author: Yung-Ta Lin, Yi-Chi Liao, Shan-Yuan Teng, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen
 description: Visualizing out-of-sight regions-of-interest in a 360 video using spatial picture-in-picture previews. (To appear at UIST '17)
 thumbnail: outsidein-thumb.png
-permalink: /projects/ousidein/ 
+permalink: /projects/outsidein/ 
 ---
 
 <div class="video-wrapper">
