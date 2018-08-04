@@ -8,4 +8,5 @@ description: Exploring on-body force and shape sensors for a movement-based musi
 role: Team facilitator
 thumbnail: jagger-thumb.png
 permalink:
+published: false
 ---

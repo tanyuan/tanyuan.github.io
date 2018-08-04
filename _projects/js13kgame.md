@@ -4,10 +4,11 @@ category: Game
 date:  2017-09-13 00:00:00 +0800
 title: js13k Game - Metamorphosis
 author: Steff Yang & Shan-Yuan Teng
-description: An A-Frame WebVR puzzle game sized under 13KB. 
+description: An A-Frame WebVR puzzle game sized under 13KB.
 role: VR website developer
 thumbnail: js13kgame-thumb.png
 permalink: /projects/js13kgame/
+published: false
 ---
 
 {% include image.html

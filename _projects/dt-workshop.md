@@ -8,4 +8,5 @@ description: Design thinking workshop held by d.thinking club at National Taiwan
 role: Lecturer and team facilitator
 thumbnail: dt-workshop-thumb.png
 permalink:
+published: false
 ---

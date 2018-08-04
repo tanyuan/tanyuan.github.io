@@ -7,4 +7,5 @@ author:
 description: An interactive door lock with breathing lights that welcome you home at student-organized OpenHCI 2014 workshop.
 thumbnail: homing-thumb.png
 permalink:
+published: false
 ---

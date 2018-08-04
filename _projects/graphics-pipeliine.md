@@ -7,4 +7,5 @@ author:
 description: Graphics pipeline, including transformation, shading and texture mapping, implemented with C++ and OpenGL.
 thumbnail: graphics-pipeline-thumb.png
 permalink:
+published: false
 ---

@@ -10,8 +10,8 @@ permalink: /bio/
 
 <span class="note">Taipei, Taiwan</span>
 
-I am a Master's student and Human-Computer Interaction researcher in Communications and Multimedia Lab at National Taiwan University.
+He is a Human-Computer Interaction researcher focusing on novel interfaces. He likes to experiment new ways of physical interaction with virtual world, such as using [spatial sensors](/projects/wayout), [robotic arms](/projects/stylus) and [electrical muscle stimulation](/projects/emsairguitar). He believes interfaces that integrate digital information with body movement and haptic sensation would bring us total harmony between human and technology.
 
-I like to experiment new ways of physical interaction with virtual world, such as using [spatial sensors](/projects/wayout), [robotic arms](/projects/stylus) and [electrical muscle stimulation](/projects/emsairguitar). I believe interfaces that integrate digital information with body movement and haptic sensation would bring us total harmony between human and technology.
+He received his M.S. from the Graduate Institute of Networking and Multimedia (2018), National Taiwan University, and B.S. in Electrical Engineering (2016), National Taiwan University. He currently works as a research assistant at NTU IoX Center. 
 
-I am also interested in new media art. I curated [a tech art exhibtion](/projects/speculative-ntu) based on speculative design in campus.
+He is also interested in new media art. He curated [a tech art exhibtion](/projects/speculative-ntu) based on speculative design in campus.

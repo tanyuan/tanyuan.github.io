@@ -7,4 +7,5 @@ author:
 description: Designing light and sound expression for internet of things (IoT) at Hidden Local Workshop held by National Taiwan University IoX Center collaborated with TU/e.
 thumbnail: alfheim-thumb.png
 permalink:
+published: false
 ---

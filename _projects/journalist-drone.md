@@ -7,4 +7,5 @@ author:
 description: Telepresence drone for remote journalists controlled by Kinect.
 thumbnail: journalist-drone-thumb.png
 permalink:
+published: false
 ---

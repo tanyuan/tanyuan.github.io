@@ -8,4 +8,5 @@ description: An experimental design thinking workshop where students from multip
 role: Co-organizer
 thumbnail: dt-id-workshop-thumb.png
 permalink:
+published: false
 ---
