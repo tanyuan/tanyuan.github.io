@@ -16,7 +16,7 @@ permalink: /publications/
 <span class="note">In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘17). ACM, New York, NY, USA, 230-233.</span> \\
 <span class="note">[Paper (3.5MB)](/projects/wayout/wayout_chi_2017_sgc.pdf) | [DOI](https://doi.org/10.1145/3027063.3048410) | [Project page](/projects/wayout)</span>
 
-## Demo
+## Demos
 
 * Long-Fei Lin, **Shan-Yuan Teng**, Rong-Hao Liang, Bing-Yu Chen. 2016. \\
 *Stylus Assistant: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays.* \\

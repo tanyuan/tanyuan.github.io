@@ -16,11 +16,21 @@ permalink: /projects/
 
     {% if project_category == 'Research' and project_published != 'false' %}
       <li>
-          <span class="post-meta">{{ project_year }}</span>
+
+          <div class="post-meta">{{ project_year }}</div>
+
           {% if project.permalink %}
           <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
           {% endif %}
-              <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
+          <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
+          {% if project.permalink %}
+          </a>
+          {% endif %}
+
+          <div>
+          {% if project.permalink %}
+          <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+          {% endif %}
               <span class="project-title">{{ project.title }}</span>
           {% if project.permalink %}
           </a>
@@ -28,9 +38,9 @@ permalink: /projects/
           {% if project.description %}
           <div class="project-description">{{ project.description }}</div>
           {% endif %}
-          {% if project.role %}
-          <div class="note-it">{{ project.role }}</div>
-          {% endif %}
+          </div>
+          <div class="clear"></div>
+
       </li>
     {% endif %}
     {% endfor %}
@@ -49,21 +59,31 @@ permalink: /projects/
 
     {% if project_category != 'Research' and project_published != 'false' %}
       <li>
-          <span class="post-meta">{{ project_year }}</span>
-          {% if project.permalink %}
-          <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-          {% endif %}
-              <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-              <span class="project-title">{{ project.title }}</span>
-          {% if project.permalink %}
-          </a>
-          {% endif %}
-          {% if project.description %}
-          <div class="project-description">{{ project.description }}</div>
-          {% endif %}
-          {% if project.role %}
-          <div class="note-it">{{ project.role }}</div>
-          {% endif %}
+
+      <div class="post-meta">{{ project_year }} - {{ project.category }}</div>
+
+      {% if project.permalink %}
+      <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+      {% endif %}
+      <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
+      {% if project.permalink %}
+      </a>
+      {% endif %}
+
+      <div>
+      {% if project.permalink %}
+      <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+      {% endif %}
+          <span class="project-title">{{ project.title }}</span>
+      {% if project.permalink %}
+      </a>
+      {% endif %}
+      {% if project.description %}
+      <div class="project-description">{{ project.description }}</div>
+      {% endif %}
+      </div>
+      <div class="clear"></div>
+
       </li>
     {% endif %}
     {% endfor %}

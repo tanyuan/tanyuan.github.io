@@ -15,7 +15,7 @@
     font-size: 42px;
     font-weight: $title-font-weight;
     line-height: 56px;
-    letter-spacing: -1px;
+    letter-spacing: 4px;
     margin-bottom: 0;
     border-bottom: 2px solid $grey-color-light;
 
@@ -40,6 +40,7 @@
 
 .site-nav {
     line-height: 56px;
+    font-family: $title-font-family;
 
     .menu-icon {
         display: none;
@@ -319,19 +320,24 @@
     border: 1px solid $alt-color;
 }
 .project-list img {
-    margin: 16px 0;
+    margin: 8px 0;
 }
 .project-list li {
-    display: inline-block;
-    width: 128px;
+    display: block;
     margin: 32px 20px 32px 0 ;
     vertical-align: top;
 }
 .project-list li img {
-    margin-bottom: 20px;
+    float: left;
+    width: 128px;
+    margin-right: 20px;
+}
+.project-list .clear {
+    clear: left;
 }
 .project-description {
     font-size: .8em;
+    clear: all;
 }
 
 .tag-list {
@@ -343,10 +349,9 @@
 
 .note {
     color: $grey-color;
-    font-family: $title-font-family;
+    font-size: .8em;
 }
 .note-it {
     color: $grey-color;
-    font-family: $title-font-family;
     font-style: italic;
 }

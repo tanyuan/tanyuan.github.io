@@ -4,7 +4,7 @@ category: Research
 date:  2017-05-06 00:00:00 +0800
 title: Way Out
 author: Shan-Yuan Teng, Mu-Hsuan Chen, Yung-Ta Lin
-description: A multi-layer panorama mobile game using around-body interactions. (CHI EA '17)
+description: A multi-layer panorama mobile game using around-body interactions. (CHI Extended Abstract '17)
 thumbnail: wayout-thumb.png
 permalink: /projects/wayout/
 ---
