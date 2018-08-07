@@ -6,7 +6,7 @@ permalink: /bio/
 
 <img style="float: right; padding: 0 1em 1em 1em" width="40%" max-width="100%"  src="/assets/profile_photo.jpg">
 
-## Shan-Yuan Teng | 鄧善元
+## Shan-Yuan Teng <br> 鄧善元
 
 <span class="note">Taipei, Taiwan</span>
 
