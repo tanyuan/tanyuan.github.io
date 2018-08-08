@@ -309,8 +309,45 @@
 .project-title {
     font-family: $title-font-family;
     font-weight: $title-font-weight;
-    font-size: 1.2em;
+    font-size: 1.6em;
 }
+
+.project-col-wrapper {
+    margin-left: -$spacing-unit / 2;
+    @extend %clearfix;
+}
+.project-col {
+    float: left;
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+}
+.project-col-1 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+.project-col-2 {
+    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+    width:         calc(60% - (#{$spacing-unit} / 2));
+}
+@include media-query($on-laptop) {
+    .project-col-1 {
+        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+        width:         calc(50% - (#{$spacing-unit} / 2));
+    }
+
+    .project-col-2 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+@include media-query($on-palm) {
+    .project-col {
+        float: none;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
 .project-list {
     max-width: 640px;
     margin: 0 auto;
@@ -329,18 +366,28 @@
     margin: 32px 20px 32px 0 ;
     vertical-align: top;
 }
-.project-list li img {
-    float: left;
-    width: 128px;
-    margin-right: 20px;
-}
-.project-list .clear {
-    clear: left;
-}
+
 .project-description {
-    font-size: .8em;
-    clear: all;
+    font-family: $title-font-family;
+    font-weight: $title-font-weight;
+    font-size: 1.4em;
 }
+.project-author {
+    font-size: .8em;
+}
+.project-publication {
+    font-family: $title-font-family;
+    font-weight: $title-font-weight;
+    font-size: 1em;
+    color: $alt-color;
+}
+.project-award {
+    font-family: $title-font-family;
+    font-weight: 700;
+    font-size: 1em;
+    color: $alt-color;
+}
+
 
 .tag-list {
     color: $alt-color;

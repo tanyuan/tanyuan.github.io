@@ -6,7 +6,7 @@ permalink: /publications/
 
 * **Shan-Yuan Teng**, Tzu-Sheng Kuo, Chi Wang, Chi-huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen. 2018. \\
 *PuPoP: Pop-up Prop on Palm for Virtual Reality.* \\
-<span class="note">To appear in Proceedings of the 30th Annual Symposium on User Interface Software and Technology (UIST '18). ACM.</span>
+<span class="note">To appear in Proceedings of the 31st Annual Symposium on User Interface Software and Technology (UIST '18). ACM.</span>
 * Yung-Ta Lin, Yi-Chi Liao, **Shan-Yuan Teng**, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen. 2017. \\
 *Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a 360 Video Using Spatial Picture-in-Picture Previews.* \\
 <span class="note">In Proceedings of the 30th Annual Symposium on User Interface Software and Technology (UIST '17). ACM.</span> \\

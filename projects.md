@@ -19,27 +19,41 @@ permalink: /projects/
 
           <div class="post-meta">{{ project_year }}</div>
 
-          {% if project.permalink %}
-          <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-          {% endif %}
-          <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-          {% if project.permalink %}
-          </a>
-          {% endif %}
-
-          <div>
-          {% if project.permalink %}
-          <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-          {% endif %}
-              <span class="project-title">{{ project.title }}</span>
-          {% if project.permalink %}
-          </a>
-          {% endif %}
-          {% if project.description %}
-          <div class="project-description">{{ project.description }}</div>
-          {% endif %}
+          <div class="project-col-wrapper">
+              <div class="project-col project-col-1">
+                  {% if project.permalink %}
+                  <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+                  {% endif %}
+                  <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
+                  {% if project.permalink %}
+                  </a>
+                  {% endif %}
+              </div>
+              <div class="project-col project-col-2">
+                  {% if project.permalink %}
+                  <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+                  {% endif %}
+                      <span class="project-title">{{ project.title }}</span>
+                  {% if project.permalink %}
+                  </a>
+                  {% endif %}
+                  {% if project.description %}
+                  <div class="project-description">{{ project.description }}</div>
+                  {% endif %}
+                  {% if project.author %}
+                  <div class="project-author">{{ project.author }}</div>
+                  {% endif %}
+                  {% if project.publication %}
+                  <div class="project-publication">{{ project.publication }}</div>
+                  {% endif %}
+                  {% if project.award %}
+                  <div class="project-award"><b>{{ project.award }}</b></div>
+                  {% endif %}
+                  {% if project.paper %}
+                  <div class="project-paper">[ <a href="{{ project.paper }}">Paper</a> ]</div>
+                  {% endif %}
+              </div>
           </div>
-          <div class="clear"></div>
 
       </li>
     {% endif %}
@@ -62,27 +76,41 @@ permalink: /projects/
 
       <div class="post-meta">{{ project_year }} - {{ project.category }}</div>
 
-      {% if project.permalink %}
-      <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-      {% endif %}
-      <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-      {% if project.permalink %}
-      </a>
-      {% endif %}
-
-      <div>
-      {% if project.permalink %}
-      <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-      {% endif %}
-          <span class="project-title">{{ project.title }}</span>
-      {% if project.permalink %}
-      </a>
-      {% endif %}
-      {% if project.description %}
-      <div class="project-description">{{ project.description }}</div>
-      {% endif %}
+      <div class="project-col-wrapper">
+          <div class="project-col project-col-1">
+              {% if project.permalink %}
+              <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+              {% endif %}
+              <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
+              {% if project.permalink %}
+              </a>
+              {% endif %}
+          </div>
+          <div class="project-col project-col-2">
+              {% if project.permalink %}
+              <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+              {% endif %}
+                  <span class="project-title">{{ project.title }}</span>
+              {% if project.permalink %}
+              </a>
+              {% endif %}
+              {% if project.description %}
+              <div class="project-description">{{ project.description }}</div>
+              {% endif %}
+              {% if project.author %}
+              <div class="project-author">{{ project.author }}</div>
+              {% endif %}
+              {% if project.publication %}
+              <div class="project-publication">{{ project.publication }}</div>
+              {% endif %}
+              {% if project.award %}
+              <div class="project-award"><b>{{ project.award }}</b></div>
+              {% endif %}
+              {% if project.paper %}
+              <div class="project-paper">[ <a href="{{ project.paper }}">Paper</a> ]</div>
+              {% endif %}
+          </div>
       </div>
-      <div class="clear"></div>
 
       </li>
     {% endif %}

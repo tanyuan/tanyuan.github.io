@@ -3,8 +3,10 @@ layout: project
 category: Research
 date:  2016-10-16 00:00:00 +0800
 title: EMS Air Guitar
-author: Shan-Yuan Teng, Jo-Hsi Tang, Yi-Chi Liao, Rong-Hao Liang, Bing-Yu Chen
-description: A music experience that moves your body using electrical muscle stimulation. (UIST '16 Student Innovation Contest)
+author: "<b>Shan-Yuan Teng</b>, Yung-Ta Lin, Yi-Chi Liao"
+description: A music experience that moves your body using electrical muscle stimulation
+publication: "The 29th Annual Symposium on User Interface Software & Technology (UIST ‘16) Student Innovaton Contest (SIC)"
+award: Best Implementation Award
 thumbnail: emsairguitar-thumb.png
 permalink: /projects/emsairguitar/
 ---
