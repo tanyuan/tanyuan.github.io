@@ -188,6 +188,12 @@
     }
 }
 
+h2.post-title {
+  font-family: $title-font-family;
+  font-size: 2em;
+  line-height: 1.4;
+}
+
 .post-content {
     font-family:$base-font-family;
     margin-bottom: $spacing-unit;
