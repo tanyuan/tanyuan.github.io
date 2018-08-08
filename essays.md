@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Essays
-permalink: /essays/
+permalink: /essays
 ---
 
   <ul class="post-list">

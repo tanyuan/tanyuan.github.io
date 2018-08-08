@@ -1,21 +1,5 @@
 /* Home Page */
 
-.p5-embed {
-    display: block;
-}
-.p5-mobile {
-    display: none;
-}
-
-@include media-query($on-palm) {
-    .p5-embed {
-        display: none;
-    }
-    .p5-mobile {
-        display: block;
-    }
-}
-
 .home {
     text-align: center;
     font-size: .8em;
