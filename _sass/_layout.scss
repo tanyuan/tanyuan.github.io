@@ -390,7 +390,10 @@
 
 
 .tag-list {
-    color: $alt-color;
+  font-family: $title-font-family;
+  font-weight: $title-font-weight;
+  font-size: 1em;
+  color: $alt-color;
 }
 .tag {
     margin-right: 6px;

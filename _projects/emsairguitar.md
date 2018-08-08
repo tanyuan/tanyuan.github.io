@@ -4,7 +4,7 @@ category: Research
 date:  2016-10-16 00:00:00 +0800
 title: EMS Air Guitar
 author: "<b>Shan-Yuan Teng</b>, Yung-Ta Lin, Yi-Chi Liao"
-description: A music experience that moves your body using electrical muscle stimulation
+description: A music experience that moves your body using electrical muscle stimulation.
 publication: "The 29th Annual Symposium on User Interface Software & Technology (UIST ‘16) Student Innovaton Contest (SIC)"
 award: Best Implementation Award
 thumbnail: emsairguitar-thumb.png

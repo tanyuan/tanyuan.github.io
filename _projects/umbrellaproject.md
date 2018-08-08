@@ -1,9 +1,9 @@
 ---
-layout: project 
+layout: project
 category: Art
 date:  2013-04-19 00:00:00 +0800
 title: 八分之幾的乾燥空間 (The Umbrella Project)
-author: National Taiwan University Art Festival 19th
+publication: Artwork for National Taiwan University Art Festival 19th
 description: A performance art on a rainy day.
 thumbnail: umbrellaproject-thumb.jpg
 permalink: /projects/umbrellaproject/

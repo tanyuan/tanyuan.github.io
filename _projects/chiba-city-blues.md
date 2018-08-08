@@ -3,8 +3,8 @@ layout: project
 category: Course Project
 date:  2016-01-23 00:00:00 +0800
 title: 千葉市藍調 (Chiba City Blues)
-author: 鄧善元、郭蕙綺、王虹
 description: Design fiction props for a story adapted from William Gibson's Neuromancer.
+publication: Design Fiction Course
 thumbnail: chiba-city-blues-thumb.png
 permalink: /projects/chiba-city-blues/
 ---
