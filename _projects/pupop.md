@@ -7,7 +7,7 @@ author: "<b>Shan-Yuan Teng</b>, Tzu-Sheng Kuo, Chi Wang, Chi-huan Chiang, Da-Yua
 description:  Pop-up Prop on Palm for Virtual Reality.
 publication:  "To appear at UIST 2018 Papers"
 thumbnail: pupop-thumb.png
-permalink: /projects/pupop
+permalink: /projects/pupop/
 ---
 
 {% include image.html
