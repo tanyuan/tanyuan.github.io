@@ -12,7 +12,7 @@ He is a human-computer interaction researcher focusing on novel interfaces. He l
 
 He received his M.S. from the Graduate Institute of Networking and Multimedia (2018), National Taiwan University, and B.S. in Electrical Engineering (2016), National Taiwan University. He currently works as a research assistant at NTU IoX Center.
 
-He is also interested in graphic design and new media art. He has [created](/projects/umbrellaproject) [artworks](/projects/mythology) for university art festival and co-curated [a tech art exhibtion](/projects/speculative-ntu).
+He is also interested in graphic design and new media art. He has [created](/projects/umbrellaproject) [artworks](/projects/mythology) for university art festival and co-curated [a tech art exhibition](/projects/speculative-ntu).
 
 ### Contact
 
