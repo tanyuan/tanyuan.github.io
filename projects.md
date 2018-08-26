@@ -17,7 +17,7 @@ permalink: /projects/
     {% if project_category == 'Research' and project_published != 'false' %}
       <li>
 
-          <div class="post-meta">{{ project_year }}</div>
+          <div class="post-meta">{{ project_year }} - {{ project.subcategory }}</div>
 
           <div class="project-col-wrapper">
               <div class="project-col project-col-1">
