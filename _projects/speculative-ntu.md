@@ -1,6 +1,6 @@
 ---
 layout: project
-category: Art
+category: Art Exhibition
 date:  2017-05-08 00:00:00 +0800
 title: 形策展：科技變形的實驗場 (Speculative NTU Exhibition)
 publication: Co-curator of National Taiwan University Art Festival 23rd

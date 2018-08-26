@@ -1,6 +1,6 @@
 ---
 layout: project
-category: Art
+category: Artwork
 date:  2013-04-19 00:00:00 +0800
 title: 八分之幾的乾燥空間 (The Umbrella Project)
 publication: Artwork for National Taiwan University Art Festival 19th
