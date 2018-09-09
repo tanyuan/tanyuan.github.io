@@ -1,7 +1,7 @@
 ---
 layout: project
 category: Research
-subcategory: Demo
+subcategory: Haptics (Demo)
 date:  2016-12-05 00:00:00 +0800
 title: Stylus Assistant
 author: "Long-Fei Lin, <b>Shan-Yuan Teng</b>, Rong-Hao Liang, Bing-Yu Chen"

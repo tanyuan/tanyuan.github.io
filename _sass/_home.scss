@@ -1,26 +1,40 @@
 /* Home Page */
 
 .home {
-    text-align: center;
-    font-size: .8em;
-    color: $grey-color;
-}
+  background-color: $text-color;
 
-.home a:hover {
-    text-decoration: none;
-}
+  header .site-title {
+    color: #fff;
+  }
+  header .site-nav .page-link {
+    color: #fff;
 
-.home p {
-    margin-bottom: 32px;
-    font-family: $title-font-family;
-    font-size: 2em;
-    color: $grey-color;
-}
+    &:visited {
+      color: #fff;
+    }
+  }
 
-.home div {
-    color: $grey-color;
-}
+  .cover {
+    position: relative;
+    color: #fff;
+    margin-bottom: 100px;
+    a {
+      color: #fff;
+    }
+    a:hover {
+      color: #fff;
+    }
 
-iframe {
-    border: none;
+    p {
+      position: absolute;
+      bottom: -80px;
+      left: 40px;
+      font-size: 3em;
+      line-height: 1em;
+      font-family: $title-font-family;
+      @include media-query($on-laptop) {
+          font-size: 2em;
+      }
+    }
+  }
 }

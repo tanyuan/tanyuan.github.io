@@ -1,7 +1,7 @@
 ---
 layout: project
 category: Research
-subcategory: Student Project
+subcategory: Haptics (Student Project)
 date:  2016-10-16 00:00:00 +0800
 title: EMS Air Guitar
 author: "<b>Shan-Yuan Teng</b>, Yung-Ta Lin, Yi-Chi Liao"
