@@ -8,7 +8,7 @@ permalink: /bio
 
 <span class="note">Taipei, Taiwan</span>
 
-He is a human-computer interaction researcher focusing on novel interfaces. He likes to experiment new ways of physical interactions with the virtual world, such as using [spatial sensors](/projects/wayout), [robotic arms](/projects/stylus),  [electrical muscle stimulation](/projects/emsairguitar) and [pneumatic actuation](/projects/pupop). He believes that interfaces integrating digital information with body movement and haptic sensation will bring us total harmony between humans and technology.
+He is a human-computer interaction researcher focusing on novel interfaces. He believes that integrating haptic sensation and body movement with digital media seamlessly will bring us total harmony between humans and technologies. He likes to explore new ways of interactions with unconventional hardware, such as [using airbags as a new approach for haptics in virtual reality](/projects/pupop), [providing force feedback on tablets using robotic arms](/projects/stylus), and [enhancing air guitar experiences using electrical muscle stimulation](/projects/emsairguitar). 
 
 He received his M.S. from the Graduate Institute of Networking and Multimedia (2018), National Taiwan University, and B.S. in Electrical Engineering (2016), National Taiwan University. He currently works as a research assistant at NTU IoX Center.
 
