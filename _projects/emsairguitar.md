@@ -46,7 +46,10 @@ Playing air guitar is an enjoyable way to feel the music; however, it takes some
 
 {% include image.html
            img="air-guitar-cover.png" %}
+           
 ---
+
+I proposed the main idea and implemented the Android app, also made the guitar case using a laser cutter.
 
 | Demo | **Shan-Yuan Teng**, Yung-Ta Lin, Yi-Chi Liao. 2016. Team Robin Hood: EMS Air Guitar. ACM Symposium on User Interface Software and Technology (UIST'16) Student Innovation Competition (SIC). <br>**UIST'16 Best SIC Award: Best Implementation Award** [[PDF (93KB)]](UIST2016_AwardsSIC.pdf) |  
 | Publication | **Shan-Yuan Teng**, Jo-Hsi Tang, Yi-Chi Liao, Rong-Hao Liang, Bing-Yu Chen. 2016. Playing Air Guitar by Electrical Muscle Stimulation. Asian Workshop on User Interface (AUI'16). |
