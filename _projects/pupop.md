@@ -21,6 +21,10 @@ permalink: /projects/pupop/
            caption="A light-weight pneumatic shape-proxy interface worn on the palm that pops several airbags up with predefined primitive shapes for grasping." %}
 
 {% include image.html
+           img="diagram.jpg"
+           caption="" %}
+
+{% include image.html
            img="shapes.png"
            caption="PuPoP design overview." %}
 
