@@ -32,7 +32,7 @@
       font-size: 3em;
       line-height: 1em;
       font-family: $title-font-family;
-      @include media-query($on-laptop) {
+      @include media-query($on-palm) {
           font-size: 2em;
       }
     }
