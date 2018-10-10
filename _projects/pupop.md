@@ -17,8 +17,8 @@ permalink: /projects/pupop/
 </div>
 
 {% include image.html
-           img="pupop_thumbnail.jpg"
-           caption="A light-weight pneumatic shape-proxy interface worn on the palm that pops several airbags up with predefined primitive shapes for grasping." %}
+           img="teaser.jpg"
+           caption="PuPoP is a wearable pneumatic shape-proxy interface for VR capable of popping up to primitive shapes and flattening on the palm. We demonstrate grasping emulation of picking up a virtual Lightsaber with a cylindrical PuPoP and throwing a virtual bomb with a spherical PuPoP." %}
 
 {% include image.html
            img="diagram.jpg"
