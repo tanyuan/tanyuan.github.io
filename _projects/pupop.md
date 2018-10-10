@@ -36,3 +36,4 @@ I then designed and conducted user studies to understand whether visual dominanc
 
 | Publication | **Shan-Yuan Teng**, Tzu-Sheng Kuo, Chi Wang, Chi-huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen. 2018. PuPoP: Pop-up Prop on Palm for Virtual Reality . To appear in Proceedings of the 31st Annual Symposium on User Interface Software and Technology (UIST ‘18). ACM. |
 | Paper | [PDF (408KB)](pupop_uist18.pdf) |
+| Media Coverage | [The craziest projects from a conference on experimental UI](https://www.fastcompany.com/90247985/the-craziest-projects-from-a-conference-on-experimental-ui) - Oct. 10, 2018, Fast Company <br> [国立台湾大学ら、柔らかさや心臓の拍動も再現できる空気圧を用いたVR向け触覚フィードバックデバイス「PuPoP」を発表](https://shiropen.com/seamless/pupop) - Sept. 5, 2018, Seamless|
