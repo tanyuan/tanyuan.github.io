@@ -1,12 +1,12 @@
 ---
 layout: project
 category: Research
-subcategory: Haptics (Full Paper)
+subcategory: Haptics
 date:  2018-08-01 00:00:00 +0800
 title: "PuPoP"
 author: "<b>Shan-Yuan Teng</b>, Tzu-Sheng Kuo, Chi Wang, Chi-huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen"
 description:  Pop-up Prop on Palm for Virtual Reality.
-publication:  "To appear at UIST 2018 Papers"
+publication:  "UIST 2018 Paper"
 thumbnail: pupop-thumb.png
 paper: /projects/pupop/pupop_uist18.pdf
 permalink: /projects/pupop/
@@ -38,6 +38,6 @@ In this work, I contributed the main concept of always-available physical proxy 
 
 I then designed and conducted user studies to understand whether visual dominance effect could allow a prop with a fixed size to represent multiple virtual objects with similar sizes. Another user study compares PuPoP with controllers and free-hand manipulation in two VR applications.
 
-| Publication | **Shan-Yuan Teng**, Tzu-Sheng Kuo, Chi Wang, Chi-huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen. 2018. PuPoP: Pop-up Prop on Palm for Virtual Reality . To appear in Proceedings of the 31st Annual Symposium on User Interface Software and Technology (UIST ‘18). ACM. |
+| Publication | **Shan-Yuan Teng**, Tzu-Sheng Kuo, Chi Wang, Chi-huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen. 2018. PuPoP: Pop-up Prop on Palm for Virtual Reality . In Proceedings of the 31st Annual Symposium on User Interface Software and Technology (UIST ‘18). ACM. [DOI](https://doi.org/10.1145/3242587.3242628) |
 | Paper | [PDF (408KB)](pupop_uist18.pdf) |
 | Media Coverage | [The craziest projects from a conference on experimental UI](https://www.fastcompany.com/90247985/the-craziest-projects-from-a-conference-on-experimental-ui) - Oct. 10, 2018, Fast Company <br> [国立台湾大学ら、柔らかさや心臓の拍動も再現できる空気圧を用いたVR向け触覚フィードバックデバイス「PuPoP」を発表](https://shiropen.com/seamless/pupop) - Sept. 5, 2018, Seamless|

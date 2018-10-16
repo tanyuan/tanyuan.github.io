@@ -1,7 +1,7 @@
 ---
 layout: project
 category: Research
-subcategory: Haptics (Student Project)
+subcategory: Haptics
 date:  2016-10-16 00:00:00 +0800
 title: EMS Air Guitar
 author: "<b>Shan-Yuan Teng</b>, Yung-Ta Lin, Yi-Chi Liao"
@@ -46,7 +46,7 @@ Playing air guitar is an enjoyable way to feel the music; however, it takes some
 
 {% include image.html
            img="air-guitar-cover.png" %}
-           
+
 ---
 
 I proposed the main idea and implemented the Android app, also made the guitar case using a laser cutter.

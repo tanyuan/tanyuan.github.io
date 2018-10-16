@@ -1,7 +1,7 @@
 ---
 layout: project
 category: Research
-subcategory: Game (Student Project)
+subcategory: Game
 date:  2017-05-06 00:00:00 +0800
 title: Way Out
 author: <b>Shan-Yuan Teng</b>, Mu-Hsuan Chen, Yung-Ta Lin

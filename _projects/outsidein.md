@@ -1,7 +1,7 @@
 ---
 layout: project
 category: Research
-subcategory: Visualization (Full Paper)
+subcategory: Visualization
 date:  2017-08-01 00:00:00 +0800
 title: "Outside-In"
 author: "Yung-Ta Lin, Yi-Chi Liao, <b>Shan-Yuan Teng</b>, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen"
