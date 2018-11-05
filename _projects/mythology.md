@@ -19,7 +19,7 @@ permalink: /projects/mythology/
 
 人和人之間的距離關係就像是神話，恰似有某種奇妙的力量在控制。這件作品可以匯聚四周人群流動的力量，轉換成聲音，再變成一種力量去影響人群；神話，也是和神的對話，冥冥之中有神在掌握著人群的流動。
 
-The distance relation between people is a mythology in some way, controlled by some intriguing force. This installation collects the flow of the people around it, and turns the flow into sound, which becomes another force that influences the people back. Mythology is also for the talks about the god, who is dominating how the people flow.
+The distant relation between people is a mythology in some way, controlled by some unknown but intriguing force. This installation collects the flow of the people around it by sensing the distance in five directions, and turns the flow into sound, which becomes another force that influences the people back.
 
 
 <div class="video-wrapper">
