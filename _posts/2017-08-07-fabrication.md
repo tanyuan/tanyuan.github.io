@@ -2,7 +2,7 @@
 layout: post
 title:  "個人製造的互動新未來"
 date:   2017-08-07 07:00:00 +0800
-tags:   [Digital Fabrication]
+category:   Digital Fabrication
 ---
 
 人類是製造工具的生物，為了砍柴，我們打造斧頭，為了移動，我們打造輪子。黑格爾認為人們其實就是透過工具不斷改變自己命運的 Homo faber (man the maker)，除了生存，人們也透過創造屬於自己的世界，來反映自己的想望，來表現自己的烏托邦。
@@ -34,7 +34,7 @@ MIT Media Lab 利用 3D 列印拉絲的效果做出 [Cilllia](http://tangible.me
 過去手工製造可以透過直接雕塑、切割、黏貼物件，即時看到、觸摸到半成品，透過持續不斷改造與感覺，創造出最後的成品。數位製造賦予我們更強大的工具，可是卻犧牲了直接觀看或觸摸物件的機會。CMU 研究者提出「互動製造」（Interactive Fabrication）[^3] 的概念，透過即時看到成品，拉近設計師和物件的距離。
 
 {% include image.html
-           img="/assets/fabrication/interactive-fabrication.png"
+           img="/assets/2017/08/07/interactive-fabrication.png"
            caption="Interactive Fabrication (Source: ACM)" %}
 
 致力於研究個人製造的 HPI HCI 實驗室 [^4] 探索不同尺度與情境下，互動製造的可能性。要即時製作出大型模型是一件不容易的事情，[Protopiper](https://hpi.de/baudisch/projects/protopiper.html) [^5] 是一把膠帶槍，使用者就可以拿著它在空間中畫出實體的線段，像是吸管，也可以讓它轉彎，快速製作家具大小的原型。
@@ -56,7 +56,7 @@ MIT Media Lab 利用 3D 列印拉絲的效果做出 [Cilllia](http://tangible.me
 如果我們想要製造任何東西，是不是就需要可以符合需求的機器？MIT Center for Bits and Atoms 開發了 Cardboard Machine Kit [^7]，是一個模組化的套件，像是 3D 印表機、雷射切割機、CNC 機器的原型，可以讓人們組裝自己需要的機器。
 
 {% include image.html
-           img="/assets/fabrication/machines-that-make.png"
+           img="/assets/2017/08/07/machines-that-make.png"
            caption="組裝不同的 X、Y、Z 軸和旋轉軸，來設計自己的機器。 (Source: MIT CBA)" %}
 
 <div class="video-wrapper">
@@ -68,7 +68,7 @@ MIT Media Lab 利用 3D 列印拉絲的效果做出 [Cilllia](http://tangible.me
 我們能夠用機器製造出許多東西，我們也能製造出各種機器，我想下一個階段便是消除這兩者之間的隔閡，也就是東西本身即是機器，東西本身就足以變為任何東西。似乎很難想像如何做到，但從製造物件和製造機器兩個方向出發，距離將會越來越近的。到時，我們又該如何和這樣的東西互動呢？
 
 {% include image.html
-           img="/assets/fabrication/machine-object.png" %}
+           img="/assets/2017/08/07/machine-object.png" %}
 
 [^1]: [Printed Optics: 3D Printing of Embedded Optical Elements for Interactive Devices](https://www.disneyresearch.com/project/printed-optics/) (UIST '12) 另外 Disney Research 也用 3D 印表機做出任意形狀的喇叭：[3D Printed Interactive Speakers](https://www.disneyresearch.com/project/printed-speakers/)。
 

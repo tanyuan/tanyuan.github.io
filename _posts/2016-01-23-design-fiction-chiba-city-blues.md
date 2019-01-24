@@ -2,7 +2,7 @@
 layout: post
 title:  "虛構設計：千葉市藍調"
 date:   2016-01-23 21:30:00 +0800
-tags:   [Design Fiction]
+category:  Design Fiction2016
 ---
 
 <div class="video-wrapper">
@@ -39,7 +39,7 @@ tags:   [Design Fiction]
 課堂作業中，我們拍下台灣街頭真實的影像，結合小說的文字；錄下真實世界的聲音，混雜成科幻的情節。慢慢開始說服自己已經活在另一個平行世界。在這個世界裡，一切都是科幻，背後都有另外一個故事。
 
 {% include image.html
-           img="/assets/chiba-city-blues/neuromancer-videogame.png"
+           img="/assets/2016/01/23/neuromancer-videogame.png"
            caption="Neuromancer 電玩 (1988)" %}
 
 我們從《神經喚術士》第一章開頭的仁清街酒吧，作為故事場景。我們設想了生化人的角色，作為服務型的機器人，其情緒受到限制，無法感受喜怒哀樂。然而突然出現神秘的調酒，這種調酒充滿情緒，若非人類，是無法調出的。就像是有名的餐館背後都有神秘的故事一般。
@@ -53,24 +53,24 @@ tags:   [Design Fiction]
 我們設計街頭尋人啟事公告、酒吧的視覺圖像：招牌、酒單。想像充滿喜怒哀樂的奇幻調酒的顏色與結構：
 
 {% include image.html
-           img="/assets/chiba-city-blues/liquid.jpg"
+           img="/assets/2016/01/23/liquid.jpg"
            caption="千葉市藍調調酒，poly、硬化劑、廣顏與玻璃瓶" %}
 
 製作了酒吧裡的終端機台，為生化人駭入網際空間的外神經裝置：
 
 {% include image.html
-           img="/assets/chiba-city-blues/neuro-devices-diagram.png" %}
+           img="/assets/2016/01/23/neuro-devices-diagram.png" %}
 
 {% include image.html
-           img="/assets/chiba-city-blues/neuro-handwear.jpg"
+           img="/assets/2016/01/23/neuro-handwear.jpg"
            caption="Neurohandwear，塑膠管、塑膠軟管、金屬噴漆" %}
 
 {% include image.html
-           img="/assets/chiba-city-blues/neuro-headset.jpg"
+           img="/assets/2016/01/23/neuro-headset.jpg"
            caption="Neuroheadset，Google Cardboard、智慧行動裝置、塑膠軟管、金屬噴漆" %}
 
 {% include image.html
-           img="/assets/chiba-city-blues/exhibition.jpg"
+           img="/assets/2016/01/23/exhibition.jpg"
            caption="《千葉市藍調》迷你展覽" %}
 
 ## 虛構設計

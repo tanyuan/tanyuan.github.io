@@ -7,17 +7,9 @@ permalink: /essays
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.category %} - {{post.category}}{% endif %}</span><br>
 
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
-          {% if post.tags %}
-          <div class="tag-list">
-          {% for tag in post.tags %}
-            <span class="tag">{{tag}}</span>
-          {% endfor %}
-          </div>
-          {% endif %}
 
       </li>
     {% endfor %}
