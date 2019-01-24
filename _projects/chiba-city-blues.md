@@ -25,7 +25,7 @@ The story is named after the first chapter of the novel _Neuromancer_ by William
 We designed the poster, and cocktails that stimulate multiple kinds of emotions:
 
 {% include image.html
-           img="/assets/chiba-city-blues/liquid.jpg"
+           img="liquid.jpg"
            caption="千葉市藍調調酒，poly、硬化劑、廣顏與玻璃瓶" %}
 
 製作了酒吧裡的終端機台，為生化人駭入網際空間的外神經裝置：
@@ -34,19 +34,19 @@ We made props of the headset and gloves for accessing the cyberspace:
 
 
 {% include image.html
-           img="/assets/chiba-city-blues/neuro-devices-diagram.png" %}
+           img="neuro-devices-diagram.png" %}
 
 {% include image.html
-           img="/assets/chiba-city-blues/neuro-handwear.jpg"
+           img="neuro-handwear.jpg"
            caption="Neurohandwear，塑膠管、塑膠軟管、金屬噴漆" %}
 
 {% include image.html
-           img="/assets/chiba-city-blues/neuro-headset.jpg"
+           img="neuro-headset.jpg"
            caption="Neuroheadset，Google Cardboard、智慧行動裝置、塑膠軟管、金屬噴漆" %}
 
 
 {% include image.html
-           img="/assets/chiba-city-blues/exhibition.jpg"
+           img="exhibition.jpg"
            caption="《千葉市藍調》迷你展覽 Mini exhibition." %}
 
 ---
