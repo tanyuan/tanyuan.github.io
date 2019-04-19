@@ -7,6 +7,7 @@ description: HCI lab hands-on training courses to design your third hand with ro
 publication: Workshop lecturer
 thumbnail: hocuin-thumb.png
 permalink: /projects/hocuin/
+published: false
 ---
 
 {% include image.html
