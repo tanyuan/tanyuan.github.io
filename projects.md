@@ -49,9 +49,6 @@ permalink: /projects/
                   {% if project.award %}
                   <div class="project-award"><b>{{ project.award }}</b></div>
                   {% endif %}
-                  {% if project.paper %}
-                  <div class="project-paper">[ <a href="{{ project.paper }}">Paper</a> ]</div>
-                  {% endif %}
               </div>
           </div>
 
@@ -105,9 +102,6 @@ permalink: /projects/
               {% endif %}
               {% if project.award %}
               <div class="project-award"><b>{{ project.award }}</b></div>
-              {% endif %}
-              {% if project.paper %}
-              <div class="project-paper">[ <a href="{{ project.paper }}">Paper</a> ]</div>
               {% endif %}
           </div>
       </div>

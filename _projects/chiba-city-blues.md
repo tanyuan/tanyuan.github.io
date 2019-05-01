@@ -7,6 +7,7 @@ description: Design fiction props for a story adapted from William Gibson's Neur
 publication: Design Fiction Course
 thumbnail: chiba-city-blues-thumb.png
 permalink: /projects/chiba-city-blues/
+published: false
 ---
 
 <div class="video-wrapper">

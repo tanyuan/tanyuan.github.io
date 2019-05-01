@@ -7,6 +7,7 @@ publication: Co-curator of National Taiwan University Art Festival 23rd
 description: Tech art exhibition for National Taiwan University Art Festival.
 thumbnail: speculative-ntu-thumb.png
 permalink: /projects/speculative-ntu/
+published: false
 ---
 
 {% include image.html
