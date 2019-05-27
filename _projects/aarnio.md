@@ -13,7 +13,7 @@ permalink: /projects/aarnio/
 ---
 
 <div class="video-wrapper">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/yD9zgEfij-Y" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/kFls3r3qJz8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 {% include image.html

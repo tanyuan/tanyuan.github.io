@@ -27,7 +27,7 @@ _SIGGRAPH ASIA 2016 Emerging Technologies_ [[ PDF ]](/projects/stylus/SA16SA_v2.
 
 ### Education
 
-* **M.S., the Graduate Institute of Networking and Multimedia (2018)**\\
+* **M.S., Graduate Institute of Networking and Multimedia (2018)**\\
 National Taiwan University, Taipei, Taiwan\\
 _Communications and Multimedia Lab_
 * **B.S., Department of Electrical Engineering (2016)**\\
