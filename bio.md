@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio
 ---
 
-Shan-Yuan is a Human-Computer Interaction (HCI) researcher who explores future interactions by inventing novel hardware. He will soon become a Computer Science PhD student in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) (led by [Prof. Pedro Lopes](http://plopes.org)) at the University of Chicago. He believes that seamless integration of haptic sensation and digital information will bring us total harmony between humans and technologies. [His projects](/projects/) involve [wearable airbags for VR](/projects/pupop) and [force feedback chair for daily life](/projects/aarnio).
+Shan-Yuan is a Human-Computer Interaction (HCI) researcher who explores future interactions by inventing novel hardware. He is a Computer Science PhD student in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) (led by [Prof. Pedro Lopes](http://plopes.org)) at the University of Chicago. He believes that seamless integration of haptic sensation and digital information will bring us total harmony between humans and technologies. [His projects](/projects/) involve [wearable airbags for VR](/projects/pupop) and [force feedback chair for daily life](/projects/aarnio).
 
 ### Publications
 
