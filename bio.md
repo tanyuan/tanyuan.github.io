@@ -4,10 +4,13 @@ title: Bio
 permalink: /bio
 ---
 
-Shan-Yuan is a Human-Computer Interaction (HCI) researcher who explores future interactions by inventing novel hardware. He is a Computer Science PhD student in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) (led by [Prof. Pedro Lopes](http://plopes.org)) at the University of Chicago. He believes that seamless integration of haptic sensation and digital information will bring us total harmony between humans and technologies. [His projects](/projects/) involve [wearable airbags for VR](/projects/pupop) and [force feedback chair for daily life](/projects/aarnio).
+Shan-Yuan is a PhD student working in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) (led by [Prof. Pedro Lopes](http://plopes.org)) at the University of Chicago. He believes that seamless integration of haptic sensation and digital information will bring us total harmony between humans and technologies. [His projects](/projects/) involve [providing dynamic shape sensation to Virtual Reality with structured airbags](/projects/pupop) and [adding force feedback to daily interactions with the chairs](/projects/aarnio).
 
 ### Publications
 
+* TilePoP: Tile-type Pop-up Prop for Virtual Reality\\
+**Shan-Yuan Teng**, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, Bing-Yu Chen\\
+_To appear at UIST 2019 Paper_
 * Aarnio: Passive Kinesthetic Force Output for Foreground Interactions on an Interactive Chair\\
 **Shan-Yuan Teng**, Da-Yuan Huang, Chi Wang, Jun Gong, Teddy Seyed, Xing-Dong Yang, Bing-Yu Chen\\
 _CHI 2019 Paper_ [[ PDF ]](/projects/aarnio/aarnio_chi19.pdf)
@@ -27,6 +30,9 @@ _SIGGRAPH ASIA 2016 Emerging Technologies_ [[ PDF ]](/projects/stylus/SA16SA_v2.
 
 ### Education
 
+* **Ph.D. Student, Department of Computer Science (2019-)**\\
+University of Chicago, Chicago, Illinois, United States\\
+_Human Computer Integration Lab_
 * **M.S., Graduate Institute of Networking and Multimedia (2018)**\\
 National Taiwan University, Taipei, Taiwan\\
 _Communications and Multimedia Lab_

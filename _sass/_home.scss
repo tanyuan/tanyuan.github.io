@@ -17,6 +17,7 @@
   .cover {
     position: relative;
     color: #fff;
+    margin-top: 50px;
     margin-bottom: 100px;
     a {
       color: #fff;
@@ -26,9 +27,6 @@
     }
 
     p {
-      position: absolute;
-      bottom: -80px;
-      left: 40px;
       font-size: 3em;
       line-height: 1em;
       font-family: $title-font-family;
@@ -36,5 +34,15 @@
           font-size: 2em;
       }
     }
+  .left-bottom {
+      position: absolute;
+      bottom: -80px;
+      left: 40px;
+  }
+  .top-right {
+      position: absolute;
+      top: -40px;
+      Right: 20px;
+  }
   }
 }
