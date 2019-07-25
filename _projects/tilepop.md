@@ -1,7 +1,7 @@
 ---
 layout: project
 category: Research
-subcategory: Haptics
+subcategory: Pneumatic
 date:  2019-07-24 00:00:00 +0000
 title: "TilePoP"
 author: "<b>Shan-Yuan Teng</b>, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, Bing-Yu Chen"

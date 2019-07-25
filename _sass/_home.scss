@@ -19,6 +19,10 @@
     color: #fff;
     margin-top: 50px;
     margin-bottom: 100px;
+    @include media-query($on-palm) {
+        margin-top: 100px;
+    }
+
     a {
       color: #fff;
     }
@@ -41,8 +45,12 @@
   }
   .top-right {
       position: absolute;
+      Text-align: right;
       top: -40px;
       Right: 20px;
+      @include media-query($on-palm) {
+          top: -80px;
+      }
   }
   }
 }

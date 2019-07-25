@@ -338,6 +338,12 @@ h2.post-title {
 @include media-query($on-palm) {
     .project-col {
         float: none;
+    }
+    .project-col-1 {
+    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+    width:         calc(60% - (#{$spacing-unit} / 2));
+    }
+    .project-col-2 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
