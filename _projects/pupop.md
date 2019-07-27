@@ -1,13 +1,13 @@
 ---
 layout: project
-category: Research
-subcategory: Pneumatic
+category: research
+subcategory: pneumatic
 date:  2018-08-01 00:00:00 +0800
 title: "PuPoP"
 author: "<b>Shan-Yuan Teng</b>, Tzu-Sheng Kuo, Chi Wang, Chi-huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen"
 description:  Pop-up Prop on Palm for Virtual Reality.
 publication:  "UIST 2018 Paper"
-thumbnail: pupop-thumb.png
+thumbnail: /projects/pupop/pupop-thumb.png
 paper: /projects/pupop/pupop_uist18.pdf
 permalink: /projects/pupop/
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 ---
 
-## Research
+## research
 
 <div class="project-list">
   <ul>
@@ -14,7 +14,7 @@ permalink: /projects/
     {% capture project_published %}{{project.published}}{% endcapture %}
     {% capture project_category %}{{project.category}}{% endcapture %}
 
-    {% if project_category == 'Research' and project_published != 'false' %}
+    {% if project_category == 'research' and project_published != 'false' %}
       <li>
 
           <div class="post-meta">{{ project_year }} - {{ project.subcategory }}</div>
@@ -58,7 +58,7 @@ permalink: /projects/
   </ul>
 </div>
 
-## Beyond Research
+## beyond research
 
 <div class="project-list">
   <ul>
@@ -68,7 +68,7 @@ permalink: /projects/
     {% capture project_published %}{{project.published}}{% endcapture %}
     {% capture project_category %}{{project.category}}{% endcapture %}
 
-    {% if project_category != 'Research' and project_published != 'false' %}
+    {% if project_category != 'research' and project_published != 'false' %}
       <li>
 
       <div class="post-meta">{{ project_year }} - {{ project.category }}</div>

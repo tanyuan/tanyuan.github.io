@@ -2,7 +2,7 @@
 layout: post
 title:  "魔法作為虛擬實境的原動力"
 date:   2018-04-29 07:00:00 +0800
-category:   Virtual Reality
+category:   virtual reality
 ---
 
 > 心理學是虛擬實境的物理。我們的身體即我們的介面。知識寄託於體驗。資料存在於環境。尺度和時間都是可以探索的維度。我們的經驗價值千兆的位元。真實感並非必須。 [^1] \\

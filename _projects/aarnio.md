@@ -1,13 +1,13 @@
 ---
 layout: project
-category: Research
-subcategory: Haptics
+category: research
+subcategory: haptics
 date:  2019-02-01 00:00:00 +0800
 title: "Aarnio"
 author: "<b>Shan-Yuan Teng</b>, Da-Yuan Huang, Chi Wang, Jun Gong, Teddy Seyed,  Xing-Dong Yang, Bing-Yu Chen"
 description:  Passive Kinesthetic Force Output for Foreground Interactions on an Interactive Chair.
 publication:  "CHI 2019 Paper"
-thumbnail: aarnio-thumb.jpg
+thumbnail: /projects/aarnio/aarnio-thumb.jpg
 paper: /projects/aarnio/aarnio_chi19.pdf
 permalink: /projects/aarnio/
 ---

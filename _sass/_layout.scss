@@ -67,7 +67,9 @@
 .site-footer {
     font-family: $title-font-family;
     padding: $spacing-unit 0;
-    background-color: $grey-color-light;
+    color: $grey-color;
+    text-align: center;
+    font-style: italic;
 }
 
 .footer-heading {
@@ -328,12 +330,12 @@ h2.post-title {
     padding-left: $spacing-unit / 2;
 }
 .project-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 .project-col-2 {
-    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
-    width:         calc(60% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(70% - (#{$spacing-unit} / 2));
+    width:         calc(70% - (#{$spacing-unit} / 2));
 }
 @include media-query($on-palm) {
     .project-col {
@@ -355,6 +357,7 @@ h2.post-title {
 }
 .project-list img {
     border: 1px solid $grey-color-light;
+    width: 128px;
 }
 .project-list a:hover img {
     border: 1px solid $alt-color;

@@ -1,13 +1,13 @@
 ---
 layout: project
-category: Research
-subcategory: Haptics
+category: research
+subcategory: haptics
 date:  2016-12-05 00:00:00 +0800
 title: Stylus Assistant
 author: "Long-Fei Lin, <b>Shan-Yuan Teng</b>, Rong-Hao Liang, Bing-Yu Chen"
 description: Designing dynamic constraints for facilitating stylus inputs on portable displays.
 publication: SIGGRAPH ASIA 2016 Emerging Technologies
-thumbnail: stylus-thumb.jpg
+thumbnail: /projects/stylus/stylus-thumb.jpg
 paper: /projects/stylus/SA16SA_v2.pdf
 permalink: /projects/stylus/
 ---

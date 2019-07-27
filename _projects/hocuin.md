@@ -1,11 +1,11 @@
 ---
 layout: project
-category: Workshop
+category: workshop
 date:  2017-07-21 00:00:00 +0800
 title: Hot! Cute! Interaction!
 description: HCI lab hands-on training courses to design your third hand with robotic arms!
 publication: Workshop lecturer
-thumbnail: hocuin-thumb.png
+thumbnail: /projects/hocuin/hocuin-thumb.png
 permalink: /projects/hocuin/
 published: false
 ---

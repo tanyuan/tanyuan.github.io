@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Essays
+title: essays
 permalink: /essays
 ---
 
@@ -15,4 +15,4 @@ permalink: /essays
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe note"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+  <p class="rss-subscribe note"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">rss</a></p>
