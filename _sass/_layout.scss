@@ -65,7 +65,8 @@
  * Site footer
  */
 .site-footer {
-    font-family: $title-font-family;
+    font-family: $base-font-family;
+    font-size: .8em;
     padding: $spacing-unit 0;
     color: $grey-color;
     text-align: center;
@@ -162,6 +163,7 @@
 
 .post-meta {
     font-size: $small-font-size;
+    font-style: italic;
     color: $grey-color;
 }
 
@@ -383,13 +385,13 @@ h2.post-title {
     font-family: $title-font-family;
     font-weight: $title-font-weight;
     font-size: 1em;
-    color: $alt-color;
+    color: $grey-color;
 }
 .project-award {
     font-family: $title-font-family;
     font-weight: 700;
     font-size: 1em;
-    color: $alt-color;
+    color: $grey-color;
 }
 
 
@@ -405,7 +407,6 @@ h2.post-title {
 
 .note {
     color: $grey-color;
-    font-size: .8em;
 }
 .note-it {
     color: $grey-color;
