@@ -2,7 +2,6 @@
 layout: post
 title:  "虛構設計：千葉市藍調"
 date:   2016-01-23 21:30:00 +0800
-category:  design fiction
 ---
 
 <div class="video-wrapper">
