@@ -36,7 +36,7 @@ We present TilePoP, a new type of pneumatically-actuated interface deployed as f
 
 (To appear at UIST 2019.)
 
-| Publication | **Shan-Yuan Teng**, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual Symposium on User Interface Software and Technology (UIST ‘19). ACM, New York, NY, USA. |
+| Publication | **Shan-Yuan Teng**, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual Symposium on User Interface Software and Technology (UIST ‘19). ACM, New York, NY, USA. [https://doi.org/10.1145/3332165.3347958](https://doi.org/10.1145/3332165.3347958) |
 | Award | **UIST ‘19 Honorable Mention Award** |
-| Paper | [PDF (25.8MB)](tilepop_uist19.pdf) / [DOI](https://doi.org/10.1145/3332165.3347958) |
+| Paper | [PDF (25.8MB)](tilepop_uist19.pdf) |
 | Related Project | [PuPoP: Pop-up Prop on Palm for Virtual Reality](/projects/pupop) |
