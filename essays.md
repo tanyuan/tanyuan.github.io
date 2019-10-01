@@ -10,6 +10,10 @@ permalink: /essays
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.category %} - {{post.category}}{% endif %}</span><br>
 
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          
+          {% if post.subtitle %}
+          <p class="post-list-subtitle">{{ post.subtitle }}</p>
+          {% endif %}
 
       </li>
     {% endfor %}

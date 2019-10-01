@@ -153,7 +153,7 @@
 }
 
 .post-list {
-    margin-left: 0;
+    margin: 0 $spacing-unit;
     list-style: none;
 
     > li {
@@ -171,8 +171,6 @@
     font-family:$title-font-family;
     font-size: 24px;
 }
-
-
 
 /**
  * Posts
@@ -313,6 +311,13 @@ h2.post-title {
             line-height: 1.8em;
             margin: 0;
         }
+    }
+    
+    .post-list-subtitle {
+        font-family: $title-font-family;
+        font-weight: $title-font-weight;
+        font-size: 1em;
+        color: $grey-color;
     }
 }
 
