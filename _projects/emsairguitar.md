@@ -7,7 +7,7 @@ title: EMS Air Guitar
 author: "<b>Shan-Yuan Teng</b>, Yung-Ta Lin, Yi-Chi Liao"
 description: A music experience that moves your body using electrical muscle stimulation.
 publication: UIST 2016 Student Innovation Contest
-award: Best Implementation Award
+award: 🏆 Best Implementation Award
 thumbnail: /projects/emsairguitar/emsairguitar-thumb.png
 permalink: /projects/emsairguitar/
 ---
@@ -52,7 +52,7 @@ Playing air guitar is an enjoyable way to feel the music; however, it takes some
 I proposed the main idea and implemented the Android app, also made the guitar case using a laser cutter.
 
 | Demo | **Shan-Yuan Teng**, Yung-Ta Lin, Yi-Chi Liao. 2016. Team Robin Hood: EMS Air Guitar. ACM Symposium on User Interface Software and Technology (UIST'16) Student Innovation Competition (SIC). |  
-| Award | **UIST'16 Best SIC Award: Best Implementation Award** [[PDF (93KB)]](UIST2016_AwardsSIC.pdf) |
+| Award | 🏆 **UIST'16 Best SIC Award: Best Implementation Award** [[PDF (93KB)]](UIST2016_AwardsSIC.pdf) |
 | Publication | **Shan-Yuan Teng**, Jo-Hsi Tang, Yi-Chi Liao, Rong-Hao Liang, Bing-Yu Chen. 2016. Playing Air Guitar by Electrical Muscle Stimulation. Asian Workshop on User Interface (AUI'16). |
 | AUI'16 Paper | [PDF (168KB)](air-guitar-extended-abstract-AUI.pdf) |
 | AUI'16 Slides | [PDF (7.9MB)](AirGuitar-aui-present.pdf) |

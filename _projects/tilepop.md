@@ -7,7 +7,7 @@ title: "TilePoP"
 author: "<b>Shan-Yuan Teng</b>, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, Bing-Yu Chen"
 description:  Tile-type Pop-up Prop for Virtual Reality.
 publication:  "UIST 2019 Paper"
-award: Honorable Mention Award
+award: 🏅 Best Paper Honorable Mention Award<br>🏅 Best Talk Honorable Mention Award
 thumbnail: /projects/tilepop/tilepop-thumb.jpg
 permalink: /projects/tilepop/
 ---
@@ -35,6 +35,6 @@ permalink: /projects/tilepop/
 We present TilePoP, a new type of pneumatically-actuated interface deployed as floor tiles which dynamically pop up by inflating into large shapes constructing proxy objects for whole-body interactions in Virtual Reality. TilePoP consists of a 2D array of stacked cube-shaped airbags designed with specific folding structures, enabling each airbag to be inflated into a physical proxy and then deflated down back to its original tile shape when not in use. TilePoP is capable of providing haptic feedback for the whole body and can even support human body weight. Thus, it allows new interaction possibilities in VR.
 
 | Publication | **Shan-Yuan Teng**, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, Bing-Yu Chen. 2019. TilePoP: Tile-type Pop-up Prop for Virtual Reality. In Proceedings of the 32nd Annual Symposium on User Interface Software and Technology (UIST ‘19). ACM, New York, NY, USA. [https://doi.org/10.1145/3332165.3347958](https://doi.org/10.1145/3332165.3347958) |
-| Award | **UIST ‘19 Honorable Mention Award** |
+| Award | 🏅 **UIST ‘19 Best Paper Honorable Mention Award**<br>🏅 **UIST ‘19 Best Talk Honorable Mention Award**  |
 | Paper | [PDF (25.8MB)](tilepop_uist19.pdf) |
 | Related Project | [PuPoP: Pop-up Prop on Palm for Virtual Reality](/projects/pupop) |
