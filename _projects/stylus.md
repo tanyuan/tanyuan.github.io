@@ -30,6 +30,7 @@ This work, Stylus Assistant, proposed two designs of actuator array system, Dyna
 
 I designed and fabricated the case and support using a laser cutter and 3D printers. I also took part in controlling the servo motors using Processing.
 
+| Authors | Long-Fei Lin (National Taiwan University)<br>**Shan-Yuan Teng** (National Taiwan University)<br>Rong-Hao Liang (National Taiwan University)<br>Bing-Yu Chen (National Taiwan University) |
 | Demo | Long-Fei Lin, **Shan-Yuan Teng**, Rong-Hao Liang, Bing-Yu Chen. 2016. Stylus Assistant: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays. In SIGGRAPH ASIA 2016 Emerging Technologies (SA '16). ACM, New York, NY, USA, Article 14, 2 pages. [https://doi.org/10.1145/2988240.2988255](https://doi.org/10.1145/2988240.2988255) |
 | Paper | [PDF (1.4MB)](SA16SA_v2.pdf) |
 | Slides | [PDF (29.4MB)](siggraph_asia_etech_final.pdf) |

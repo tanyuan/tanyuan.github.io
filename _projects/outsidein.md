@@ -24,5 +24,6 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 
  I participated in the discussion of main idea and implemented several interactive visualization of 360 videos. I also implemented the a live telepresence application.
 
+| Authors | Yung-Ta Lin (National Taiwan University)<br>Yi-Chi Liao (National Taiwan University)<br>**Shan-Yuan Teng** (National Taiwan University)<br>Yi-Ju Chung (National Taiwan University)<br>Liwei Chan (National Chiao Tung University)<br>Bing-Yu Chen (National Taiwan University) |
 | Publication | Yung-Ta Lin, Yi-Chi Liao, **Shan-Yuan Teng**, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen. 2017. Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews. In Proceedings of the 30th Annual Symposium on User Interface Software and Technology (UIST ‘17). ACM, New York, NY, USA, 255-265. [https://doi.org/10.1145/3126594.3126656](https://doi.org/10.1145/3126594.3126656) |
 | Paper | [PDF (4.1MB)](outsidein_uist_17.pdf) |
