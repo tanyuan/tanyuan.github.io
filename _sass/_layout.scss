@@ -419,26 +419,27 @@ h2.post-title {
 }
 
 .bio-col-wrapper {
-    margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 .bio-col {
     float: left;
     margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit;
 }
 .bio-col-1 {
-    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
-    width:         calc(60% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(70% - (#{$spacing-unit} / 2));
+    width:         calc(70% - (#{$spacing-unit} / 2));
 }
 .bio-col-2 {
-    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-    width:         calc(30% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width:         calc(20% - (#{$spacing-unit} / 2));
+    padding-left: $spacing-unit;
 }
 @include media-query($on-palm) {
     .bio-col {
         float: none;
-        width: -webkit-calc(95% - (#{$spacing-unit} / 2));
-        width:         calc(95% - (#{$spacing-unit} / 2));
+        width: 100%;
+    }
+    .bio-col-2 {
+        padding-left: 0;
     }
 }
