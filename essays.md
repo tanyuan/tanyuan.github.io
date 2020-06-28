@@ -12,7 +12,7 @@ permalink: /essays
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           
           {% if post.subtitle %}
-          <p class="post-list-subtitle">{{ post.subtitle }}</p>
+          <div class="post-list-subtitle">{{ post.subtitle }}</div>
           {% endif %}
 
       </li>

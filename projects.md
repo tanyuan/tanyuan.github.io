@@ -58,7 +58,7 @@ permalink: /projects/
   </ul>
 </div>
 
-## beyond research
+## other
 
 <div class="project-list">
   <ul>
