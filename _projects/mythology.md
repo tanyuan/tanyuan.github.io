@@ -4,7 +4,7 @@ category: artwork
 date:  2014-05-05 00:00:00 +0800
 title: 神話 (Mythology)
 publication: Artwork for National Taiwan University Art Festival 20th
-description: An interactive sound installation using distance sensors.
+description: an interactive sound installation using distance sensors.
 thumbnail: /projects/mythology/mythology-thumb.jpg
 permalink: /projects/mythology/
 ---

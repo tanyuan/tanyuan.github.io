@@ -5,7 +5,7 @@ subcategory: haptics
 date:  2019-07-24 00:00:00 +0000
 title: "TilePoP"
 author: "<b>Shan-Yuan Teng</b>, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, Bing-Yu Chen"
-description:  Tile-type Pop-up Prop for Virtual Reality.
+description:  tile-type pop-up prop for virtual reality.
 publication:  "UIST 2019 Paper"
 award: 🏅 Best Paper Honorable Mention Award<br>🏅 Best Talk Honorable Mention Award
 thumbnail: /projects/tilepop/tilepop-thumb.jpg
