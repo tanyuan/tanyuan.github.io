@@ -1,6 +1,6 @@
 ---
 layout: project
-category: research
+category: featured
 subcategory: haptics
 date:  2019-07-24 00:00:00 +0000
 title: "TilePoP"
