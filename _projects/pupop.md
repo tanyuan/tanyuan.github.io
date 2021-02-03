@@ -17,6 +17,10 @@ permalink: /projects/pupop/
 </div>
 
 {% include image.html
+           img="pupop.gif"
+           caption="" %}
+
+{% include image.html
            img="pupop_user.jpg"
            caption="" %}
 

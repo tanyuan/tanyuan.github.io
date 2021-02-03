@@ -9,7 +9,8 @@ description:
 publication:  "CHI 2020 Paper"
 award: 🏅 Best Paper Honorable Mention Award
 thumbnail: /projects/jammer/jammer-thumb.jpg
-permalink: /projects/jammer/
+doi: https://doi.org/10.1145/3313831.3376304
+video: https://www.youtube.com/watch?v=-43-4LfqiTA
 ---
 
 <div class="video-wrapper">

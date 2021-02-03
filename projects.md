@@ -21,22 +21,10 @@ permalink: /projects/
 
           <div class="project-col-wrapper">
               <div class="project-col project-col-1">
-                  {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-                  {% endif %}
                   <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-                  {% if project.permalink %}
-                  </a>
-                  {% endif %}
               </div>
               <div class="project-col project-col-2">
-                  {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-                  {% endif %}
-                      <span class="project-title">{{ project.title }}</span>
-                  {% if project.permalink %}
-                  </a>
-                  {% endif %}
+                  <span class="project-title">{{ project.title }}</span>
                   {% if project.description %}
                   <div class="project-description">{{ project.description }}</div>
                   {% endif %}
@@ -49,6 +37,17 @@ permalink: /projects/
                   {% if project.award %}
                   <div class="project-award"><b>{{ project.award }}</b></div>
                   {% endif %}
+                  <div class="project-link">
+                  {% if project.permalink %}
+                  <a href="{{ project.url | prepend: site.baseurl }}">[project page]</a>
+                  {% endif %}
+                  {% if project.doi %}
+                  <a href="{{ project.doi }}">[paper]</a>
+                  {% endif %}
+                  {% if project.video %}
+                  <a href="{{ project.video }}">[video]</a>
+                  {% endif %}
+                  </div>
               </div>
           </div>
 
@@ -75,22 +74,10 @@ permalink: /projects/
 
           <div class="project-col-wrapper">
               <div class="project-col project-col-1">
-                  {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-                  {% endif %}
                   <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-                  {% if project.permalink %}
-                  </a>
-                  {% endif %}
               </div>
               <div class="project-col project-col-2">
-                  {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-                  {% endif %}
-                      <span class="project-title">{{ project.title }}</span>
-                  {% if project.permalink %}
-                  </a>
-                  {% endif %}
+                  <span class="project-title">{{ project.title }}</span>
                   {% if project.description %}
                   <div class="project-description">{{ project.description }}</div>
                   {% endif %}
@@ -99,10 +86,24 @@ permalink: /projects/
                   {% endif %}
                   {% if project.publication %}
                   <div class="project-publication">{{ project.publication }}</div>
-                  {% endif %}
+                  {% endif %}            
+                  
                   {% if project.award %}
                   <div class="project-award"><b>{{ project.award }}</b></div>
                   {% endif %}
+                  
+                  <div class="project-link">
+                  {% if project.permalink %}
+                  <a href="{{ project.url | prepend: site.baseurl }}">[project page]</a>
+                  {% endif %}
+                  {% if project.doi %}
+                  <a href="{{ project.doi }}">[paper]</a>
+                  {% endif %}
+                  {% if project.video %}
+                  <a href="{{ project.video }}">[video]</a>
+                  {% endif %}
+                  </div>
+
               </div>
           </div>
 
@@ -129,22 +130,10 @@ permalink: /projects/
 
       <div class="project-col-wrapper">
           <div class="project-col project-col-1">
-              {% if project.permalink %}
-              <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-              {% endif %}
               <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-              {% if project.permalink %}
-              </a>
-              {% endif %}
           </div>
           <div class="project-col project-col-2">
-              {% if project.permalink %}
-              <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-              {% endif %}
                   <span class="project-title">{{ project.title }}</span>
-              {% if project.permalink %}
-              </a>
-              {% endif %}
               {% if project.description %}
               <div class="project-description">{{ project.description }}</div>
               {% endif %}
@@ -157,6 +146,17 @@ permalink: /projects/
               {% if project.award %}
               <div class="project-award"><b>{{ project.award }}</b></div>
               {% endif %}
+               <div class="project-link">
+                {% if project.permalink %}
+                  <a href="{{ project.url | prepend: site.baseurl }}">[project page]</a>
+                  {% endif %}
+                  {% if project.doi %}
+                  <a href="{{ project.doi }}">[paper]</a>
+                  {% endif %}
+                  {% if project.video %}
+                  <a href="{{ project.video }}">[video]</a>
+                  {% endif %}
+                  </div>
           </div>
       </div>
 

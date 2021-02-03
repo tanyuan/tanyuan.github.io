@@ -17,6 +17,10 @@ permalink: /projects/tilepop/
 </div>
 
 {% include image.html
+           img="tilepop.gif"
+           caption="" %}
+
+{% include image.html
            img="tilepop_dino.jpg"
            caption="" %}
            

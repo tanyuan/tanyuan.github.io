@@ -1,33 +1,33 @@
 /* Home Page */
 
 .home {
-  background-color: $text-color;
+  //background-color: $text-color;
 
-  header .site-title {
-    color: #fff;
-  }
-  header .site-nav .page-link {
-    color: #fff;
+  //header .site-title {
+    //color: #fff;
+  //}
+  //header .site-nav .page-link {
+    //color: #fff;
 
-    &:visited {
-      color: #fff;
-    }
-  }
+    //&:visited {
+      //color: #fff;
+    //}
+  //}
 
   .cover {
     position: relative;
-    color: #fff;
-    margin-top: 50px;
+    color: #000;
+    margin-top: 100px;
     margin-bottom: 100px;
     @include media-query($on-palm) {
         margin-top: 100px;
     }
 
     a {
-      color: #fff;
+      color: #000;
     }
     a:hover {
-      color: #fff;
+      color: #000;
     }
 
     p {
@@ -38,6 +38,11 @@
           font-size: 2em;
       }
     }
+  .left-top {
+      position: absolute;
+      top: -80px;
+      left: 40px;
+  }
   .left-bottom {
       position: absolute;
       bottom: -80px;
@@ -47,7 +52,7 @@
       position: absolute;
       Text-align: right;
       top: -40px;
-      Right: 20px;
+      Right: 40px;
       @include media-query($on-palm) {
           top: -80px;
       }
