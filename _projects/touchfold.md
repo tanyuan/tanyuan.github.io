@@ -4,7 +4,7 @@ category: featured
 subcategory: haptics
 date:  2021-02-02 00:00:00 +0000
 title: "touch&fold"
-author: "<b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Jersey Fonseca, Pedro Lopes"
+author: "<b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes"
 description:  a foldable haptic actuator for rendering touch in mixed reality.
 publication:  "CHI 2021 Paper"
 award: 🏅 Best Paper Honorable Mention Award
@@ -44,5 +44,7 @@ We propose a nail-mounted foldable haptic device that provides tactile feedback 
   <iframe width="640" height="360" src="https://www.youtube.com/embed/cTN6s-33qNQ" frameborder="0" allowfullscreen></iframe>
 </div>
            
-| Authors | <b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Jersey Fonseca, Pedro Lopes, University of Chicago |
-| Publication | <b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Jersey Fonseca, Pedro Lopes. Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality. In Proceedings of CHI Conference on Human Factors in Computing Systems 2021 (CHI'2021). [https://doi.org/10.1145/3411764.3445099](https://doi.org/10.1145/3411764.3445099) |
+| Authors | <b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes, University of Chicago |
+| Publication | <b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes. Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality. In Proceedings of CHI Conference on Human Factors in Computing Systems 2021 (CHI'2021). [https://doi.org/10.1145/3411764.3445099](https://doi.org/10.1145/3411764.3445099) |
+| Award | 🏅 **CHI ‘21 Best Paper Honorable Mention Award**  |
+| Paper | [PDF (4MB)](chi21-touchfold.pdf) |
