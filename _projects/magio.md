@@ -9,4 +9,5 @@ description: "passive yet interactive soft haptic patches anywhere."
 publication:  "CHI 2021 Paper"
 thumbnail: /projects/magio.jpg
 video: https://www.youtube.com/watch?v=9bm7lBhwhwY
+doi: https://doi.org/10.1145/3411764.3445543
 ---
