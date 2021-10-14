@@ -2,7 +2,7 @@
 layout: project
 category: featured
 subcategory: haptics
-date:  2021-02-02 00:00:00 +0000
+date:  2021-05-02 00:00:00 +0000
 title: "touch&fold"
 author: "<b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes"
 description:  a foldable haptic actuator for rendering touch in mixed reality.
@@ -10,6 +10,8 @@ publication:  "CHI 2021 Paper"
 award: 🏅 Best Paper Honorable Mention Award
 thumbnail: /projects/touchfold/touchfold_thumbnail.jpg
 permalink: /projects/touchfold/
+doi: https://doi.org/10.1145/3411764.3445099
+video: https://www.youtube.com/watch?v=yg8BOKhs4XM
 ---
 
 <div class="video-wrapper">

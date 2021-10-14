@@ -7,7 +7,7 @@ title: "HandMorph"
 author: "Jun Nishida, Soichiro Matsuda, Hiroshi Matsui, <b>Shan-Yuan Teng</b>, Ziwei Liu, Kenji Suzuki, Pedro Lopes"
 description:  a passive exoskeleton that miniaturizes grasp.
 publication:  "UIST 2020 Paper"
-award: 🏅 Best Paper Award
+award: 🏆 Best Paper Award
 thumbnail: /projects/handmorph_thumbnail.jpg
 doi: https://doi.org/10.1145/3379337.3415875
 video: https://www.youtube.com/watch?v=5o2wPy5hl0w

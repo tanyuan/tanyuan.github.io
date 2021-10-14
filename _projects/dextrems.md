@@ -9,4 +9,5 @@ description: increasing dexterity in electrical muscle stimulation by combining 
 publication:  "UIST 2021 Paper"
 thumbnail: /projects/dextrems.jpg
 video: https://www.youtube.com/watch?v=wOOlHZ8hBnA
+doi: https://doi.org/10.1145/3472749.3474759
 ---
