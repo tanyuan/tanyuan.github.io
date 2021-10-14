@@ -8,7 +8,7 @@ author: "Yujie Tao, <b>Shan-Yuan Teng</b>, Pedro Lopes"
 description: 
 thumbnail: /projects/softness-illusion.jpg
 publication:  "UIST 2021 Paper"
-award: 🏆 Best Paper Award
+award: 🏆 Best Paper Award<br>🏆 Best Demo Award
 video: https://www.youtube.com/watch?v=I2BBV0JZ0ww
 doi: https://doi.org/10.1145/3472749.3474800
 ---
