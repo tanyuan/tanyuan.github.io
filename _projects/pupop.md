@@ -1,6 +1,6 @@
 ---
 layout: project
-category: featured
+category: VR haptics
 subcategory: haptics
 date:  2018-08-01 00:00:00 +0800
 title: "PuPoP"
