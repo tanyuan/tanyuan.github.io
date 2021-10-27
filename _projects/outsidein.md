@@ -9,6 +9,7 @@ description: "visualizing out-of-sight regions-of-interest in a 360 video using 
 publication:  UIST 2017 Paper
 thumbnail: /projects/outsidein/outsidein-thumb.png
 paper: /projects/outsidein/outsidein_uist_17.pdf
+doi: https://doi.org/10.1145/3126594.3126656
 permalink: /projects/outsidein/
 ---
 

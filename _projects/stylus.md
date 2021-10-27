@@ -9,6 +9,7 @@ description: designing dynamic constraints for facilitating stylus inputs on por
 publication: SIGGRAPH ASIA 2016 Emerging Technologies
 thumbnail: /projects/stylus/stylus-thumb.jpg
 paper: /projects/stylus/SA16SA_v2.pdf
+doi: https://doi.org/10.1145/2988240.2988255
 permalink: /projects/stylus/
 ---
 

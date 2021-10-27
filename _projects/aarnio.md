@@ -9,6 +9,7 @@ description:  passive kinesthetic force output for foreground interactions on an
 publication:  "CHI 2019 Paper"
 thumbnail: /projects/aarnio/aarnio-thumb.jpg
 paper: /projects/aarnio/aarnio_chi19.pdf
+doi: https://doi.org/10.1145/3290605.3300902
 permalink: /projects/aarnio/
 ---
 
