@@ -10,4 +10,4 @@ Shan-Yuan is a PhD student in Computer Science and Eckhardt scholar at the **Uni
 
 ### contact
 
-*tengshanyuan [at] cs.uchicago.edu*
+*tengshanyuan [at] uchicago.edu*
