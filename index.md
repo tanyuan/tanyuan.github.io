@@ -2,13 +2,11 @@
 layout: bio
 ---
 
-Shan-Yuan is a PhD student in Computer Science and Eckhardt scholar at the **University of Chicago**, USA. Working in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) led by [Prof. Pedro Lopes](http://plopes.org), he believes that seamless integration of haptic sensation and digital information will bring us total harmony between humans and technologies. He invents new devices that bridge haptics across virtual and physical realities.
+Shan-Yuan is a third-year PhD student in Computer Science and Eckhardt scholar at the **University of Chicago** in the U.S. Working in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) led by [Prof. Pedro Lopes](http://plopes.org), he believes that seamless integration of haptic sensation and digital information will bring us total harmony between humans and technologies. He invents new interactive devices that bridge haptics across virtual and physical realities.
 
-[ [CV (PDF)](/assets/teng_cv.pdf) ] / [ [Google Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ) ]
+Before coming to Chicago, he worked with Prof. Robin Bing-Yu Chen and received Master's and Bachelor's degree at **National Taiwan University** in Taiwan.
 
-### contact
-
-*tengshanyuan [at] uchicago.edu*
+\[ tengshanyuan at uchicago.edu \] [ [CV (PDF)](/assets/teng_cv.pdf) ] [ [Google Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ) ] [ [Twitter](https://twitter.com/tengshanyuan) ]
 
 ## haptics for the real world
 
@@ -173,3 +171,20 @@ Shan-Yuan is a PhD student in Computer Science and Eckhardt scholar at the **Uni
     {% endfor %}
   </ul>
 </div>
+
+## writings
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.category %} - {{post.category}}{% endif %}</span><br>
+
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          
+          {% if post.subtitle %}
+          <div class="post-list-subtitle">{{ post.subtitle }}</div>
+          {% endif %}
+
+      </li>
+    {% endfor %}
+  </ul>
