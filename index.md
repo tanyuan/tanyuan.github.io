@@ -2,11 +2,11 @@
 layout: bio
 ---
 
-Shan-Yuan is a third-year PhD student in Computer Science and Eckhardt scholar at the **University of Chicago** in the U.S. Working in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) led by [Prof. Pedro Lopes](http://plopes.org), he believes that seamless integration of haptic sensation and digital information will bring us total harmony between humans and technologies. He invents new interactive devices that bridge haptics across virtual and physical realities.
+Shan-Yuan is a third-year PhD student in Computer Science and Eckhardt scholar at the **University of Chicago** in the U.S. Working in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) led by [Prof. Pedro Lopes](http://plopes.org), he believes that seamless integration of haptic sensation and digital information will bring us total harmony between humans and technologies. He invents new interactive devices that bridge haptics across virtual and physical realities, and has published 12 papers (with 5 as the first author) at **top Human-Computer Interaction (HCI) conferences** including ACM CHI & UIST, in which 5 received **Best Paper/Honorable Mention Awards**.
 
-Before coming to Chicago, he worked with Prof. Robin Bing-Yu Chen and received Master's and Bachelor's degree at **National Taiwan University** in Taiwan.
+Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **National Taiwan University** in Taiwan, where he received Master's degree in Computer Science and Bachelor's degree with a major in Electrical Engineering. 
 
-\[ tengshanyuan at uchicago.edu \] [ [CV (PDF)](/assets/teng_cv.pdf) ] [ [Google Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ) ] [ [Twitter](https://twitter.com/tengshanyuan) ]
+\[ tengshanyuan at uchicago.edu \] [ [CV](/assets/teng_cv.pdf) ] [ [Google Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ) ] [ [Twitter](https://twitter.com/tengshanyuan) ]
 
 ## haptics for the real world
 
