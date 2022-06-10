@@ -8,7 +8,7 @@ Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **Nationa
 
 [&nbsp;tengshanyuan at uchicago.edu&nbsp;] [&nbsp;[CV](/assets/teng_cv.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Twitter](https://twitter.com/tengshanyuan)&nbsp;]
 
-## haptics for extreme mobility
+## haptic devices for extreme mobility
 
 <div class="project-list">
   <ul>
@@ -61,7 +61,7 @@ Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **Nationa
   </ul>
 </div>
 
-## haptics for the virtual reality
+## haptic devices for virtual reality
 
 <div class="project-list">
   <ul>
