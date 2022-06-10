@@ -2,13 +2,13 @@
 layout: bio
 ---
 
-Shan-Yuan is a third-year PhD student in Computer Science and Eckhardt scholar at the **University of Chicago** in the U.S. Working in [Human Computer Integration Lab](http://hci.cs.uchicago.edu/) led by [Prof. Pedro Lopes](http://plopes.org), he believes that seamless integration of **haptic sensation** (e.g., sense of touch) and digital information will bring us total harmony between humans and technologies. He invents new interactive devices that bridge haptics across virtual and physical realities (VR/AR/XR), and has published 12 papers (with 5 as the first author) at **top Human-Computer Interaction (HCI) conferences** including ACM CHI & UIST, in which 5 received **Best Paper/Honorable Mention Awards**.
+Shan-Yuan Teng is a third-year PhD student in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we became used to expecting from our mobile phones & wearables, **such as extreme mobility, availability anytime, etc**. To advance haptics into this new territory and grant it these novel properties, Shan-Yuan engineers custom-made interactive devices that, for instance: (1) allow to feel touch in mixed reality without encumbering our fingerpads, (2) an extremely lightweight feedback glove that can teach us how to play a guitar, or (3) even a haptic device with a virtually infinite battery life. Shan-Yuan has published this work as 12 papers (five as the first author) at top Human-Computer Interaction (HCI) conferences including ACM CHI & UIST, with **two Best Paper Awards and three Honorable Mention Awards.**
 
 Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **National Taiwan University** in Taiwan, where he received Master's degree in Computer Science and Bachelor's degree with a major in Electrical Engineering. 
 
 [&nbsp;tengshanyuan at uchicago.edu&nbsp;] [&nbsp;[CV](/assets/teng_cv.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Twitter](https://twitter.com/tengshanyuan)&nbsp;]
 
-## haptics for the real world
+## haptics for extreme mobility
 
 <div class="project-list">
   <ul>
@@ -61,7 +61,7 @@ Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **Nationa
   </ul>
 </div>
 
-## haptics for the virtual world
+## haptics for the virtual reality
 
 <div class="project-list">
   <ul>
