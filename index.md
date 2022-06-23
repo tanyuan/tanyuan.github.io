@@ -6,7 +6,7 @@ Shan-Yuan Teng is a third-year PhD student in Computer Science at the **Universi
 
 Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **National Taiwan University** in Taiwan, where he received Master's degree in Computer Science and Bachelor's degree with a major in Electrical Engineering. 
 
-[&nbsp;tengshanyuan at uchicago.edu&nbsp;] [&nbsp;[CV](/assets/teng_cv.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Twitter](https://twitter.com/tengshanyuan)&nbsp;]
+[&nbsp;tengshanyuan at uchicago.edu&nbsp;] [&nbsp;[CV](/assets/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Twitter](https://twitter.com/tengshanyuan)&nbsp;]
 
 ## haptic devices for extreme mobility
 
