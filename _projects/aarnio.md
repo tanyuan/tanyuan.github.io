@@ -10,6 +10,7 @@ publication:  "CHI 2019 Paper"
 thumbnail: /projects/aarnio/aarnio-thumb.jpg
 paper: /projects/aarnio/aarnio_chi19.pdf
 doi: https://doi.org/10.1145/3290605.3300902
+video: https://www.youtube.com/watch?v=kFls3r3qJz8
 permalink: /projects/aarnio/
 ---
 

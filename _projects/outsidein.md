@@ -10,6 +10,7 @@ publication:  UIST 2017 Paper
 thumbnail: /projects/outsidein/outsidein-thumb.png
 paper: /projects/outsidein/outsidein_uist_17.pdf
 doi: https://doi.org/10.1145/3126594.3126656
+video: https://www.youtube.com/watch?v=cy0kEB5wQ6M
 permalink: /projects/outsidein/
 ---
 

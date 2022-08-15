@@ -9,6 +9,7 @@ description:  tile-type pop-up prop for virtual reality.
 publication:  "UIST 2019 Paper"
 award: 🏅 Best Paper Honorable Mention Award<br>🏅 Best Talk Honorable Mention Award
 thumbnail: /projects/tilepop/tilepop-thumb.jpg
+paper: /projects/tilepop/tilepop_uist19.pdf
 permalink: /projects/tilepop/
 doi: https://doi.org/10.1145/3332165.3347958
 video: https://www.youtube.com/watch?v=uxSQrd-IRjw

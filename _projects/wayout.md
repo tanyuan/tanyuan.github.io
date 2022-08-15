@@ -10,6 +10,7 @@ publication: "CHI 2017 Student Game Competition"
 thumbnail: /projects/wayout/wayout-thumb.png
 paper: /projects/wayout/wayout_chi_2017_sgc.pdf
 doi: https://doi.org/10.1145/3027063.3048410
+video: https://www.youtube.com/watch?v=_MpDxC7uL6A
 permalink: /projects/wayout/
 ---
 

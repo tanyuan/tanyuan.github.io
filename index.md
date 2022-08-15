@@ -2,13 +2,13 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is a third-year PhD student in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we became used to expecting from our mobile phones & wearables, **such as extreme mobility, availability anytime, etc**. To advance haptics into this new territory and grant it these novel properties, Shan-Yuan engineers custom-made interactive devices that, for instance: (1) allow to feel touch in mixed reality without encumbering our fingerpads, (2) an extremely lightweight feedback glove that can teach us how to play a guitar, or (3) even a haptic device with a virtually infinite battery life. Shan-Yuan has published this work as 12 papers (five as the first author) at top Human-Computer Interaction (HCI) conferences including ACM CHI & UIST, with **two Best Paper Awards and three Honorable Mention Awards.**
+Shan-Yuan Teng is a third-year PhD student in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we became used to expecting from our mobile phones & wearables, **such as extreme mobility, availability anytime, etc**. To advance haptics into this new territory and grant it these novel properties, Shan-Yuan engineers custom-made interactive devices that, for instance: allow to feel touch in mixed reality without encumbering our fingerpads, or haptic devices with virtually infinite battery life. Shan-Yuan has published this work as 13 papers (six as the first author) at top Human-Computer Interaction (HCI) conferences including ACM CHI & UIST, with **two Best Paper Awards and three Honorable Mention Awards.**
 
-Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **National Taiwan University** in Taiwan, where he received Master's degree in Computer Science and Bachelor's degree with a major in Electrical Engineering. 
+Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **National Taiwan University**, where he received Master's degree in Computer Science and Bachelor's degree with a major in Electrical Engineering. 
 
-[&nbsp;tengshanyuan at uchicago.edu&nbsp;] [&nbsp;[CV](/assets/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Twitter](https://twitter.com/tengshanyuan)&nbsp;]
+[&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/assets/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[twitter](https://twitter.com/tengshanyuan)&nbsp;]
 
-## haptic devices for extreme mobility
+## haptic devices for extreme mobility & availability
 
 <div class="project-list">
   <ul>
@@ -42,14 +42,17 @@ Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **Nationa
                   <div class="project-award"><b>{{ project.award }}</b></div>
                   {% endif %}
                   <div class="project-link">
-                  {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}">[project page]</a>
+                  {% if project.paper %}
+                  <a href="{{ project.paper }}">[paper]</a>
                   {% endif %}
                   {% if project.doi %}
-                  <a href="{{ project.doi }}">[paper]</a>
+                  <a href="{{ project.doi }}">[doi]</a>
                   {% endif %}
                   {% if project.video %}
                   <a href="{{ project.video }}">[video]</a>
+                  {% endif %}
+                  {% if project.permalink %}
+                  <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
                   {% endif %}
                   </div>
               </div>
@@ -95,14 +98,17 @@ Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **Nationa
                   <div class="project-award"><b>{{ project.award }}</b></div>
                   {% endif %}
                   <div class="project-link">
-                  {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}">[project page]</a>
+                  {% if project.paper %}
+                  <a href="{{ project.paper }}">[paper]</a>
                   {% endif %}
                   {% if project.doi %}
-                  <a href="{{ project.doi }}">[paper]</a>
+                  <a href="{{ project.doi }}">[doi]</a>
                   {% endif %}
                   {% if project.video %}
                   <a href="{{ project.video }}">[video]</a>
+                  {% endif %}
+                  {% if project.permalink %}
+                  <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
                   {% endif %}
                   </div>
               </div>
@@ -151,14 +157,17 @@ Before coming to Chicago, he worked with Prof. Bing-Yu 'Robin' Chen at **Nationa
                   {% endif %}
                   
                   <div class="project-link">
-                  {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}">[project page]</a>
+                  {% if project.paper %}
+                  <a href="{{ project.paper }}">[paper]</a>
                   {% endif %}
                   {% if project.doi %}
-                  <a href="{{ project.doi }}">[paper]</a>
+                  <a href="{{ project.doi }}">[doi]</a>
                   {% endif %}
                   {% if project.video %}
                   <a href="{{ project.video }}">[video]</a>
+                  {% endif %}
+                  {% if project.permalink %}
+                  <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
                   {% endif %}
                   </div>
 
