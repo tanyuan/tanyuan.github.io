@@ -7,7 +7,7 @@ title: "Prolonging VR haptic experiences by harvesting kinetic energy from the u
 author: "<b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes"
 description: 
 publication:  "UIST 2022 Paper (to appear)"
-award: 
+award: 🏅 Best Paper Honorable Mention Award
 thumbnail: /projects/harvesting-haptics-thumbnail.jpg
 video: 
 ---
