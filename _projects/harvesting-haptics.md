@@ -9,7 +9,9 @@ description:
 publication:  "UIST 2022 Paper (to appear)"
 award: 🏅 Best Paper Honorable Mention Award
 thumbnail: /projects/harvesting-haptics-thumbnail.jpg
-video: 
+paper: /projects/harvestinghaptics-uist22.pdf
+doi: https://doi.org/10.1145/3526113.3545635
+video: https://www.youtube.com/watch?v=dhZA21RV6O8
 ---
 
 <div class="video-wrapper">
