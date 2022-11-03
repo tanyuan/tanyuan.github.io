@@ -7,7 +7,7 @@ title: "TilePoP"
 author: "<b>Shan-Yuan Teng</b>, Cheng-Lung Lin, Chi-huan Chiang, Tzu-Sheng Kuo, Liwei Chan, Da-Yuan Huang, Bing-Yu Chen"
 description:  tile-type pop-up prop for virtual reality.
 publication:  "UIST 2019 Paper"
-award: 🏅 Best Paper Honorable Mention Award<br>🏅 Best Talk Honorable Mention Award
+award: 🏅 Honorable Mention Award for Best Paper<br>🏅 Honorable Mention Award for Best Talk
 thumbnail: /projects/tilepop/tilepop-thumb.jpg
 paper: /projects/tilepop/tilepop_uist19.pdf
 permalink: /projects/tilepop/

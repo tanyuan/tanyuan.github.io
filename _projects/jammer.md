@@ -7,7 +7,7 @@ title: "Wearable microphone jamming"
 author: "Yuxin Chen*, Huiying Li*, <b>Shan-Yuan Teng</b>*, Steven Nagels, Zhijing Li, Pedro Lopes, Ben Y. Zhao, Haitao Zheng (*equal contribution)"
 description: 
 publication:  "CHI 2020 Paper & CHI 2021 Demo"
-award: 🏅 Best Paper Honorable Mention Award
+award: 🏅 Honorable Mention Award for Best Paper
 thumbnail: /projects/jammer/jammer-thumb.jpg
 paper: /projects/jammer/jammer_chi20.pdf
 doi: https://doi.org/10.1145/3313831.3376304
