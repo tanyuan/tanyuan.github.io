@@ -1,6 +1,6 @@
 ---
 layout: project
-category: VR haptics
+category: research
 subcategory: haptics
 date:  2019-07-24 00:00:00 +0000
 title: "TilePoP"

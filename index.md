@@ -8,7 +8,9 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
 
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/assets/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[twitter](https://twitter.com/tengshanyuan)&nbsp;]
 
-## vision article
+## enabling haptic experiences _anywhere, anytime_
+
+### vision article
 
 <div class="project-list">
   <ul>
@@ -68,7 +70,7 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
   </ul>
 </div>
 
-## haptic research for extreme mobility & availability
+### lead author papers
 
 <div class="project-list">
   <ul>
@@ -77,8 +79,9 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
     {% capture project_year %}{{project.date | date: "%Y"}}{% endcapture %}
     {% capture project_published %}{{project.published}}{% endcapture %}
     {% capture project_category %}{{project.category}}{% endcapture %}
+    {% capture project_subcategory %}{{project.subcategory}}{% endcapture %}
 
-    {% if project_category == 'featured' and project_published != 'false' %}
+    {% if project_category == 'featured' and project_subcategory == 'first-author' and project_published != 'false' %}
       <li>
 
           <div class="project-col-wrapper">
@@ -128,7 +131,7 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
   </ul>
 </div>
 
-## haptic research for virtual reality
+### collaborated papers
 
 <div class="project-list">
   <ul>
@@ -137,8 +140,9 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
     {% capture project_year %}{{project.date | date: "%Y"}}{% endcapture %}
     {% capture project_published %}{{project.published}}{% endcapture %}
     {% capture project_category %}{{project.category}}{% endcapture %}
+    {% capture project_subcategory %}{{project.subcategory}}{% endcapture %}
 
-    {% if project_category == 'VR haptics' and project_published != 'false' %}
+    {% if project_category == 'featured' and project_subcategory != 'first-author' and project_published != 'false' %}
       <li>
 
           <div class="project-col-wrapper">

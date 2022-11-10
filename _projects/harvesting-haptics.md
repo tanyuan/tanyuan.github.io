@@ -1,7 +1,7 @@
 ---
 layout: project
 category: featured
-subcategory: haptics
+subcategory: first-author
 date:  2022-08-01 00:00:00 +0000
 title: "Prolonging VR haptic experiences by harvesting kinetic energy from the user"
 author: "<b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes"

@@ -1,7 +1,7 @@
 ---
 layout: project
 category: featured
-subcategory: haptics
+subcategory: first-author
 date:  2021-05-02 00:00:00 +0000
 title: "touch&fold"
 author: "<b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes"

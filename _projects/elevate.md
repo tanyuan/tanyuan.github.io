@@ -1,6 +1,6 @@
 ---
 layout: project
-category: VR haptics
+category: research
 subcategory: haptics
 date:  2021-03-01 00:00:00 +0000
 title: "Elevate"
