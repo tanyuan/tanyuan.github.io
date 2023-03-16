@@ -41,13 +41,13 @@ We propose a new technical approach to implement untethered VR haptic devices th
            img="pcb_sch.jpg"
            caption="" %}
            
-## recorded talk
+## recorded talk at UIST 2022
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/bIiekRSSHb8" frameborder="0" allowfullscreen></iframe>
 </div>
            
-| Authors | <b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes, University of Chicago |
-| Publication | <b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes. Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST '22). Association for Computing Machinery, New York, NY, USA, Article 39, 1–18. [https://doi.org/10.1145/3526113.3545635](https://doi.org/10.1145/3526113.3545635) |
+| Authors | <b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes (University of Chicago) |
+| Publication | <b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes. 2022. Prolonging VR Haptic Experiences by Harvesting Kinetic Energy from the User. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST '22). Association for Computing Machinery, New York, NY, USA, Article 39, 1–18. [https://doi.org/10.1145/3526113.3545635](https://doi.org/10.1145/3526113.3545635) |
 | Award | 🏅 **UIST ‘22 Best Paper Honorable Mention Award**  |
 | Paper | [PDF (4.1MB)](harvestinghaptics-uist22.pdf) |
