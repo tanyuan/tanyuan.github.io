@@ -41,6 +41,18 @@ We propose a nail-mounted foldable haptic device that provides tactile feedback 
            img="touchfold_4.jpg"
            caption="" %}
            
+{% include image.html
+           img="touchfold_tech_1.jpg"
+           caption="" %}
+           
+{% include image.html
+           img="touchfold_tech_2.jpg"
+           caption="" %}
+           
+{% include image.html
+           img="touchfold_tech_3.jpg"
+           caption="" %}
+           
 ## recorded talk
 
 <div class="video-wrapper">

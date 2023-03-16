@@ -9,44 +9,45 @@ description:
 publication:  "UIST 2022 Paper"
 award: 🏅 Honorable Mention Award for Best Paper
 thumbnail: /projects/harvesting-haptics-thumbnail.jpg
-paper: /projects/harvestinghaptics-uist22.pdf
+paper: /projects/harvesting-haptics/harvestinghaptics-uist22.pdf
 doi: https://doi.org/10.1145/3526113.3545635
 video: https://www.youtube.com/watch?v=dhZA21RV6O8
+permalink: /projects/harvesting-haptics/
 ---
 
 <div class="video-wrapper">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/yg8BOKhs4XM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/dhZA21RV6O8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 {% include image.html
-           img="touchfold.gif"
+           img="device_with_vr.jpg"
            caption="" %}
 
-We propose a nail-mounted foldable haptic device that provides tactile feedback to mixed reality (MR) environments by pressing against the user’s fingerpad when a user touches a virtual object. What is novel in our device is that it quickly tucks away when the user interacts with real-world objects. Its design allows it to fold back on top of the user’s nail when not in use, keeping the user’s fingerpad free to, for instance, manipulate handheld tools and other objects while in MR. To achieve this, we engineered a wireless and self-contained haptic device, which measures 24×24×41 mm and weighs 9.5 g. Furthermore, our foldable end-effector also features a linear resonant actuator, allowing it to render not only touch contacts (i.e., pressure) but also textures (i.e., vibrations). We demonstrate how our device renders contacts with MR surfaces, buttons, low- and high-frequency textures. In our first user study, we found that participants perceived our device to be more realistic than a previous haptic device that also leaves the fingerpad free (i.e., fingernail vibration). In our second user study, we investigated the participants’ experience while using our device in a real-world task that involved physical objects. We found that our device allowed participants to use the same finger to manipulate handheld tools, small objects, and even feel textures and liquids, without much hindrance to their dexterity, while feeling haptic feedback when touching MR interfaces.
+We propose a new technical approach to implement untethered VR haptic devices that contain no battery, yet can render on-demand haptic feedback. The key is that via our approach, a haptic device charges itself by harvesting the user’s kinetic energy (i.e., movement)—even without the user needing to realize this. This is achieved by integrating the energy-harvesting with the virtual experience, in a responsive manner. Whenever our batteryless haptic device is about to lose power, it switches to harvesting mode (by engaging its clutch to a generator) and, simultaneously, the VR headset renders an alternative version of the current experience that depicts resistive forces (e.g., rowing a boat in VR). As a result, the user feels realistic haptics that corresponds to what they should be feeling in VR, while unknowingly charging the device via their movements. Once the haptic device’s supercapacitors are charged, they wake up its microcontroller to communicate with the VR headset. The VR experience can now use the recently harvested power for on-demand haptics, including vibration, electrical or mechanical force-feedback; this process can be repeated, ad infinitum. We instantiated a version of our concept by implementing an exoskeleton (with vibration, electrical & mechanical force-feedback) that harvests the user’s arm movements. We validated it via a user study, in which participants, even without knowing the device was harvesting, rated its’ VR experience as more realistic & engaging than with a baseline VR setup. Finally, we believe our approach enables haptics for prolonged uses, especially useful in untethered VR setups, since devices capable of haptic feedback are traditionally only reserved for situations with ample power. Instead, with our approach, a user who engages in hours-long VR and grew accustomed to finding a battery-dead haptic device that no longer works, will simply resurrect the haptic device with their movement.
 
 {% include image.html
-           img="touchfold_1.jpg"
+           img="main_vr_loop.jpg"
+           caption="" %}
+
+{% include image.html
+           img="device_with_sensations.jpg"
            caption="" %}
            
 {% include image.html
-           img="touchfold_2.jpg"
+           img="device_clutch_diagram.jpg"
            caption="" %}
            
 {% include image.html
-           img="touchfold_3.jpg"
-           caption="" %}
-
-{% include image.html
-           img="touchfold_4.jpg"
+           img="pcb_sch.jpg"
            caption="" %}
            
 ## recorded talk
 
 <div class="video-wrapper">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/cTN6s-33qNQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/bIiekRSSHb8" frameborder="0" allowfullscreen></iframe>
 </div>
            
-| Authors | <b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes, University of Chicago |
-| Publication | <b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes. Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality. In Proceedings of CHI Conference on Human Factors in Computing Systems 2021 (CHI'2021). [https://doi.org/10.1145/3411764.3445099](https://doi.org/10.1145/3411764.3445099) |
-| Award | 🏅 **CHI ‘21 Best Paper Honorable Mention Award**  |
-| Paper | [PDF (4MB)](chi21-touchfold.pdf) |
+| Authors | <b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes, University of Chicago |
+| Publication | <b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes. Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST '22). Association for Computing Machinery, New York, NY, USA, Article 39, 1–18. [https://doi.org/10.1145/3526113.3545635](https://doi.org/10.1145/3526113.3545635) |
+| Award | 🏅 **UIST ‘22 Best Paper Honorable Mention Award**  |
+| Paper | [PDF (4.1MB)](harvestinghaptics-uist22.pdf) |
