@@ -3,6 +3,7 @@
  */
 .site-header {
     padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit;
     text-align: center;
 
     // Positioning context for the mobile navigation icon
@@ -11,7 +12,7 @@
 
 .site-title {
     font-family: $title-font-family;
-    font-size: 42px;
+    font-size: 30px;
     font-weight: $title-font-weight;
     line-height: 56px;
     letter-spacing: 4px;

@@ -315,3 +315,5 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
     {% endfor %}
   </ul>
 </div>
+
+{% include footer.html %}
