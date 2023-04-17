@@ -57,6 +57,9 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
                   {% if project.video %}
                   <a href="{{ project.video }}">[video]</a>
                   {% endif %}
+                  {% if project.poster %}
+                  <a href="{{ project.poster }}">[poster]</a>
+                  {% endif %}
                   {% if project.permalink %}
                   <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
                   {% endif %}

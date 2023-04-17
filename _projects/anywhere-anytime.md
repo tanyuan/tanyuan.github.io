@@ -9,5 +9,6 @@ description:
 publication:  "CHI 2023 Doctorial Consortium"
 thumbnail: /projects/teng-chi-dc.jpg
 paper: /projects/anywhere-anytime-chi23.pdf
+poster: /projects/ShanYuanTeng-CHI-DC-poster.pdf
 doi: 
 ---
