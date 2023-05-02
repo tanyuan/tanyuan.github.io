@@ -51,3 +51,4 @@ We propose a new technical approach to implement untethered VR haptic devices th
 | Publication | <b>Shan-Yuan Teng</b>, K. D. Wu, Jacqueline Chen, Pedro Lopes. 2022. Prolonging VR Haptic Experiences by Harvesting Kinetic Energy from the User. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST '22). Association for Computing Machinery, New York, NY, USA, Article 39, 1–18. [https://doi.org/10.1145/3526113.3545635](https://doi.org/10.1145/3526113.3545635) |
 | Award | 🏅 **UIST ‘22 Best Paper Honorable Mention Award**  |
 | Paper | [PDF (4.1MB)](harvestinghaptics-uist22.pdf) |
+| Open Source | [Hardware schematics & models](https://github.com/humancomputerintegration/harvesting-haptics) |

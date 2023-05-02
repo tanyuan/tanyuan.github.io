@@ -71,3 +71,4 @@ We propose a nail-mounted foldable haptic device that provides tactile feedback 
 | Publication | <b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes. 2021. Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 736, 1–14. [https://doi.org/10.1145/3411764.3445099](https://doi.org/10.1145/3411764.3445099) |
 | Award | 🏅 **CHI ‘21 Best Paper Honorable Mention Award**  |
 | Paper | [PDF (4MB)](chi21-touchfold.pdf) |
+| Open Source | [Hardware schematics & 3D models](https://github.com/humancomputerintegration/touchfold) |
