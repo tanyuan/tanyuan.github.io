@@ -3,9 +3,8 @@ layout: project
 category: research
 subcategory: wearable
 date:  2020-10-01 00:00:00 +0000
-title: "HandMorph"
+title: "HandMorph: a passive exoskeleton that miniaturizes grasp"
 author: "Jun Nishida, Soichiro Matsuda, Hiroshi Matsui, <b>Shan-Yuan Teng</b>, Ziwei Liu, Kenji Suzuki, Pedro Lopes"
-description:  a passive exoskeleton that miniaturizes grasp.
 publication:  "UIST 2020 Paper"
 award: 🏆 Best Paper Award
 thumbnail: /projects/handmorph_thumbnail.jpg

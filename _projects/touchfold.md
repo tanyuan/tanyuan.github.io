@@ -3,9 +3,8 @@ layout: project
 category: featured
 subcategory: first-author
 date:  2021-05-02 00:00:00 +0000
-title: "touch&fold"
+title: "touch&fold: a foldable haptic actuator for rendering touch in mixed reality"
 author: "<b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes"
-description:  a foldable haptic actuator for rendering touch in mixed reality.
 publication:  "CHI 2021 Paper"
 award: 🏅 Honorable Mention Award for Best Paper
 thumbnail: /projects/touchfold/touchfold_thumbnail.jpg
@@ -47,6 +46,10 @@ We propose a nail-mounted foldable haptic device that provides tactile feedback 
 
 {% include image.html
            img="touchfold_4.jpg"
+           caption="" %}
+           
+{% include image.html
+           img="touchfold_5.jpg"
            caption="" %}
            
 {% include image.html

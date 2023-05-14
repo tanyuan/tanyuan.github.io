@@ -8,9 +8,11 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
 
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/assets/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;]
 
-## enabling haptic experiences _anywhere, anytime_
+<div class="project-list-highlight">
 
-### vision articles
+<h2>enabling haptic experiences <i>anywhere, anytime</i></h2>
+
+<h3>vision articles</h3>
 
 <div class="project-list">
   <ul>
@@ -73,7 +75,7 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
   </ul>
 </div>
 
-### lead author papers
+<h3>lead author papers</h3>
 
 <div class="project-list">
   <ul>
@@ -134,7 +136,7 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
   </ul>
 </div>
 
-### collaborated papers
+<h3>collaborated papers</h3>
 
 <div class="project-list">
   <ul>
@@ -193,6 +195,8 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
     {% endif %}
     {% endfor %}
   </ul>
+</div>
+
 </div>
 
 ## more research

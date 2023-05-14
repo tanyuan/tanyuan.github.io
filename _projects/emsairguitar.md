@@ -3,9 +3,8 @@ layout: project
 category: research
 subcategory: haptics
 date:  2016-10-16 00:00:00 +0800
-title: EMS Air Guitar
+title: "EMS Air Guitar: a music experience that moves your body using electrical muscle stimulation"
 author: "<b>Shan-Yuan Teng</b>, Yung-Ta Lin, Yi-Chi Liao"
-description: a music experience that moves your body using electrical muscle stimulation.
 publication: UIST 2016 Student Innovation Contest
 award: 🏆 Best Implementation Award
 thumbnail: /projects/emsairguitar/emsairguitar-thumb.png

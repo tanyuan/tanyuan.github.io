@@ -3,6 +3,7 @@ layout: project
 category: artwork
 date:  2013-04-19 00:00:00 +0800
 title: 八分之幾的乾燥空間 (The Umbrella Project)
+author: <b>Shan-Yuan Teng</b>
 publication: National Taiwan University Art Festival 2013
 description: a performance art on a rainy day.
 thumbnail: /projects/umbrellaproject/umbrellaproject-thumb.jpg
