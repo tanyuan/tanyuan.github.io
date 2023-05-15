@@ -10,7 +10,7 @@ Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **
 
 <div class="project-list-highlight">
 
-<h2>enabling haptic experiences <i>anywhere, anytime</i></h2>
+<h2>PhD research: enabling haptic experiences <i>anywhere, anytime</i></h2>
 
 <h3>vision articles</h3>
 
