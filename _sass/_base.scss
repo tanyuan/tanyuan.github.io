@@ -25,7 +25,12 @@ body {
     font-kerning: normal;
 }
 
-
+strong {
+    font-weight: 700;
+}
+b {
+    font-weight: 700;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

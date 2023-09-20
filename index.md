@@ -2,11 +2,11 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is a 4th-year PhD student in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic interfaces** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we became used to expecting from our mobile phones & wearables, such as **extreme mobility, availability anytime, etc**. To advance haptics into this new territory and grant it these novel properties, Shan-Yuan engineers custom-made interactive devices that, for instance: allow to feel touch in mixed reality without encumbering our fingerpads, or come with virtually infinite battery life. Shan-Yuan has published this work as 13 papers (six as the first author) at top **Human-Computer Interaction (HCI) conferences** including ACM CHI & UIST, with two Best Paper Awards and four Honorable Mention Awards.
+Shan-Yuan Teng is a 5th-year PhD student in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic interfaces** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we became used to expecting from our mobile phones & wearables, such as **extreme mobility, availability anytime, etc**. To advance haptics into this new territory and grant it these novel properties, Shan-Yuan engineers custom-made interactive devices that, for instance: allow to feel touch in mixed reality without encumbering our fingerpads, or come with virtually infinite battery life. Shan-Yuan has published this work as 14 papers (six as the first author) at top **Human-Computer Interaction (HCI) conferences** including ACM CHI & UIST, with two Best Paper Awards and four Honorable Mention Awards.
 
 Before coming to Chicago, Shan-Yuan worked with Prof. Bing-Yu 'Robin' Chen at **National Taiwan University**, where Shan-Yuan received Master's degree in Computer Science & Bachelor's degree in Electrical Engineering. 
 
-[&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/assets/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;]
+[&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/assets/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]
 
 <div class="project-list-highlight">
 
