@@ -2,16 +2,14 @@
 layout: project
 category: featured
 subcategory: first-author
-date:  2021-05-02 00:00:00 +0000
-title: "touch&fold: a foldable haptic actuator for rendering touch in mixed reality"
-author: "<b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes"
-publication:  "CHI 2021 Paper, SIGGRAPH 2021 Emerging Technologies, World Haptics 2023 Demo"
-award: 🏅 Honorable Mention Award for Best Paper
-thumbnail: /projects/touchfold/touchfold_thumbnail.jpg
-paper: /projects/touchfold/touchfold-chi21.pdf
-permalink: /projects/touchfold/
-doi: https://doi.org/10.1145/3411764.3445099
-video: https://www.youtube.com/watch?v=yg8BOKhs4XM
+date:  2024-05-02 00:00:00 +0000
+title: "Haptic Permeability: adding holes to tactile devices improves dexterity"
+author: "<b>Shan-Yuan Teng</b>, Aryan Gupta, Pedro Lopes"
+publication:  "to appear in CHI 2024 Paper"
+thumbnail: /projects/haptic-permeability/haptic-permeability-thumbnail.jpg
+paper: /projects/haptic-permeability/haptic-permeability-CHI24.pdf
+doi: https://doi.org/10.1145/3613904.3642156
+video: https://www.youtube.com/watch?v=0mU0yy7LYlc
 ---
 
 <div class="video-wrapper">
