@@ -1,6 +1,6 @@
 ---
 layout: project
-category: research
+category: archive
 subcategory: visualization
 date:  2017-05-06 00:00:00 +0800
 title: "Way Out: a multi-layer panorama mobile game using around-body interactions"

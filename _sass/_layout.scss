@@ -218,6 +218,7 @@ h2.post-title {
     h2 {
         font-family:$title-font-family;
         font-size: 32px;
+        margin-bottom: 12px;
 
         @include media-query($on-laptop) {
             font-size: 28px;

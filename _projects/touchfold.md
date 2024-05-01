@@ -3,7 +3,7 @@ layout: project
 category: featured
 subcategory: first-author
 date:  2021-05-02 00:00:00 +0000
-title: "touch&fold: a foldable haptic actuator for rendering touch in mixed reality"
+title: "Touch&Fold: a foldable haptic actuator for rendering touch in mixed reality"
 author: "<b>Shan-Yuan Teng</b>, Pengyu Li, Romain Nith, Joshua Fonseca, Pedro Lopes"
 publication:  "CHI 2021 Paper, SIGGRAPH 2021 Emerging Technologies, World Haptics 2023 Demo"
 award: 🏅 Honorable Mention Award for Best Paper

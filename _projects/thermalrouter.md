@@ -10,4 +10,5 @@ publication:  "UIST 2023 Paper"
 thumbnail: /projects/thermalrouter.jpg
 paper: /projects/thermalrouter-uist23.pdf
 doi: https://doi.org/10.1145/3586183.3606747
+video: https://www.youtube.com/watch?v=PbasORkPn5w
 ---

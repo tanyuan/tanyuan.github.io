@@ -1,0 +1,4 @@
+- **Program Committee:** ACM UIST 2024, ACM SUI 2023/2024, ACM ISWC 2022, ACM Augmented Humans 2023/2024
+- **Demo Chair:** ACM Augmented Humans 2021
+- **Paper Session Chair:** ACM CHI 2022/2023
+- **Paper Reviewer:** ACM CHI, UIST, IMWUT, TEI, DIS, IMX, SIGGRAPH (Technical Paper), IEEE ISMAR, IEEE VR, IEEE Haptics, IEEE World Haptics, International Journal of Human-Computer Studies

@@ -1,6 +1,6 @@
 ---
 layout: project
-category: research
+category: archive
 subcategory: haptics
 date:  2016-12-05 00:00:00 +0800
 title: "Stylus Assistant: designing dynamic constraints for facilitating stylus inputs on portable displays"

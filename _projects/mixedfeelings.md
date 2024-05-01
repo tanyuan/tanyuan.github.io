@@ -3,7 +3,7 @@ layout: project
 category: article
 subcategory: haptics
 date:  2022-10-06 00:00:00 +0000
-title: "XR Needs “Mixed Feelings”: engineering haptic devices that work in both virtual and physical realities"
+title: "XR needs “mixed feelings”: engineering haptic devices that work in both virtual and physical realities"
 author: "<b>Shan-Yuan Teng</b>, Pedro Lopes"
 publication:  "ACM XRDS 2022: Crossroads Magazine Article"
 thumbnail: /projects/mixedfeelings_thumbnail.jpg

@@ -3,9 +3,9 @@ layout: project
 category: featured
 subcategory: first-author
 date:  2024-05-02 00:00:00 +0000
-title: "Haptic Permeability: adding holes to tactile devices improves dexterity"
+title: "Haptic permeability: adding holes to tactile devices improves dexterity"
 author: "<b>Shan-Yuan Teng</b>, Aryan Gupta, Pedro Lopes"
-publication:  "to appear in CHI 2024 Paper"
+publication:  "CHI 2024 Paper"
 thumbnail: /projects/haptic-permeability/haptic-permeability-thumbnail.jpg
 paper: /projects/haptic-permeability/haptic-permeability-CHI24.pdf
 doi: https://doi.org/10.1145/3613904.3642156

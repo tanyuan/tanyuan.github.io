@@ -1,6 +1,6 @@
 ---
 layout: project
-category: research
+category: archive
 subcategory: haptics
 date:  2016-10-16 00:00:00 +0800
 title: "EMS Air Guitar: a music experience that moves your body using electrical muscle stimulation"
