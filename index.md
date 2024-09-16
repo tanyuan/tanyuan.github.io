@@ -10,7 +10,9 @@ Shan-Yuan was born in Taiwan and received Master's degree in Computer Science & 
 
 ## news
 
-{% include_relative news.md %}
+{% include_relative news_excerpt.md %}
+
+[[ more news ]](news)
 
 <div class="project-list-highlight">
 

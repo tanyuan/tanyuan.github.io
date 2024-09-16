@@ -9,7 +9,6 @@ publication:  "CHI 2024 Paper"
 thumbnail: /projects/haptic-permeability/haptic-permeability-thumbnail.jpg
 paper: /projects/haptic-permeability/haptic-permeability-CHI24.pdf
 doi: https://doi.org/10.1145/3613904.3642156
-video: https://www.youtube.com/watch?v=0mU0yy7LYlc
 ---
 
 <div class="video-wrapper">

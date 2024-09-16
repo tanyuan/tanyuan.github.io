@@ -1,0 +1,2 @@
+- _2024-06-17_ Shan-Yuan gave a talk at **Cornell Tech** (Matter of Tech lab). Thank Thijs for hosting me!
+- _2024-05-15_ Shan-Yuan presented his leading full paper **[Haptic Permeability](projects/haptic-permeability/haptic-permeability-CHI24.pdf)** at **CHI 2024** in Honolulu.
