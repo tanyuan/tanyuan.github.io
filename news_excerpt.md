@@ -1,3 +1,3 @@
-- _2024-09-27_ Shan-Yuan will give a talk at **UCLA** (2pm, Engineering Bldg IV, Shannon Room 54-134), hosted by Yang Zhang.
-- _2024-06-17_ Shan-Yuan gave a talk at **Cornell Tech** (Matter of Tech lab). Thank Thijs for hosting me.
-- _2024-05-15_ Shan-Yuan presented his leading full paper **[Haptic Permeability](projects/haptic-permeability/haptic-permeability-CHI24.pdf)** at **CHI 2024** in Honolulu.
+- _2024-10_ Shan-Yuan will attend [UIST 2024](https://uist.acm.org/2024)!
+- _2024-09-27_ Shan-Yuan will gave a talk at **UCLA** (2pm, Engineering Bldg IV, Shannon Room 54-134). Thanks [Yang Zhang](https://yangzhang.dev/) for hosting me!
+- _2024-06-17_ Shan-Yuan gave a talk at **Cornell Tech** (Matter of Tech lab). Thanks [Thijs Roumen](https://thijsroumen.eu/) for hosting and touring me the campus!
