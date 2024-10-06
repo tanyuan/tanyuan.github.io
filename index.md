@@ -194,6 +194,9 @@ My research question is: What fundamental restrictions are limiting wearable hap
                   {% if project.video %}
                   <a href="{{ project.video }}">[video]</a>
                   {% endif %}
+                  {% if project.patent %}
+                  <a href="{{ project.patent }}">[patent]</a>
+                  {% endif %}
                   {% if project.permalink %}
                   <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
                   {% endif %}

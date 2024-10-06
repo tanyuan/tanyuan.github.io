@@ -6,12 +6,13 @@ date:  2020-02-16 00:00:00 +0000
 title: "Wearable microphone jamming"
 author: "<b>Shan-Yuan Teng</b>*, Yuxin Chen*, Huiying Li*, Steven Nagels, Zhijing Li, Pedro Lopes, Ben Y. Zhao, Haitao Zheng (*equal contribution)"
 description: 
-publication:  "CHI 2020 Paper & CHI 2021 Demo"
+publication:  "CHI 2020 Paper"
 award: 🏅 Honorable Mention Award
 thumbnail: /projects/jammer/jammer-thumb.jpg
 paper: /projects/jammer/jammer_chi20.pdf
 doi: https://doi.org/10.1145/3313831.3376304
 video: https://www.youtube.com/watch?v=-43-4LfqiTA
+patent: https://patents.google.com/patent/US20230131816A1/en
 ---
 
 <div class="video-wrapper">
