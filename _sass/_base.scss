@@ -71,11 +71,11 @@ figcaption {
  * Lists
  */
 ul, ol {
-    /*margin-left: $spacing-unit;*/
+    margin-left: $spacing-unit;
 }
 
 li {
-    list-style-type: none;
+    // list-style-type: none;
     margin-bottom: .6em;
     > ul,
     > ol {

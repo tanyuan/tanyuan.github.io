@@ -8,11 +8,9 @@ Shan-Yuan was born in Taiwan and received Master's degree in Computer Science & 
 
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]
 
-## news
+## highlights
 
-{% include_relative news_excerpt.md %}
-
-[[ more news ]](news)
+{% include_relative highlights.md %}
 
 <div class="project-list-highlight">
 
