@@ -1,4 +1,5 @@
 - I served on **Program Committee** and as **Video Preview Chair** for [UIST 2024](https://uist.acm.org/2024).
 - My co-authored paper [**Can a smartwatch move your fingers?**](projects/watch-ems-uist24.pdf) won an **Honorable Mention Award** at [UIST 2024](https://uist.acm.org/2024).
+- I co-organize HCI seminars (People and Tech) at the University of Chicago Computer Science.
 - I gave a talk at a guest seminar at UCLA ECE. Thanks [Yang Zhang](https://yangzhang.dev/) for hosting me!
 - I was invited to talk on [Haptics Club podcast](https://thehapticsclub.com/episodes/haptics-club-52-shan-yuan-teng-on-enabling-haptic-experiences-anywhere-anytime).

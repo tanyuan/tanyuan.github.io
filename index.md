@@ -2,23 +2,23 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic interfaces** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we become used to expecting from our mobile phones & wearables, such as **extreme mobility, availability anytime, etc**. To advance haptics into this new territory, Shan-Yuan engineers custom-made interactive devices that, for instance: allow to feel touch in Augmented/Mixed Reality (AR/MR/XR) without encumbering our fingerpads, or offer rich force feedback with virtually infinite battery life. Shan-Yuan has published this work as 16 papers (7 as the first author) at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards, and demonstrated at SIGGRAPH, IEEE Haptics.
+Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic interfaces** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we become used to expecting from our mobile phones & wearables, such as **extreme mobility, availability anytime, etc**. To advance haptics into this new territory, Shan-Yuan engineers custom-made interactive devices that, for instance: allow us to feel touch in Augmented/Mixed Reality (AR/MR/XR) without encumbering our fingerpads, or offer rich force feedback with virtually infinite battery life. Shan-Yuan has published this work as 16 papers (7 as the first author) at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards, and demonstrated at SIGGRAPH, IEEE Haptics.
 
 Shan-Yuan was born in Taiwan and received Master's degree in Computer Science & Bachelor's degree in Electrical Engineering at **National Taiwan University**.
 
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]
 
-## highlights
+## Highlights
 
 {% include_relative highlights.md %}
 
 <div class="project-list-highlight">
 
-<h2>PhD research: enabling haptic experiences <i>anywhere, anytime</i></h2>
+<h2>PhD Research: Enabling haptic experiences <i>anywhere, anytime</i></h2>
 
-My research question is: What fundamental restrictions are limiting wearable haptic devices from integrating into our lives, and, more importantly, can we tackle these? I wrote articles on this overarching idea in <a href="/projects/anywhere-anytime-chi23.pdf">CHI doctoral consortium</a>, <a href="/projects/seamless-haptics-IEEEVR24.pdf">IEEE VR workshop</a>, <a href="/projects/xr-needs-mixed-feelings/XR-needs-mixed-feelings-XRDS21.pdf">ACM XRDS</a>, and published papers:
+Haptics, while highly developed in labs (sense of touch & forces), are left to a minimum in our daily computing devices (vibration in phones). My research asks: What fundamental restrictions are limiting haptic devices from integrating into our lives, and, more importantly, can we tackle these? I wrote articles on this overarching idea in <a href="/projects/anywhere-anytime-chi23.pdf">CHI Doctoral Consortium</a>, <a href="/projects/seamless-haptics-IEEEVR24.pdf">IEEE VR Workshop</a>, <a href="/projects/xr-needs-mixed-feelings/XR-needs-mixed-feelings-XRDS21.pdf">ACM XRDS</a>, and published papers at prestigious HCI conferences:
 <br><br>
-<h3>lead author publications (ACM CHI & UIST)</h3>
+<h3>Lead author publications (ACM CHI & UIST)</h3>
 
 <div class="project-list">
   <ul>
@@ -79,7 +79,7 @@ My research question is: What fundamental restrictions are limiting wearable hap
   </ul>
 </div>
 
-<h3>collaborated papers (ACM CHI & UIST)</h3>
+<h3>Collaborated papers (ACM CHI & UIST)</h3>
 
 <div class="project-list">
   <ul>
@@ -142,7 +142,7 @@ My research question is: What fundamental restrictions are limiting wearable hap
 
 </div>
 
-## more publications (ACM CHI, UIST & Science Advances)
+## More publications (ACM CHI, UIST & Science Advances)
 
 <div class="project-list">
   <ul>
@@ -210,7 +210,7 @@ My research question is: What fundamental restrictions are limiting wearable hap
   </ul>
 </div>
 
-## professional services
+## Professional services
 
 {% include_relative services.md %}
 

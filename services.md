@@ -1,5 +1,3 @@
-- **Program Committee:** ACM UIST 2024, SUI 2024/2023, ISWC 2022, Augmented Humans 2024/2023
-- **Demo Chair:** ACM Augmented Humans 2021
-- **Video Preview Chair** ACM UIST 2024
-- **Paper Session Chair:** ACM UIST 2024, CHI 2023/2022
-- **Paper Reviewer:** ACM CHI, UIST, IMWUT, TEI, DIS, IMX, SIGGRAPH (Technical Paper), IEEE ISMAR, IEEE VR, IEEE Haptics, IEEE World Haptics, International Journal of Human-Computer Studies
+- I served on **Program Committee** for **ACM UIST 2024**, SUI 2024/2023, ISS 2024 Editorial Board, ISWC 2022, Augmented Humans 2024/2023. I served as a **Demo Chair** for ACM Augmented Humans 2021, **Video Preview Chair** for ACM UIST 2024, and **Paper Session Chair** for ACM UIST 2024, CHI 2023/2022.
+- I regularly **review papers** for ACM CHI, UIST, IMWUT, TEI, DIS, IMX, SIGGRAPH (Technical Paper), IEEE ISMAR, IEEE VR, IEEE Haptics, IEEE World Haptics, IEEE Robotics and Automation Letters, International Journal of Human-Computer Studies.
+- I help organizing **XR meetup** at ACM SIGGRAPH & CHI.
