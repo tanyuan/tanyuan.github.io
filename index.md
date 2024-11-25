@@ -2,11 +2,11 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic interfaces** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we become used to expecting from our mobile phones & wearables, such as **extreme mobility, availability anytime, etc**. To advance haptics into this new territory, Shan-Yuan engineers custom-made interactive devices that, for instance: allow us to feel touch in Augmented/Mixed Reality (AR/MR/XR) without encumbering our fingerpads, or offer rich force feedback with virtually infinite battery life. Shan-Yuan has published this work as 16 papers (7 as the first author) at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards, and demonstrated at SIGGRAPH, IEEE Haptics.
+Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic interfaces** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we become used to expect from our mobile phones & wearables, such as **extreme mobility, availability anytime, etc**. To advance haptics into this new territory, Shan-Yuan engineers custom-made interactive devices that, for instance: allow us to feel touch in Augmented/Mixed Reality (AR/MR/XR) without encumbering our fingerpads, or offer rich force feedback with virtually infinite battery life. Shan-Yuan has published this work as 16 papers (7 as the first author) at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards, and demonstrated at SIGGRAPH, IEEE Haptics.
 
-Shan-Yuan was born in Taiwan and received Master's degree in Computer Science & Bachelor's degree in Electrical Engineering at **National Taiwan University**.
+Shan-Yuan was born and raised in Taiwan. Shan-Yuan received Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
 
-[&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]
+[&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[bsky](https://bsky.app/profile/tengshanyuan.info)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]
 
 ## Highlights
 
