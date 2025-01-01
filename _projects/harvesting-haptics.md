@@ -12,6 +12,7 @@ thumbnail: /projects/harvesting-haptics-thumbnail.jpg
 paper: /projects/harvesting-haptics/harvestinghaptics-uist22.pdf
 doi: https://doi.org/10.1145/3526113.3545635
 video: https://www.youtube.com/watch?v=dhZA21RV6O8
+video_download: https://1drv.ms/v/c/C47DF7B065F99047/EdTZbbAfhKNDs_5WfWSW8O0B-IQpMWlaTl8-9arAqYz1pg?e=DBgcmv
 permalink: /projects/harvesting-haptics/
 ---
 

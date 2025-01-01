@@ -11,6 +11,7 @@ paper: /projects/pupop/pupop_uist18.pdf
 permalink: /projects/pupop/
 doi: https://doi.org/10.1145/3242587.3242628
 video: https://www.youtube.com/watch?v=UpWDa-jgC-I
+video_download: https://1drv.ms/v/c/C47DF7B065F99047/EeBX8k_VdfRMkPJdplb4I7cBW_targJVljJnllJsHs93Aw?e=PxYKUB
 ---
 
 <div class="video-wrapper">

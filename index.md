@@ -2,11 +2,12 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic interfaces** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we become used to expect from our mobile phones & wearables, such as **extreme mobility, availability anytime, etc**. To advance haptics into this new territory, Shan-Yuan engineers custom-made interactive devices that, for instance: allow us to feel touch in Augmented/Mixed Reality (AR/MR/XR) without encumbering our fingerpads, or offer rich force feedback with virtually infinite battery life. Shan-Yuan has published this work as 16 papers (7 as the first author) at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards, and demonstrated at SIGGRAPH, IEEE Haptics.
+Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic interfaces** (e.g., those that can create the sense of touch, forces, etc.) that exhibit properties that we become used to expect from our mobile phones & wearables, such as **extreme mobility, availability anytime, etc**. To advance haptics into this new territory, Shan-Yuan engineers custom-made interactive devices that, for instance: allow us to feel touch in Augmented/Mixed Reality (AR/MR/XR) without encumbering our fingerpads, or offer rich force feedback with virtually infinite battery life. Shan-Yuan has published this work as 16 papers (7 as the first author) at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards, and demonstrated at SIGGRAPH & IEEE Haptics.
 
-Shan-Yuan was born and raised in Taiwan. Shan-Yuan received Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
+Shan-Yuan was born and raised in Taiwan. Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
 
-[&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[bsky](https://bsky.app/profile/tengshanyuan.info)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]
+[&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Bluesky](https://bsky.app/profile/tengshanyuan.info)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]\\
+<small>* Shan-Yuan is my first name</small>
 
 ## Highlights
 
@@ -58,16 +59,29 @@ Haptics, while highly developed in labs (sense of touch & forces), are left to a
                   {% endif %}
                   <div class="project-link">
                   {% if project.paper %}
-                  <a href="{{ project.paper }}">[paper]</a>
+                  [
+                  <a href="{{ project.paper }}">Paper (PDF)</a>
                   {% endif %}
                   {% if project.doi %}
-                  <a href="{{ project.doi }}">[doi]</a>
+                  <a href="{{ project.doi }}">(DOI)</a>
+                  {% endif %}
+                  {% if project.paper %}
+                  ]
                   {% endif %}
                   {% if project.video %}
-                  <a href="{{ project.video }}">[video]</a>
+                  [
+                  <a href="{{ project.video }}">Video (YouTube)</a>
+                  {% endif %}
+                  {% if project.video_download %}
+                  <a href="{{ project.video_download }}">(MP4)</a>
+                  {% endif %}
+                  {% if project.video %}
+                  ]
                   {% endif %}
                   {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
+                  [
+                  <a href="{{ project.url | prepend: site.baseurl }}">More info</a>
+                  ]
                   {% endif %}
                   </div>
               </div>
@@ -119,16 +133,29 @@ Haptics, while highly developed in labs (sense of touch & forces), are left to a
                   {% endif %}
                   <div class="project-link">
                   {% if project.paper %}
-                  <a href="{{ project.paper }}">[paper]</a>
+                  [
+                  <a href="{{ project.paper }}">Paper (PDF)</a>
                   {% endif %}
                   {% if project.doi %}
-                  <a href="{{ project.doi }}">[doi]</a>
+                  <a href="{{ project.doi }}">(DOI)</a>
+                  {% endif %}
+                  {% if project.paper %}
+                  ]
                   {% endif %}
                   {% if project.video %}
-                  <a href="{{ project.video }}">[video]</a>
+                  [
+                  <a href="{{ project.video }}">Video (YouTube)</a>
+                  {% endif %}
+                  {% if project.video_download %}
+                  <a href="{{ project.video_download }}">(MP4)</a>
+                  {% endif %}
+                  {% if project.video %}
+                  ]
                   {% endif %}
                   {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
+                  [
+                  <a href="{{ project.url | prepend: site.baseurl }}">More info</a>
+                  ]
                   {% endif %}
                   </div>
               </div>
@@ -184,19 +211,29 @@ Haptics, while highly developed in labs (sense of touch & forces), are left to a
                   
                   <div class="project-link">
                   {% if project.paper %}
-                  <a href="{{ project.paper }}">[paper]</a>
+                  [
+                  <a href="{{ project.paper }}">Paper (PDF)</a>
                   {% endif %}
                   {% if project.doi %}
-                  <a href="{{ project.doi }}">[doi]</a>
+                  <a href="{{ project.doi }}">(DOI)</a>
+                  {% endif %}
+                  {% if project.paper %}
+                  ]
                   {% endif %}
                   {% if project.video %}
-                  <a href="{{ project.video }}">[video]</a>
+                  [
+                  <a href="{{ project.video }}">Video (YouTube)</a>
                   {% endif %}
-                  {% if project.patent %}
-                  <a href="{{ project.patent }}">[patent]</a>
+                  {% if project.video_download %}
+                  <a href="{{ project.video_download }}">(MP4)</a>
+                  {% endif %}
+                  {% if project.video %}
+                  ]
                   {% endif %}
                   {% if project.permalink %}
-                  <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
+                  [
+                  <a href="{{ project.url | prepend: site.baseurl }}">More info</a>
+                  ]
                   {% endif %}
                   </div>
 

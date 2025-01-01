@@ -12,6 +12,7 @@ paper: /projects/tilepop/tilepop_uist19.pdf
 permalink: /projects/tilepop/
 doi: https://doi.org/10.1145/3332165.3347958
 video: https://www.youtube.com/watch?v=uxSQrd-IRjw
+video_download: https://1drv.ms/v/c/C47DF7B065F99047/EQdVpIRmIqZLkzSROtgWyn8BpFGa6nrNUPg-1c_M5Rxoeg?e=j7vT9y
 ---
 
 <div class="video-wrapper">

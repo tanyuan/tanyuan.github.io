@@ -9,6 +9,7 @@ publication:  "UIST 2021 Paper"
 award: 🏆 Best Demo Award (People's Choice)
 thumbnail: /projects/dextrems.jpg
 video: https://www.youtube.com/watch?v=wOOlHZ8hBnA
+video_download: https://1drv.ms/v/c/C47DF7B065F99047/EQatNSWSAhRBoIVmIXtSmIUBK4n9d_gf_9B9MSQGcaZQkg?e=Qy3blg
 paper: /projects/dextrems-uist21.pdf
 doi: https://doi.org/10.1145/3472749.3474759
 ---

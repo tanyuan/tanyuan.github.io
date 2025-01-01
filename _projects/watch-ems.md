@@ -10,4 +10,6 @@ award: 🏅 Honorable Mention Award
 thumbnail: /projects/watch-ems.jpg
 paper: /projects/watch-ems-uist24.pdf
 doi: https://doi.org/10.1145/3654777.3676373
+video: https://www.youtube.com/watch?v=20OZ2aFdwXc
+video_download: https://1drv.ms/v/c/C47DF7B065F99047/EeUDw8pmP4JJiHbSjVpChPkBEqoENDRRwb_uMievfi99bw?e=MU3nZi
 ---
