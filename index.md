@@ -20,7 +20,9 @@ Shan-Yuan was born and raised in Taiwan. Shan-Yuan holds a Master's degree in Co
 Haptics, while highly developed in labs (sense of touch & forces), are left to a minimum in our daily computing devices (vibration in phones). My research asks: What fundamental restrictions are limiting haptic devices from integrating into our lives, and, more importantly, can we tackle these? I wrote articles on this overarching idea in <a href="/projects/anywhere-anytime-chi23.pdf">CHI Doctoral Consortium</a>, <a href="/projects/seamless-haptics-IEEEVR24.pdf">IEEE VR Workshop</a>, <a href="/projects/xr-needs-mixed-feelings/XR-needs-mixed-feelings-XRDS21.pdf">ACM XRDS</a>, and published papers at prestigious HCI conferences:
 <br><br>
 
-<iframe src="https://1drv.ms/v/c/C47DF7B065F99047/IQTfyqAQgYOORJ0FfTx_tEBVAZk_6EM7bONRZdLPZnjwUtg" width="1920" height="1080" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<h3>▶️ Watch 3-minute introduction & demo:</h3>
+
+<iframe width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen src="https://drive.google.com/file/d/1sDSV9FdVMZsCsfZGrsWvCmdjFfX3vYie/preview"></iframe>
 
 <br><br>
 <h3>Lead author publications (ACM CHI & UIST)</h3>
