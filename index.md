@@ -9,6 +9,10 @@ Shan-Yuan was born and raised in Taiwan. Shan-Yuan holds a Master's degree in Co
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Bluesky](https://bsky.app/profile/tengshanyuan.info)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]\\
 <small>* Shan-Yuan is my first name</small>
 
+## Watch my 3-minute introduction & demo
+
+<iframe width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen src="https://drive.google.com/file/d/1sDSV9FdVMZsCsfZGrsWvCmdjFfX3vYie/preview"></iframe>
+
 ## Highlights
 
 {% include_relative highlights.md %}
@@ -20,11 +24,6 @@ Shan-Yuan was born and raised in Taiwan. Shan-Yuan holds a Master's degree in Co
 Haptics, while highly developed in labs (sense of touch & forces), are left to a minimum in our daily computing devices (vibration in phones). My research asks: What fundamental restrictions are limiting haptic devices from integrating into our lives, and, more importantly, can we tackle these? I wrote articles on this overarching idea in <a href="/projects/anywhere-anytime-chi23.pdf">CHI Doctoral Consortium</a>, <a href="/projects/seamless-haptics-IEEEVR24.pdf">IEEE VR Workshop</a>, <a href="/projects/xr-needs-mixed-feelings/XR-needs-mixed-feelings-XRDS21.pdf">ACM XRDS</a>, and published papers at prestigious HCI conferences:
 <br><br>
 
-<h3>▶️ Watch 3-minute introduction & demo:</h3>
-
-<iframe width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen src="https://drive.google.com/file/d/1sDSV9FdVMZsCsfZGrsWvCmdjFfX3vYie/preview"></iframe>
-
-<br><br>
 <h3>Lead author publications (ACM CHI & UIST)</h3>
 
 <div class="project-list">
