@@ -1,6 +1,6 @@
 ---
 layout: project
-category: featured
+category: research
 subcategory: first-author
 date:  2018-08-01 00:00:00 +0800
 title: "PuPoP: pop-up prop on palm for virtual reality"

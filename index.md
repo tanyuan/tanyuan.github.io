@@ -252,7 +252,7 @@ Haptics, while highly developed in labs (sense of touch & forces), are left to a
   </ul>
 </div>
 
-## Professional services
+## Academic service
 
 {% include_relative services.md %}
 
