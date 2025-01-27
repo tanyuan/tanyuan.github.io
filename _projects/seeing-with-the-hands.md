@@ -7,4 +7,5 @@ title: "Seeing with the hands: a sensory substitution that supports manual inter
 author: "<b>Shan-Yuan Teng</b>*, Gene S-H Kim*, Xuanyou Liu*, Pedro Lopes (*equal contribution)"
 publication:  "To appear at CHI 2025 Paper"
 thumbnail: /projects/seeing-with-the-hands.jpg
+paper: /projects/SeeingWithTheHands_CHI25_Preprint.pdf
 ---
