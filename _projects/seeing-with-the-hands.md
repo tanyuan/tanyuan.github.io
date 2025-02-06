@@ -8,4 +8,5 @@ author: "<b>Shan-Yuan Teng</b>*, Gene S-H Kim*, Xuanyou Liu*, Pedro Lopes (*equa
 publication:  "To appear at CHI 2025 Paper"
 thumbnail: /projects/seeing-with-the-hands.jpg
 paper: /projects/SeeingWithTheHands_CHI25_Preprint.pdf
+website: https://seeingwiththehands.com/
 ---
