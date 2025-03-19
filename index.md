@@ -2,6 +2,12 @@
 layout: bio
 ---
 
+
+
+<p style="padding: .5em 1em; background:rgb(255, 254, 204); color:#333">
+  I will defend my PhD on March 24th! <a href="https://defense.tengshanyuan.info/">Check out the info, streaming here</a>
+</p>
+
 Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we became used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. To advance haptics into this new territory, Shan-Yuan engineers custom-made interactive devices that, for instance, [allow us to feel touch in Augmented/Mixed Reality (AR/MR/XR) without encumbering our dexterity in the real world](/projects/touchfold/touchfold-chi21.pdf); or [support manual interactions for blind users](/projects/SeeingWithTheHands_CHI25_Preprint.pdf). Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST** (17 papers, 8 as the first author), with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics.
 
 Shan-Yuan was born in Taiwan and holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
