@@ -2,9 +2,7 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we became used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. To advance haptics into this new territory, Shan-Yuan engineers custom-made interactive devices that, for instance, [allow us to feel touch in Augmented/Mixed Reality (AR/MR/XR) without encumbering our dexterity in the real world](/projects/touchfold/touchfold-chi21.pdf); or [support manual interactions for blind users](/projects/SeeingWithTheHands_CHI25_Preprint.pdf). Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST** (17 papers, 8 as the first author), with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics.
-
-Shan-Yuan was born in Taiwan and holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
+Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we became used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics. Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
 
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Bluesky](https://bsky.app/profile/tengshanyuan.info)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]\\
 <small>* Shan-Yuan is my first name</small>
@@ -12,10 +10,6 @@ Shan-Yuan was born in Taiwan and holds a Master's degree in Computer Science & B
 ## Watch my 3-minute introduction & demo
 
 <iframe width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen src="https://drive.google.com/file/d/1sDSV9FdVMZsCsfZGrsWvCmdjFfX3vYie/preview"></iframe>
-
-## Highlights
-
-{% include_relative highlights.md %}
 
 <div class="project-list-highlight">
 
