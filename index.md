@@ -2,7 +2,11 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is a PhD candidate in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we became used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics. Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
+<p style="padding: .5em 1em; background:rgb(255, 254, 204); color:#333">
+  I will join as an <b>assistant professor</b> in the Department of Computer Science & Information Engineering at <b>National Taiwan University</b>, Taipei, Taiwan!
+</p>
+
+Shan-Yuan Teng is a PhD candidate (expected June, 2025) in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we became used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics. Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
 
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Bluesky](https://bsky.app/profile/tengshanyuan.info)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]\\
 <small>* Shan-Yuan is my first name</small>
