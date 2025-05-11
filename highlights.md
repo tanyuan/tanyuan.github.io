@@ -1,4 +1,0 @@
-- **I defended my PhD** on March 24th! Thanks to my committee: Prof. Pedro Lopes, Prof. Ken Nakagaki (University of Chicago), Prof. Sean Follmer (Stanford University), and Prof. Kasper Hornbæk (University of Copenhagen). [Watch the defense recording here.](https://defense.tengshanyuan.info/)
-- I will present our paper at CHI 2025 in Yokohama: **Seeing with the hands: a sensory substitution that supports manual interactions**. Check out the [project page](https://seeingwiththehands.com/).
-- I served on **Program Committee** for [UIST 2024](https://uist.acm.org/2024).
-- I was invited to talk on [Haptics Club podcast](https://thehapticsclub.com/episodes/haptics-club-52-shan-yuan-teng-on-enabling-haptic-experiences-anywhere-anytime).

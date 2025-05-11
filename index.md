@@ -11,6 +11,11 @@ Shan-Yuan Teng is a PhD candidate (expected June, 2025) in Computer Science at t
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Bluesky](https://bsky.app/profile/tengshanyuan.info)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]\\
 <small>* Shan-Yuan is my first name</small>
 
+## Academic service
+
+- I served on **Program Committee** for **ACM UIST 2024**, SUI 2024/2023, ISS 2024 Editorial Board, ISWC 2022, Augmented Humans 2024/2023. I served as a **Demo Chair** for ACM Augmented Humans 2021, **Video Preview Chair** for ACM UIST 2024, and **Paper Session Chair** for ACM UIST 2024, CHI 2023/2022.
+- I regularly **review papers** for ACM CHI, UIST, IMWUT, TEI, DIS, IMX, SIGGRAPH (Technical Paper), IEEE ISMAR, IEEE VR, IEEE Haptics, IEEE World Haptics, IEEE Robotics and Automation Letters, International Journal of Human-Computer Studies.
+
 ## Watch my 3-minute introduction & demo
 
 <iframe width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen src="https://drive.google.com/file/d/1sDSV9FdVMZsCsfZGrsWvCmdjFfX3vYie/preview"></iframe>
@@ -19,8 +24,85 @@ Shan-Yuan Teng is a PhD candidate (expected June, 2025) in Computer Science at t
 
 <h2>PhD Research: Enabling haptic experiences <i>anywhere, anytime</i></h2>
 
-Haptics, while highly developed in labs (sense of touch & forces), are left to a minimum in our daily computing devices (vibration in phones). My research asks: What fundamental restrictions are limiting haptic devices from integrating into our lives, and, more importantly, can we tackle these? I wrote articles on this overarching idea in <a href="/projects/anywhere-anytime-chi23.pdf">CHI Doctoral Consortium</a>, <a href="/projects/seamless-haptics-IEEEVR24.pdf">IEEE VR Workshop</a>, <a href="/projects/xr-needs-mixed-feelings/XR-needs-mixed-feelings-XRDS21.pdf">ACM XRDS</a>, and published papers at prestigious HCI conferences:
+Haptics (sense of touch & forces, etc), while highly developed in labs, are left to a minimum in our daily computing devices (vibration in phones). My research asks: What fundamental technical restrictions are limiting more haptics from integrating into our lives, and, more importantly, can we tackle these?
 <br><br>
+
+<div class="project-list">
+  <ul>
+    {% for project in site.projects reversed %}
+
+    {% capture project_year %}{{project.date | date: "%Y"}}{% endcapture %}
+    {% capture project_published %}{{project.published}}{% endcapture %}
+    {% capture project_category %}{{project.category}}{% endcapture %}
+    {% capture project_subcategory %}{{project.subcategory}}{% endcapture %}
+
+    {% if project_category == 'defense' and project_subcategory == 'first-author' and project_published != 'false' %}
+      <li>
+
+          <div class="project-col-wrapper">
+              <div class="project-col project-col-1">
+                  {% if project.video %}
+                  <a href="{{ project.video }}" title="watch defense...">
+                  {% endif %} 
+                  <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
+                  {% if project.video %}
+                  </a>
+                  {% endif %} 
+              </div>
+              <div class="project-col project-col-2">
+                  <span class="project-title">{{ project.title }}</span>
+                  {% if project.description %}
+                  <div class="project-description">{{ project.description }}</div>
+                  {% endif %}
+                  {% if project.author %}
+                  <div class="project-author">{{ project.author }}</div>
+                  {% endif %}
+                  {% if project.publication %}
+                  <div class="project-publication">{{ project.publication }}</div>
+                  {% endif %}
+                  {% if project.award %}
+                  <div class="project-award"><b>{{ project.award }}</b></div>
+                  {% endif %}
+                  <div class="project-link">
+                  {% if project.paper %}
+                  [
+                  <a href="{{ project.paper }}">Paper (PDF)</a>
+                  {% endif %}
+                  {% if project.doi %}
+                  <a href="{{ project.doi }}">(DOI)</a>
+                  {% endif %}
+                  {% if project.paper %}
+                  ]
+                  {% endif %}
+                  {% if project.video %}
+                  [
+                  <a href="{{ project.video }}">Defense recording</a>
+                  {% endif %}
+                  {% if project.video_download %}
+                  <a href="{{ project.video_download }}">(MP4)</a>
+                  {% endif %}
+                  {% if project.video %}
+                  ]
+                  {% endif %}
+                  {% if project.permalink %}
+                  [
+                  <a href="{{ project.url | prepend: site.baseurl }}">More info</a>
+                  ]
+                  {% endif %}
+                  {% if project.website %}
+                  [
+                  <a href="{{ project.website }}">Project website</a>
+                  ]
+                  {% endif %}
+                  </div>
+              </div>
+          </div>
+
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
 
 <h3>Lead author publications (ACM CHI & UIST)</h3>
 
@@ -255,8 +337,5 @@ Haptics, while highly developed in labs (sense of touch & forces), are left to a
   </ul>
 </div>
 
-## Academic service
-
-{% include_relative services.md %}
 
 {% include footer.html %}
