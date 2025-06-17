@@ -3,17 +3,17 @@ layout: bio
 ---
 
 <p style="padding: .5em 1em; background:rgb(255, 254, 204); color:#333">
-  I will join <b>National Taiwan University</b> as an <b>assistant professor</b> in the Department of Computer Science & Information Engineering!
+  I will join <b>National Taiwan University (NTU, Taipei)</b> as an <b>assistant professor</b> in the Department of Computer Science & Information Engineering! (starting Fall 2025)
 </p>
 
-Shan-Yuan Teng is a PhD candidate (expected June, 2025) in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we became used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics. Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from **National Taiwan University**.
+Shan-Yuan Teng received their PhD in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we became used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics. Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from National Taiwan University.
 
 [&nbsp;tengshanyuan@uchicago.edu&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[Bluesky](https://bsky.app/profile/tengshanyuan.info)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]\\
 <small>* Shan-Yuan is my first name</small>
 
 ## Academic service
 
-- I served on **Program Committee** for **ACM UIST 2024**, SUI 2024/2023, ISS 2024 Editorial Board, ISWC 2022, Augmented Humans 2024/2023. I served as a **Demo Chair** for ACM Augmented Humans 2021, **Video Preview Chair** for ACM UIST 2024, and **Paper Session Chair** for ACM UIST 2024, CHI 2023/2022.
+- I served on **Program Committee** for **SIGGRAPH Asia 2025 Emerging Technologies**, **UIST 2024**, SUI 2024/2023, ISS 2024 Editorial Board, ISWC 2022, Augmented Humans 2024/2023. I served as a **Demo Chair** for ACM Augmented Humans 2021.
 - I regularly **review papers** for ACM CHI, UIST, IMWUT, TEI, DIS, IMX, SIGGRAPH (Technical Paper), IEEE ISMAR, IEEE VR, IEEE Haptics, IEEE World Haptics, IEEE Robotics and Automation Letters, International Journal of Human-Computer Studies.
 
 ## Watch my 3-minute introduction & demo
