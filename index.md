@@ -2,11 +2,11 @@
 layout: bio
 ---
 
-<p style="padding: .5em 1em; background:rgb(255, 254, 204); color:#333">
-  I am leading <b><a href="https://lab.tengshanyuan.info">Dexterous Interaction Lab</a></b> as an <b>Assistant Professor</b> in the Department of Computer Science & Information Engineering at <b>National Taiwan University (NTU, Taipei)</b>, starting Fall 2025. Please email me if you are interested in working/collaborating with me!
-</p>
+Shan-Yuan Teng is an <b>Assistant Professor</b> in the Department of Computer Science & Information Engineering at <b>National Taiwan University</b> (NTU, Taipei, Taiwan), leading <b><a href="https://lab.tengshanyuan.info">Dexterous Interaction Lab</a></b>. 
 
-Shan-Yuan Teng received their PhD in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we became used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics. Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from National Taiwan University.
+Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we have become used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics.
+ 
+Shan-Yuan received their PhD in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from National Taiwan University.
 
 [&nbsp;tengshanyuan@csie.ntu.edu.tw&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]\\
 <small>* Shan-Yuan is my first name</small>
