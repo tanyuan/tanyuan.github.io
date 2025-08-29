@@ -2,7 +2,7 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is an <b>Assistant Professor</b> in the Department of Computer Science & Information Engineering at <b>National Taiwan University</b> (NTU, Taipei, Taiwan), leading <b><a href="https://lab.tengshanyuan.info">Dexterous Interaction Lab</a></b>. 
+Shan-Yuan Teng is an <b>Assistant Professor (Yushan Young Fellow)</b> leads <b><a href="https://lab.tengshanyuan.info">Dexterous Interaction Lab</a></b> in the Department of Computer Science & Information Engineering (CSIE) at <b>National Taiwan University</b> (NTU, Taipei, Taiwan).
 
 Shan-Yuan’s research aims at advancing a new generation of **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.) to exhibit properties that we have become used to expect from our mobile & wearable devices, such as **extreme mobility, availability anytime**, etc. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**, with two Best Paper Awards & five Honorable Mention Awards. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics.
  
