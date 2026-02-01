@@ -1,6 +1,6 @@
 ---
 layout: project
-category: featured
+category: research
 subcategory: first-author
 date:  2021-05-02 00:00:00 +0000
 title: "Touch&Fold: a foldable haptic actuator for rendering touch in mixed reality"

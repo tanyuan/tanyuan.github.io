@@ -1,6 +1,6 @@
 ---
 layout: project
-category: featured
+category: research
 subcategory: haptics
 date:  2021-08-02 00:00:00 +0000
 title: "Altering perceived softness of real rigid objects by restricting fingerpad deformation"

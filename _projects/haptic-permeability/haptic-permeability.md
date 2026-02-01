@@ -1,6 +1,6 @@
 ---
 layout: project
-category: featured
+category: research
 subcategory: first-author
 date:  2024-05-02 00:00:00 +0000
 title: "Haptic permeability: adding holes to tactile devices improves dexterity"

@@ -1,6 +1,6 @@
 ---
 layout: project
-category: featured
+category: research
 subcategory: haptics
 date:  2021-05-01 00:00:00 +0000
 title: "MagnetIO: passive yet interactive soft haptic patches anywhere"

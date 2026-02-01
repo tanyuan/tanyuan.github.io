@@ -1,6 +1,6 @@
 ---
 layout: project
-category: featured
+category: research
 subcategory: haptics
 date:  2021-08-01 00:00:00 +0000
 title: "dextrEMS: increasing dexterity in electrical muscle stimulation by combining it with brakes"
