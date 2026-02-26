@@ -16,12 +16,8 @@ Shan-Yuan received their PhD in Computer Science at the **University of Chicago*
 - I served on **Program Committee** for **ACM DIS 2026**, **UIST 2024**, **SIGGRAPH Asia 2025 Emerging Technologies**, SUI 2024/2023, ISS 2024 Editorial Board, ISWC 2022, Augmented Humans 2024/2023. I served as a **Demo Chair** for ACM Augmented Humans 2021.
 - I regularly **review papers** for ACM CHI, UIST, IMWUT, TEI, DIS, IMX, SIGGRAPH (Technical Paper), IEEE ISMAR, IEEE VR, IEEE Haptics, IEEE World Haptics, IEEE Robotics and Automation Letters, International Journal of Human-Computer Studies.
 
-<div class="project-list-highlight">
 
-<h2>PhD Research: Enabling haptic experiences <i>anywhere, anytime</i></h2>
-
-Haptics (sense of touch & forces, etc), while highly developed in labs, are left to a minimum in our daily computing devices (vibration in phones). My research asks: What fundamental technical restrictions are limiting more haptics from integrating into our lives, and, more importantly, can we tackle these?
-<br><br>
+<h2>PhD thesis</h2>
 
 <div class="project-list">
   <ul>
@@ -100,9 +96,8 @@ Haptics (sense of touch & forces, etc), while highly developed in labs, are left
   </ul>
 </div>
 
-</div>
 
-## Publications (ACM CHI, UIST & Science Advances)
+## Publications
 
 <div class="project-list">
   <ul>
