@@ -13,8 +13,8 @@ Shan-Yuan received their PhD in Computer Science at the **University of Chicago*
 
 ## Academic service
 
-- I served on **Program Committee** for **ACM DIS 2026**, **UIST 2024**, **SIGGRAPH Asia 2025/2026 Emerging Technologies**, SUI 2023/2024, ISS 2024 Editorial Board, ISWC 2022, Augmented Humans 2024/2026. I served as a Demo Chair for ACM Augmented Humans 2021.
-- I regularly review papers for ACM CHI, UIST, IMWUT, TEI, DIS, IMX, SIGGRAPH (Technical Paper), IEEE ISMAR, IEEE VR, IEEE Haptics, IEEE World Haptics, IEEE Robotics and Automation Letters, International Journal of Human-Computer Studies.
+- I serve as an **Associate Chair** for **ACM CHI 2027**, **DIS 2026**, **UIST 2024**, **SIGGRAPH Asia 2025 & 2026 Emerging Technologies**, Augmented Humans 2024 & 2026.
+- I regularly review papers for ACM CHI, UIST, DIS, SIGGRAPH (Technical Paper), IEEE ISMAR, IEEE VR, IEEE Haptics, IEEE Robotics and Automation Letters, International Journal of Human-Computer Studies.
 
 ## Teaching
 
