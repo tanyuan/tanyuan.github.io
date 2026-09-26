@@ -6,4 +6,6 @@ title: "See through with the hands: seamless occluded interactions in Augmented 
 author: "Wei-Tang Hsu, <b>Shan-Yuan Teng</b>"
 publication:  "UIST 2026 Demo"
 thumbnail: /projects/seethrough-with-the-hands-thumbnail.jpg
+video: https://www.youtube.com/watch?v=JTZwTFzjgvI
+paper: /projects/seethroughwiththehands-uist26demo.pdf
 ---
