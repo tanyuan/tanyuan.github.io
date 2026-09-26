@@ -28,7 +28,7 @@ Shan-Yuan received their PhD in Computer Science from the University of Chicago,
 - Spring, 2026 **[CSIE7641: Multimodal Human-Computer Interaction](https://lab.tengshanyuan.info/class/multimodal-HCI)** (graduate)
 - Fall, 2025 **[CSIE5647: Making and Inventing Interactive Devices](https://lab.tengshanyuan.info/class/making-devices)** (undergrad)
 
-<h2>PhD thesis</h2>
+## Demos
 
 <div class="project-list">
   <ul>
@@ -37,18 +37,18 @@ Shan-Yuan received their PhD in Computer Science from the University of Chicago,
     {% capture project_year %}{{project.date | date: "%Y"}}{% endcapture %}
     {% capture project_published %}{{project.published}}{% endcapture %}
     {% capture project_category %}{{project.category}}{% endcapture %}
-    {% capture project_subcategory %}{{project.subcategory}}{% endcapture %}
 
-    {% if project_category == 'defense' and project_subcategory == 'first-author' and project_published != 'false' %}
+    {% if project_published != 'false' %}
+    {% if project_category == 'demo' %}
       <li>
 
           <div class="project-col-wrapper">
               <div class="project-col project-col-1">
-                  {% if project.video %}
-                  <a href="{{ project.video }}" title="watch defense...">
+                  {% if project.paper %}
+                  <a href="{{ project.paper }}" title="read PDF...">
                   {% endif %} 
                   <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-                  {% if project.video %}
+                  {% if project.paper %}
                   </a>
                   {% endif %} 
               </div>
@@ -62,14 +62,16 @@ Shan-Yuan received their PhD in Computer Science from the University of Chicago,
                   {% endif %}
                   {% if project.publication %}
                   <div class="project-publication">{{ project.publication }}</div>
-                  {% endif %}
+                  {% endif %}            
+                  
                   {% if project.award %}
                   <div class="project-award"><b>{{ project.award }}</b></div>
                   {% endif %}
+                  
                   <div class="project-link">
                   {% if project.paper %}
                   [
-                  <a href="{{ project.paper }}">Dissertation (PDF)</a>
+                  <a href="{{ project.paper }}">Paper (PDF)</a>
                   {% endif %}
                   {% if project.doi %}
                   <a href="{{ project.doi }}">(DOI)</a>
@@ -79,7 +81,7 @@ Shan-Yuan received their PhD in Computer Science from the University of Chicago,
                   {% endif %}
                   {% if project.video %}
                   [
-                  <a href="{{ project.video }}">Defense recording</a>
+                  <a href="{{ project.video }}">Video (YouTube)</a>
                   {% endif %}
                   {% if project.video_download %}
                   <a href="{{ project.video_download }}">(MP4)</a>
@@ -89,24 +91,25 @@ Shan-Yuan received their PhD in Computer Science from the University of Chicago,
                   {% endif %}
                   {% if project.permalink %}
                   [
-                  <a href="{{ project.url | prepend: site.baseurl }}">More info</a>
+                  <a href="{{ project.url | prepend: site.baseurl }}">Project page</a>
                   ]
                   {% endif %}
                   {% if project.website %}
                   [
-                  <a href="{{ project.website }}">Project website</a>
+                  <a href="{{ project.website }}">Project page</a>
                   ]
                   {% endif %}
                   </div>
+
               </div>
           </div>
 
       </li>
     {% endif %}
+     {% endif %}
     {% endfor %}
   </ul>
 </div>
-
 
 ## Publications
 
@@ -190,6 +193,86 @@ Shan-Yuan received their PhD in Computer Science from the University of Chicago,
     {% endfor %}
   </ul>
 </div>
+
+<h2>PhD thesis</h2>
+
+<div class="project-list">
+  <ul>
+    {% for project in site.projects reversed %}
+
+    {% capture project_year %}{{project.date | date: "%Y"}}{% endcapture %}
+    {% capture project_published %}{{project.published}}{% endcapture %}
+    {% capture project_category %}{{project.category}}{% endcapture %}
+    {% capture project_subcategory %}{{project.subcategory}}{% endcapture %}
+
+    {% if project_category == 'defense' and project_subcategory == 'first-author' and project_published != 'false' %}
+      <li>
+
+          <div class="project-col-wrapper">
+              <div class="project-col project-col-1">
+                  {% if project.video %}
+                  <a href="{{ project.video }}" title="watch defense...">
+                  {% endif %} 
+                  <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
+                  {% if project.video %}
+                  </a>
+                  {% endif %} 
+              </div>
+              <div class="project-col project-col-2">
+                  <span class="project-title">{{ project.title }}</span>
+                  {% if project.description %}
+                  <div class="project-description">{{ project.description }}</div>
+                  {% endif %}
+                  {% if project.author %}
+                  <div class="project-author">{{ project.author }}</div>
+                  {% endif %}
+                  {% if project.publication %}
+                  <div class="project-publication">{{ project.publication }}</div>
+                  {% endif %}
+                  {% if project.award %}
+                  <div class="project-award"><b>{{ project.award }}</b></div>
+                  {% endif %}
+                  <div class="project-link">
+                  {% if project.paper %}
+                  [
+                  <a href="{{ project.paper }}">Dissertation (PDF)</a>
+                  {% endif %}
+                  {% if project.doi %}
+                  <a href="{{ project.doi }}">(DOI)</a>
+                  {% endif %}
+                  {% if project.paper %}
+                  ]
+                  {% endif %}
+                  {% if project.video %}
+                  [
+                  <a href="{{ project.video }}">Defense recording</a>
+                  {% endif %}
+                  {% if project.video_download %}
+                  <a href="{{ project.video_download }}">(MP4)</a>
+                  {% endif %}
+                  {% if project.video %}
+                  ]
+                  {% endif %}
+                  {% if project.permalink %}
+                  [
+                  <a href="{{ project.url | prepend: site.baseurl }}">More info</a>
+                  ]
+                  {% endif %}
+                  {% if project.website %}
+                  [
+                  <a href="{{ project.website }}">Project website</a>
+                  ]
+                  {% endif %}
+                  </div>
+              </div>
+          </div>
+
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
 
 
 {% include footer.html %}
