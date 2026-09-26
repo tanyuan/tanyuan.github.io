@@ -2,14 +2,21 @@
 layout: bio
 ---
 
-Shan-Yuan Teng is an <b>Assistant Professor (Yushan Young Fellow)</b> leading <b><a href="https://lab.tengshanyuan.info">Dexterous Interaction Lab</a></b> in the Department of Computer Science & Information Engineering (CSIE) at <b>National Taiwan University</b> (NTU), Taipei, Taiwan.
+Shan-Yuan Teng is an Assistant Professor and Yushan Young Fellow in the Department of Computer Science & Information Engineering (CSIE) at **National Taiwan University** (NTU) in Taipei, Taiwan, where he leads the [Dexterous Interaction Lab](https://lab.tengshanyuan.info).
 
-Shan-Yuan’s research aims at advancing a new generation of **multimodal interactive devices**, specifically, **haptic devices** (e.g., those that can create a programmable sense of touch, forces, etc.), to enhance users' dexterity in a variety of interaction paradigms such as Virtual/Augmented Reality (VR/AR/XR), wearables, and assistive technologies. Shan-Yuan has published these works at top **Human-Computer Interaction (HCI) conferences** including **ACM CHI & UIST**. Shan-Yuan has also demonstrated works at SIGGRAPH & IEEE Haptics.
- 
-Shan-Yuan received their PhD in Computer Science at the **University of Chicago** advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan holds a Master's degree in Computer Science & Bachelor's degree in Electrical Engineering from National Taiwan University.
+Shan-Yuan's research advances a new generation of **multimodal user interfaces**, with a focus on **haptic devices** that create programmable sensations of touch and force. These devices aim to enhance users' dexterity across interaction paradigms such as virtual and augmented reality (VR/AR/XR), wearables, and assistive technologies. Their work has been published at premier **Human-Computer Interaction (HCI)** venues, including **ACM CHI and UIST**, and demonstrated at SIGGRAPH and IEEE Haptics.
 
-[&nbsp;tengshanyuan@csie.ntu.edu.tw&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]\\
+Shan-Yuan received their PhD in Computer Science from the University of Chicago, advised by [Prof. Pedro Lopes](http://plopes.org/). Shan-Yuan also holds an M.S. in Computer Science and a B.S. in Electrical Engineering from National Taiwan University.
+
+[&nbsp;tengshanyuan@csie.ntu.edu.tw&nbsp;] [&nbsp;[CV](/ShanYuanTeng_CV.pdf)&nbsp;] [&nbsp;[Google&nbsp;Scholar](https://scholar.google.com/citations?user=FOngQGAAAAAJ)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1079-097X)&nbsp;]  [&nbsp;[dblp](https://dblp.org/pid/198/1884.html)&nbsp;]\\
 <small>* Shan-Yuan is my first name</small>
+
+## Highlights
+
+- Shan-Yuan is leading a workshop at **UIST 2026** in Detroit: [Workshop on Augmenting Human Dexterity](https://augmenting-dexterity.web.app/) Join us!
+- **Two UIST 2026 Demos** from the lab got accepted:
+  - Augmenting Smartwatch with a Rollable Tentacle, led by Ping-Jhao Hsu
+  - See Through With The Hands: Seamless Occluded Interactions in Augmented Reality, led by Wei-Tang Hsu
 
 ## Academic service
 
