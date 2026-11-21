@@ -8,4 +8,5 @@ publication:  "UIST 2026 Demo"
 thumbnail: /projects/rollable-smartwatch-thumbnail.jpg
 video: https://www.youtube.com/watch?v=ubbO6UT3i_s
 paper: /projects/augmentingsmartwatch-uist26demo.pdf
+doi: https://doi.org/10.1145/3830397.3842466
 ---
